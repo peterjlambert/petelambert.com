@@ -134,7 +134,7 @@ I've made mistakes along the way. I learned pretty quickly about the importance 
 
 
 
-I upped my exercise, cycling 30-40 miles a day, every day for the first couple of weeks. The frequency of these rides has gone down now but the effort is higher. I use [Strava](http://www.strava.com/athletes/petelambert) to log my cycling performance and it's clear how much fitter and faster I've been getting. As my weight goes down, I get faster up the hills. As I get faster up the hills, I feel I can push harder. As I push harder I get fitter and lose more weight. A very happy circle. I'm getting a healthy tan, but only on my arms. My short-sleeve tan-line is razor-sharp.
+I upped my exercise, cycling 30-40 miles a day, every day for the first couple of weeks. The frequency of these rides has gone down now but the effort is higher. I use [Strava](https://www.strava.com/athletes/petelambert) to log my cycling performance and it's clear how much fitter and faster I've been getting. As my weight goes down, I get faster up the hills. As I get faster up the hills, I feel I can push harder. As I push harder I get fitter and lose more weight. A very happy circle. I'm getting a healthy tan, but only on my arms. My short-sleeve tan-line is razor-sharp.
 
 
 

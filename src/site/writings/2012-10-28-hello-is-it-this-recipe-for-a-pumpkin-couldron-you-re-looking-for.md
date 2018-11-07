@@ -10,13 +10,11 @@ keywords:
 
 
 
-[![Lionel-o-lantern](http://farm7.staticflickr.com/6095/6299472066_7e38f74c87_z.jpg)](http://www.flickr.com/photos/peterjlambert/6299472066/)
+![Lionel-o-lantern](https://oh.chuff.it/eYR9hfR4U.jpg)
 
 
 
-
-
-A couple of Halloweens ago I used a recipe I found on the [BBC Food](http://bbc.co.uk/food) website for a rather splendid Chicken and Pumpkin Couldron. I blogged about it on my [What I had for my tea](http://whatihadformytea.com/chicken-and-pumpkin-couldron) blog (no longer maintained). A tasty stew cooked and served in the shell of the pumpkin. The BBC has since deemed to break the internet and has taken to recipe down. Fortunately I had a copy printed out in the kitchen drawer so I've retyped it and am posting it here for seasonal posterity.
+A couple of Halloweens ago I used a recipe I found on the [BBC Food](http://bbc.co.uk/food) website for a rather splendid Chicken and Pumpkin Couldron. I blogged about it on my What I Had For My Tea blog (no longer maintained). A tasty stew cooked and served in the shell of the pumpkin. The BBC has since deemed to break the internet and has taken to recipe down. Fortunately I had a copy printed out in the kitchen drawer so I've retyped it and am posting it here for seasonal posterity.
 
 
 
@@ -90,7 +88,7 @@ Serves 4-6
 
 
 
-![Chicken and Pumpkin Couldron - Served](http://chuff.it/images/1.jpg?1351418165)
+![Chicken and Pumpkin Couldron - Served](https://oh.chuff.it/VhMW444ZS.jpg)
 
 
 

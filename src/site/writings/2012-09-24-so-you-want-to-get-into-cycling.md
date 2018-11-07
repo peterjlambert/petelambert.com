@@ -16,13 +16,13 @@ A friend got in touch to bend my ear about cycling. He's recently committed to a
 
 
 
-I got into mountain biking about 12 years ago but never particularly seriously. I played around at the local trail centre and had the odd adventure but it never really took over my life. About 3 years ago a friend of a friend mentioned that he was doing a charity 100 mile road ride in the Summer.  I immediately said I'd join him, put slick tyres on my mountain bike and got into training for the event in 6 months time. I lasted about a fortnight before I went out and bought my first road bike (a [Trek 1.5](http://www.trekbikes.com/us/en/bikes/2009/archive/15)).
+I got into mountain biking about 12 years ago but never particularly seriously. I played around at the local trail centre and had the odd adventure but it never really took over my life. About 3 years ago a friend of a friend mentioned that he was doing a charity 100 mile road ride in the Summer.  I immediately said I'd join him, put slick tyres on my mountain bike and got into training for the event in 6 months time. I lasted about a fortnight before I went out and bought my first road bike (a [Trek 1.5](https://www.trekbikes.com/us/en/bikes/2009/archive/15)).
 
 
 
 
 
-Since then I've got deeper and deeper into road cycling, upping my distance year on year and amassing more and more gear, experience and fitness. This year has been especially active. Combining training on the bike with trying to lose weight ([I've lost 5st now, don't ya know](http://chuff.it/articles/no-bread-beer-or-biscuits-how-i-lost-63lbs-in-100-days)) I got fitter and faster, which meant I lost more weight, and got fitter and faster. Nice and reciprocal. You can keep an eye on my cycling activities on [Strava](http://app.strava.com/athletes/102252).
+Since then I've got deeper and deeper into road cycling, upping my distance year on year and amassing more and more gear, experience and fitness. This year has been especially active. Combining training on the bike with trying to lose weight ([I've lost 5st now, don't ya know](/no-bread-beer-or-biscuits-how-i-lost-63lbs-in-100-days)) I got fitter and faster, which meant I lost more weight, and got fitter and faster. Nice and reciprocal. You can keep an eye on my cycling activities on [Strava](https://app.strava.com/athletes/102252).
 
 
 

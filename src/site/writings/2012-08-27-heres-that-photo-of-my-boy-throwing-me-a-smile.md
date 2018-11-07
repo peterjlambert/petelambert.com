@@ -7,5 +7,5 @@ keywords:
 - photography
 ---
 
-[![Brimham Rocks by Pete Lambert](http://farm8.staticflickr.com/7268/7765569828_b2e08ee696.jpg)](http://www.flickr.com/photos/peterjlambert/7765569828/)
-[Brimham Rocks](http://www.flickr.com/photos/peterjlambert/7765569828/), a photo by [Pete Lambert](http://www.flickr.com/photos/peterjlambert/) on Flickr.
+[![Brimham Rocks by Pete Lambert](http://farm8.staticflickr.com/7268/7765569828_b2e08ee696.jpg)](https://www.flickr.com/photos/peterjlambert/7765569828/)
+[Brimham Rocks](https://www.flickr.com/photos/peterjlambert/7765569828/), a photo by [Pete Lambert](https://www.flickr.com/photos/peterjlambert/) on Flickr.

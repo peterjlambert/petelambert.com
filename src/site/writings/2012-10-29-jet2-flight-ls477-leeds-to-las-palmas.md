@@ -7,13 +7,6 @@ keywords:
 ---
 
 
-
-[![Jet2 aeroplane wing](/images/4.jpg)](http://www.flickr.com/photos/peterjlambert/8135368908/)
-
-
-
-
-
 After half of a fairly fitful night's sleep the opening strains of The Band's Cripple Creek burst from the alarm clock like a slate sliding down the roof. We are awake and ready to go on holiday. A few final items are packed, teeth brushed and we're on the road, riding through the dark to West Yorkshire for a departure from Leeds Bradford International Airport to Las Palmas, Gran Canaria.
 
 

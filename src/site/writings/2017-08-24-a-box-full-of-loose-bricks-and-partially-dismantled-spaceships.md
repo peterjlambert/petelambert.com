@@ -9,7 +9,7 @@ keywords:
 
 
 
-![Loose Lego bricks on the floor](/images/2.jpg)
+![Loose Lego bricks on the floor](https://oh.chuff.it/toMNM4Gu8.jpg)
 
 I’m currently somewhere near the middle of a huge project I've undertaken at work. A total refactor of the web app's CSS. Over the 6 or so years we've been working on the product, the CSS codebase has grown bigger and messier as we’ve added features and redesigned certain aspects. When features have been built on a tight deadline, refactoring old CSS to fix specificity clashes has been pretty low on the list of priorities, and so the number and length of selectors has grown.
 
@@ -41,7 +41,7 @@ In the last couple of years though, as he approaches his teenage years, he's bee
 
 
 
-![Lego instruction manuals](/images/3.jpg)
+![Lego instruction manuals](https://oh.chuff.it/4aJfrkTTv.jpg)
 
 
 
