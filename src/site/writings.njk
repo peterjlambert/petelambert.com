@@ -1,0 +1,75 @@
+---
+title: Writings
+layout: layouts/main
+pagination:
+  data: collections.allPosts
+  size: 10
+  alias: posts
+---
+
+<main role="main" class="page">
+
+  <h1 class="page__title">Writings</h1>
+
+  <ol class="posts">
+    {% for post in posts %}
+
+      <li class="posts__item">
+        <article role="article" class="{% if post.data.link %}linked{% endif %} postSummary">
+          <header class="post__header">
+            <p class="meta">
+              <time datetime="{{ post.date | toISODate }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
+              {% if post.data.link %}
+                /
+                <a class="meta__permalink" href="{{ post.url }}">Permalink</a>
+              {% else %}
+                /
+                <span class="meta__stats">{{ post | readingTime }}</span>
+              {% endif %}
+
+              {% if post.data.draft %}
+                <strong class="meta__status meta__status--draft">Draft</strong>
+              {% endif %}
+            </p>
+
+            {% if post.data.link %}
+              <h1 class="post__headline">
+                <a title="{{ post.data.link }}" href="{{ post.data.link }}">
+                  {{ post.data.title }} →</a>
+              </h1>
+            {% else %}
+              <h1 class="post__headline">
+                <a href="{{ post.url }}">
+                  {{ post.data.title }}
+                </a>
+              </h1>
+            {% endif %}
+          </header>
+
+          <div class="post__excerpt">
+            <p>{{ post.data.excerpt }}</p>
+          </div>
+        </article>
+      </li>
+
+    {% endfor %}
+  </ol>
+
+  <footer class="pagination">
+    <p>
+      {% if pagination.previousPageLink %}
+        <a rel="prev" href="{{ pagination.previousPageLink }}" class="pagination__link pagination__link--newer">← Newer</a>
+        <span class="pagination__separator">/ </span>
+      {% endif %}
+
+      <span class="pagination__separator">{{collections.allPosts.length }} posts</span>
+
+      {% if pagination.nextPageLink %}
+        <span class="pagination__separator"> /</span>
+        <a rel="next" href="{{ pagination.nextPageLink }}" class="pagination__link pagination__link--older">Older →</a>
+      {% endif %}
+    </p>
+
+  </footer>
+
+</main>

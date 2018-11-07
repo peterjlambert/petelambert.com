@@ -1,0 +1,25 @@
+---
+layout: layouts/main
+---
+
+<header role="banner" class="mainHeader">
+  <h1 class="mainHeader__headline">
+    {{ headline }}
+  </h1>
+  <p class="mainHeader__description">
+    {{ meta.description }}
+  </p>
+</header>
+
+<main role="main" class="mainContent">
+
+  <section class="home-about home-offset">
+    <h1 class="f1">A little bit about me:</h1>
+
+    <div class="sans measure">
+      {{ content | safe }}
+    </div>
+  </section>
+
+</main>
+
