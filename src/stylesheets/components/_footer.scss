@@ -1,19 +1,18 @@
 .footer {
   background-color: var(--contrastBackgroundColor);
+  -webkit-clip-path: polygon(0 9%, 100% 0%, 100% 100%, 0% 100%);
+clip-path: polygon(0 9%, 100% 0%, 100% 100%, 0% 100%);
   color: var(--contrastForegroundColor);
   display: grid;
   grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr ;
   justify-self: flex-end;
-  padding-top: 3rem;
-  padding-bottom: 5rem;
-  transform: rotate(3deg) translateX(-5vw);
-  width: 110vw;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
 }
 
 .footer__nav {
   display: grid;
   grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
-  transform: rotate(-3deg);
   grid-column: 3/4;
   @media (max-width: 640px) {
     display: flex;
