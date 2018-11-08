@@ -4,7 +4,7 @@ layout: layouts/page
 date: 2018-08-19
 ---
 
-<p class="tc muted">
+<p class="meta">
   Updated on {{ date | niceDate }}
 </p>
 
@@ -17,8 +17,6 @@ This site's simple license:
 
 ```
 Copyright Pete Lambert, 2018
-
 You may steal the code of this site, and be inspired by its structure.
-
-You may not steal any writings of mine and claim them as your own.
+You may not steal any writings or photography of mine and claim them as your own.
 ```
