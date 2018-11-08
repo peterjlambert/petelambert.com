@@ -7,13 +7,16 @@
   --fsRegular: 1rem;
   --fsLittle: .75rem;
   // Colors
-  --backgroundColor: #e0e0e0;
-  --foregroundColor: #454545;
-  --linkColor:#336677;
-  --linkColor--hover: #48a1be;
+  --backgroundColor: #1a3c53;
+  --foregroundColor: #e0e0e0;
+  --linkColor:#6abeda;
+  --linkColor--hover: #98c7d6;
   --contrastLinkColor: #fff;
-  --contrastLinkColor--hover: #523b4e;
-  --contrastBackgroundColor: #b380a9;
+  --contrastLinkColor--hover: #195e75;
+  --contrastBackgroundColor: #48a1be;
   --contrastForegroundColor: #fff;
-  --lightTextColor: #565656;
+  --lightTextColor: rgba(255,255,255,.6);
+  @media (max-width: 640px) {
+      --baseFontSize: 16px;
+  }
 }
