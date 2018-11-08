@@ -4,6 +4,7 @@ date: '2013-01-01T11:01'
 slug: twenty-twelve
 keywords:
 - life
+excerpt: "I've been thinking back on the year. What an amazing 12 months it's been for me."
 ---
 
 

@@ -1,11 +1,12 @@
 ---
-title: 'Hello, is it (this recipe for a pumpkin couldron) you&#39;re looking for?'
+title: "Hello, is it (this recipe for a pumpkin couldron) you're looking for?"
 date: '2012-10-28T02:46'
 slug: hello-is-it-this-recipe-for-a-pumpkin-couldron-you-re-looking-for
 keywords:
 - health
 - food
 - recipe
+excerpt: "A couple of Halloweens ago I used a recipe I found on the BBC Food website for a rather splendid Chicken and Pumpkin Couldron. I blogged about it on my What I Had For My Tea blog (no longer maintained). A tasty stew cooked and served in the shell of the pumpkin. The BBC has since deemed to break the internet and has taken to recipe down. Fortunately I had a copy printed out in the kitchen drawer so I've retyped it and am posting it here for seasonal posterity."
 ---
 
 

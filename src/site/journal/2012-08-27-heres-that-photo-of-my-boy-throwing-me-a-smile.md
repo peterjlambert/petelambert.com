@@ -5,6 +5,7 @@ slug: that-photo-of-my-boy-throwing-me-a-smile
 keywords:
 - family
 - photography
+excerpt: "We visited Brimham Rocks, a beatiful part of the North Yorkshire Moors National Park."
 ---
 
 [![Brimham Rocks by Pete Lambert](https://farm8.staticflickr.com/7268/7765569828_b2e08ee696.jpg)](https://www.flickr.com/photos/peterjlambert/7765569828/)

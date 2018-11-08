@@ -1,5 +1,5 @@
 ---
-title: Writings
+title: Journal
 layout: layouts/main
 pagination:
   data: collections.allPosts
@@ -7,9 +7,12 @@ pagination:
   alias: posts
 ---
 
-<main role="main" class="page">
-
-  <h1 class="page__title">Writings</h1>
+<header role="banner" class="mainHeader">
+  <h1 class="mainHeader__headline">
+    Journal
+  </h1>
+</header>
+<main role="main" class="mainContent">
 
   <ol class="posts">
     {% for post in posts %}
@@ -17,6 +20,18 @@ pagination:
       <li class="posts__item">
         <article role="article" class="{% if post.data.link %}linked{% endif %} postSummary">
           <header class="post__header">
+            {% if post.data.link %}
+              <h2 class="post__headline">
+                <a title="{{ post.data.link }}" href="{{ post.data.link }}">
+                  {{ post.data.title }} →</a>
+              </h2>
+            {% else %}
+              <h2 class="post__headline">
+                <a href="{{ post.url }}">
+                  {{ post.data.title }}
+                </a>
+              </h2>
+            {% endif %}
             <p class="meta">
               <time datetime="{{ post.date | toISODate }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
               {% if post.data.link %}
@@ -32,18 +47,6 @@ pagination:
               {% endif %}
             </p>
 
-            {% if post.data.link %}
-              <h1 class="post__headline">
-                <a title="{{ post.data.link }}" href="{{ post.data.link }}">
-                  {{ post.data.title }} →</a>
-              </h1>
-            {% else %}
-              <h1 class="post__headline">
-                <a href="{{ post.url }}">
-                  {{ post.data.title }}
-                </a>
-              </h1>
-            {% endif %}
           </header>
 
           <div class="post__excerpt">

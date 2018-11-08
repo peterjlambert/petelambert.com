@@ -1,9 +1,10 @@
 ---
-title: 'I don&#39;t know my place on the web anymore'
+title: "I don't know my place on the web anymore"
 date: '2017-08-23T11:33'
 slug: i-don-t-know-my-place-on-the-web-anymore
 keywords:
 - 'the web'
+excerpt: "I’ve been thinking recently about my ‘web presence’. I don’t blog anymore. I haven’t in years. I’d like to get back into it but I suffer from the same problem I always have - whilst I enjoy writing, I don’t really feel like I have anything to write about."
 ---
 
 

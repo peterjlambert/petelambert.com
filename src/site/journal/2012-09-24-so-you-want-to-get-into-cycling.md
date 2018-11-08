@@ -6,6 +6,7 @@ keywords:
 - cycling
 - health
 - fitness
+excerpt: "A friend got in touch to bend my ear about cycling. He's recently committed to a long distance charity bike ride and wanted my advice on where to start with equipment, clothing and training. I'm no expert but I've been in a similar situation that led to cycling being a big part of my life. My email response to him was rather lengthy but I thought it might be of benefit to other newcomers to cycling so I've reworked it a little and published it here."
 ---
 
 

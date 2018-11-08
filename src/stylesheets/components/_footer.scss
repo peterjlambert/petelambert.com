@@ -1,0 +1,24 @@
+.footer {
+  background-color: var(--contrastBackgroundColor);
+  color: var(--contrastForegroundColor);
+  display: grid;
+  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr ;
+  justify-self: flex-end;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+  transform: rotate(3deg) translateX(-5vw);
+  width: 110vw;
+}
+
+.footer__nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr minmax(auto, 320px) minmax(auto, 320px) 1fr 1fr;
+  justify-content: space-between;
+  transform: rotate(-3deg);
+  grid-column: 3/4;
+  @media (max-width: 640px) {
+    padding-left: calc(5vw + 1rem);
+    padding-right: calc(5vw + 1rem);
+    max-width: 100vw;
+  }
+}

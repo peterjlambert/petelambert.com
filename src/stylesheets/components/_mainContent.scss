@@ -1,0 +1,11 @@
+.mainContent {
+  display: grid;
+  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr ;
+  padding-top: 3rem;
+  padding-bottom: 10rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  > * {
+    grid-column: 3/4;
+  }
+}

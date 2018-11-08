@@ -2,6 +2,7 @@
 title: 'Somewhere for Things to Land'
 date: '2012-08-27T11:44'
 slug: somewhere-for-things-to-land
+excerpt: "In the mid-2000s I had a blog. It was before Twitter and having a blog is just what you did. I sometimes had things to write about and discussions to have. Most of the time I was talking to myself but as long as I was getting things out of my head and onto the world wide web I was happy."
 ---
 
 
@@ -36,7 +37,7 @@ My blog is long lost. A victim of my tinkering as I've experimented with differe
 
 
 
-Lately though, things have changed again. I'm self employed now, doing things for myself and working in amazing projects that despite mostly being other people's products and dreams, I feel excited about and emotionally invested in. I've grown up a bit. My head is buzzing with disperate thoughts. I [tweet](http://twitter.com/peterjlambert) like it's going out of fashion (which I suppose it is), but still find myself left wanting. I delete drafts because I know I won't be able to make my point within the character limit. The thoughts stay in my head, still buzzing around with the others.
+Lately though, things have changed again. I'm self employed now, doing things for myself and working in amazing projects that despite mostly being other people's products and dreams, I feel excited about and emotionally invested in. I've grown up a bit. My head is buzzing with disperate thoughts. I [tweet](https://twitter.com/peterjlambert) like it's going out of fashion (which I suppose it is), but still find myself left wanting. I delete drafts because I know I won't be able to make my point within the character limit. The thoughts stay in my head, still buzzing around with the others.
 
 
 

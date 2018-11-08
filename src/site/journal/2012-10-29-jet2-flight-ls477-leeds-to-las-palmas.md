@@ -4,6 +4,7 @@ date: '2012-10-29T09:16'
 slug: jet2-flight-ls477-leeds-to-las-palmas
 keywords:
 - travel
+excerpt: "After half of a fairly fitful night's sleep the opening strains of The Band's Cripple Creek burst from the alarm clock like a slate sliding down the roof. We are awake and ready to go on holiday. A few final items are packed, teeth brushed and we're on the road, riding through the dark to West Yorkshire for a departure from Leeds Bradford International Airport to Las Palmas, Gran Canaria."
 ---
 
 

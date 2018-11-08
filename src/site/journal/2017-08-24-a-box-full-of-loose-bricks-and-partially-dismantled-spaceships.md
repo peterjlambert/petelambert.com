@@ -5,6 +5,7 @@ slug: a-box-full-of-loose-bricks-and-partially-dismantled-spaceships
 keywords:
 - family
 - 'the web'
+excerpt: "I took part in the [Aggregate100](http://aggregate100k.uk) last weekend. A 100km gravel enduro race comprising four timed stages of varying (but I’m assured atypically long) distances, each over the hilly and at times pretty technical off-road course on the bridleways, singletracks and forest roads of the North York Moors. "
 ---
 
 

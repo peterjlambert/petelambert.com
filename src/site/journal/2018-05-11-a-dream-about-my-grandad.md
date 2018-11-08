@@ -7,6 +7,7 @@ keywords:
 - death
 - family
 - dreams
+excerpt: "I had a lovely dream last night about my Grandad, who we lost about 20 years ago. He was a popular man and whilst not without his flaws, he was a hero of mine. I admired him greatly."
 ---
 
 

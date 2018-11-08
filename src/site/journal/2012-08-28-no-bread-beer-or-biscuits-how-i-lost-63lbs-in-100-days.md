@@ -4,6 +4,7 @@ date: '2012-08-28T11:15'
 slug: no-bread-beer-or-biscuits-how-i-lost-63lbs-in-100-days
 keywords:
 - health
+excerpt: "On the morning of Saturday May 19th, 2012 I awoke with a hangover. The previous night I'd been drinking in York with some friends and now felt truly awful, not just because of the booze and its after effects but because on a number of occasions on that night out that I'd been made aware of just how big a guy I was. Nothing mean or nasty was said. It was something I'd actually been bringing up myself, almost as an icebreaker. 'I'm Pete. I'm the big guy'. I realised I'd been doing this on nights out for a while."
 ---
 
 
@@ -34,77 +35,26 @@ Before I'd even eaten breakfast I'd launched whatever text-editing app I was fav
 
 The list read as follows:
 
-
-
-
-
-<blockquote>
-
->
->
->
->
-
 >   * Early to bed
->
-
 >   * Early to rise
->
-
 >   * Cycle in the morning
->
-
 >   * No bread, beer or biscuits
->
-
 >   * No wine
->
-
 >   * Smaller portions
->
-
 >   * Leave food on the plate
->
-
 >   * No bakery
->
-
 >   * Walk or cycle everywhere
->
-
 >   * Stay away from potatoes
->
-
 >   * More fish
->
-
 >   * Protein
->
-
 >   * No coffee or tea after lunch
->
-
 >   * Drink lots of water
->
-
 >   * Smaller plate
->
-
 >   * Green tea
->
-
 >   * Acai?
->
-
 >   * Switch mobile off in the evening
->
-
 >   * **Lose 4st by Christmas**
->
 
->
->
-	</blockquote>
 
 
 
