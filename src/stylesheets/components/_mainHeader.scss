@@ -1,8 +1,8 @@
 .mainHeader {
   display: grid;
   background-color: var(--contrastBackgroundColor);
-  -webkit-clip-path: polygon(0 0, 100% 0%, 100% 91%, 0% 100%);
-  clip-path: polygon(0 0, 100% 0%, 100% 91%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 3rem), 0% 100%);
+  clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 3rem), 0% 100%);
   color: var(--contrastForegroundColor);
   grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr ;
   padding-bottom: 5rem;
