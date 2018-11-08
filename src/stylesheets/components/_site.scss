@@ -1,0 +1,9 @@
+.site {
+  background-color: var(--backgroundColor);
+  color: var(--foregroundColor);
+  font-size: var(--baseFontSize);
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

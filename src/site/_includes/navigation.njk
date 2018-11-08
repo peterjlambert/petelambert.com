@@ -1,22 +1,21 @@
-<nav role="navigation" class="main-navigation" name="top">
-  <ul class="navigation__primary">
-    <li class="{% if slug == 'home' %}nav--current{% endif %}">
-      <a href="/">About me</a>
-    </li>
-    <li class="{% if page.fileSlug == 'writings' or tags == 'posts' %}nav--current{% endif %}">
-      <a href="/writings">Writings</a>
-    </li>
-    <li class="{% if page.fileSlug == 'contact' %}nav--current{% endif %}">
-      <a href="/contact">Contact</a>
-    </li>
-  </ul>
-
-  <ul class="navigation__secondary">
-    <li>
-      <a href="http://twitter.com/{{ meta.twitter }}">@{{ meta.twitter }}</a>
-    </li>
-    <li>
-      <a title="Oh, you don't have your personal API yet?" href="/meta.json">API</a>
-    </li>
-  </ul>
+<nav role="navigation" class="navigation" name="top">
+  <div class="navigation__lists">
+    <ul class="navigation__list">
+      <li class="{% if slug == 'home' %}navigation__item--current{% endif %} navigation__item">
+        <a href="/" class="navigation__link">About me</a>
+      </li>
+      <li class="{% if page.fileSlug == 'journal' or tags == 'posts' %}navigation__item--current{% endif %} navigation__item">
+        <a href="/journal" class="navigation__link">Journal</a>
+      </li>
+      <li class="{% if page.fileSlug == 'contact' %}navigation__item--current{% endif %} navigation__item">
+        <a href="/contact" class="navigation__link">Contact</a>
+      </li>
+      <li class="navigation__item">
+        <a href="http://twitter.com/{{ meta.twitter }}" class="navigation__link">@{{ meta.twitter }}</a>
+      </li>
+      <li class="navigation__item">
+        <a title="Oh, you don't have your personal API yet?" href="/meta.json" class="navigation__link">API</a>
+      </li>
+    </ul>
+  </div>
 </nav>

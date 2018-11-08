@@ -1,17 +1,15 @@
 ---
 layout: layouts/main
-htmlClass: post
 ---
+<header class="mainHeader">
+  <h1 itemprop="name" class="mainHeader__headline">{{ title }}</h1>
+</header>
 <main role="main" class="mainContent">
   <article role="article" itemscope itemtype="http://schema.org/BlogPosting" class="post">
-    <header class="post__header">
-      <h1 itemprop="name" class="post__headline">{{ title }}</h1>
-      <p class="meta">
-        <time datetime="{{ date | toISODate }}" itemprop="datePublished" title="{{ date | toRelativeDate }}" pubdate class="meta__pubDate">{{ date | niceDate }}</time>
-        <span class="meta__stats">About {{ content | readingTime }} reading time</span>
-      </p>
-    </header>
-
+    <p class="meta">
+      <time datetime="{{ date | toISODate }}" itemprop="datePublished" title="{{ date | toRelativeDate }}" pubdate class="meta__pubDate">{{ date | niceDate }}</time>
+      / <span class="meta__stats">About {{ content | readingTime }} reading time</span>
+    </p>
     <div class="post__body" itemprop="articleBody">
       {{ content | safe }}
     </div>

@@ -1,0 +1,33 @@
+.mainHeader {
+  display: grid;
+  background-color: var(--contrastBackgroundColor);
+  -webkit-clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 3rem), 0% 100%);
+  clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 3rem), 0% 100%);
+  color: var(--contrastForegroundColor);
+  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr ;
+  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+.mainHeader__headline {
+  font-weight: 900;
+  font-size: var(--fsJumbo);
+  line-height: 1.5em;
+  padding-bottom: 3rem;
+}
+
+.mainHeader__description {
+  font-size: var(--fsBig);
+  line-height: 1.5em;
+  padding: 0;
+  padding-bottom: 1.5rem;
+}
+
+.mainHeader__headline,
+.mainHeader__description{
+  grid-column: 3/4;
+}
+

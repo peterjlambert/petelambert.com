@@ -1,0 +1,25 @@
+.footer {
+  background-color: var(--contrastBackgroundColor);
+  -webkit-clip-path: polygon(0 3rem, 100% 0%, 100% 100%, 0% 100%);
+  clip-path: polygon(0 3rem, 100% 0%, 100% 100%, 0% 100%);
+  color: var(--contrastForegroundColor);
+  display: grid;
+  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr ;
+  align-self: flex-end;
+  padding-top: 5rem;
+  padding-bottom: 3rem;
+}
+
+.footer__nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
+  grid-column: 3/4;
+  @media (max-width: 640px) {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    max-width: 100vw;
+  }
+}

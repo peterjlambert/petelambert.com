@@ -1,0 +1,61 @@
+body {
+  font-size: var(--baseFontSize);
+  font-family: Lora, sans-serif;
+  line-height: 1.5em;
+}
+
+p, ul, ol {
+  padding-bottom: 1.5em;
+}
+
+
+h1, h2, h3, h4 {
+  font-family: Merriweather, serif;
+  font-weight: 600;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-size: var(--fsJumbo);
+}
+
+h2 {
+  font-size: var(--fsBigger);
+}
+
+h3 {
+  font-size: var(--fsBig);
+}
+
+a {
+  color: var(--linkColor);
+  text-decoration: none;
+  transition: .3s all ease;
+  &:hover {
+    color: var(--linkColor--hover);
+    text-decoration: underline;
+  }
+}
+
+blockquote {
+  border-left: 2px solid rgba(0,0,0,.1);
+  font-style: italic;
+  margin-left: 3rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+  padding-top: 1.5rem;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  border-bottom: 1px solid rgba(0,0,0,.2);
+  font-family: Merriweather, serif;
+  font-weight: 600;
+  text-align: left;
+}
+th, td {
+  padding: .5rem;
+}

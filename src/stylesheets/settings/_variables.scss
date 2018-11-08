@@ -1,0 +1,22 @@
+:root {
+  // Font Sizes
+  --baseFontSize: 20px;
+  --fsJumbo: 4rem;
+  --fsBigger: 2.5rem;
+  --fsBig: 1.5rem;
+  --fsRegular: 1rem;
+  --fsLittle: .75rem;
+  // Colors
+  --backgroundColor: #1a3c53;
+  --foregroundColor: #e0e0e0;
+  --linkColor:#6abeda;
+  --linkColor--hover: #98c7d6;
+  --contrastLinkColor: #fff;
+  --contrastLinkColor--hover: #195e75;
+  --contrastBackgroundColor: #48a1be;
+  --contrastForegroundColor: #fff;
+  --lightTextColor: rgba(255,255,255,.6);
+  @media (max-width: 640px) {
+      --baseFontSize: 16px;
+  }
+}
