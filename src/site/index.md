@@ -14,10 +14,16 @@ keywords:
   - web developer
 ---
 
-**I like building things** for the web. You'd _probably_ enjoy grabbing a beer or coffee with me. I also like reading, writing, strolling around in cities, playing the guitar, coffee, cooking, and photography.
+**I like the web**. I’ve been designing and building for it since 1999. I’ve lived through the browser wars and the do-com crash. I love doing what I do. It’s a great thing, being a veteran in what’s still a nascent industry. 
+
+Since 2010 I’ve been working for [Logikcull](https://logikcull.com) as a Senior UI Engineer. It’s a fantastic company made of fantastic people, and it gets me out of the house and over to San Francisco every so often. I like to stay flexible but really I’m an HTML/CSS specialist.
 
 ---
 
-I've been designing and writing code for around seven years now. So far, I've avoided to put myself under one label – to specialise in one thing only – and instead gone for this Jack of all Trades role in the various teams I've had the pleasure of working with. I like all things graphic and digital design, front and backend development, product and strategy, typography and API design, copywriting and CSS architecture.
+I’m also a cyclist, riding road, gravel and mountain bikes. I’m currently the Club Secretary for [Velo Club York](https://veloclubyork.co.uk). I log my rides on [Strava](https://strava.com/athletes/petelambert). Yorkshire provides when it comes to cycling. 
 
-**I love traveling.** I lived in Canada for a year before university, where I went completely offline and worked as a barista. In September 2015, I embarked upon this nomad thing of traveling the world while working remote. So far, I've lived and worked in Vienna, London, San Francisco, New York, Montréal, Asunción, Rio de Janeiro, and Copenhagen. Keep an eye out on ["Now"](/now) for updates. [Give me a shout](http://twitter.com/johanbrook) if we're in the same city! As of January 2018, I've settled in Stockholm, Sweden.
+I’m a [keen photographer](https://flickr.com/peterjlambert), I like a bit of snowboarding, I play a bit of guitar and I’ve played bass and sung in a few bands. I pick up new hobbies and passions pretty easily and pretty frequently. If I’m given the opportunity to try something new I’ll usually take it.
+
+I live in York, in the North of England. I’d like to be a Viking but I can’t grow a beard. 
+
+I’m married to my beautiful wife, Nicki and we have an amazing teenage son. They’re the most important bits. 
