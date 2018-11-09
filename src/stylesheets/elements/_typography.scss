@@ -1,6 +1,7 @@
 body {
   font-size: var(--baseFontSize);
-  font-family: Lora, sans-serif;
+  font-family: var(--ffBody);
+  font-weight: 200;
   line-height: 1.5em;
 }
 
@@ -10,21 +11,21 @@ p, ul, ol {
 
 
 h1, h2, h3, h4 {
-  font-family: Merriweather, serif;
+  font-family: var(--ffHeading);
   font-weight: 600;
   line-height: 1.5em;
 }
 
 h1 {
-  font-size: var(--fsJumbo);
-}
-
-h2 {
   font-size: var(--fsBigger);
 }
 
-h3 {
+h2 {
   font-size: var(--fsBig);
+}
+
+h3 {
+  font-size: var(--fsRegular);
 }
 
 a {
@@ -35,6 +36,14 @@ a {
     color: var(--linkColor--hover);
     text-decoration: underline;
   }
+}
+
+strong {
+  font-weight: 900;
+}
+
+em {
+  font-style: italic;
 }
 
 blockquote {
@@ -56,6 +65,16 @@ th {
   font-weight: 600;
   text-align: left;
 }
-th, td {
+th,
+td {
   padding: .5rem;
+}
+
+pre {
+  background-color: rgba(0,0,0,0.2);
+  font-size: var(--fsLittle);
+  font-family: 'Courier New', Courier, monospace;
+  max-width: 100%;
+  padding: 1rem;
+  white-space: pre-wrap;
 }
