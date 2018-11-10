@@ -1,6 +1,9 @@
 :root {
   // Font Sizes
   --baseFontSize: 20px;
+  @media (max-width: 640px) {
+    --baseFontSize: 16px;
+  }
   --fsJumbo: 4rem;
   --fsBigger: 2.5rem;
   --fsBig: 1.5rem;
@@ -23,7 +26,16 @@
   --contrastBackgroundColor: #48a1be;
   --contrastForegroundColor: #fff;
   --lightTextColor: rgba(255,255,255,.6);
-  @media (max-width: 640px) {
-      --baseFontSize: 16px;
-  }
+}
+
+.site--light {
+  --backgroundColor: #e0e0e0;
+  --foregroundColor: #1a3c53;
+  --linkColor:#137a9c;
+  --linkColor--hover: #356c7e;
+  --contrastLinkColor: #137a9c;
+  --contrastLinkColor--hover: #356c7e;
+  --contrastBackgroundColor: #d0d0d0;
+  --contrastForegroundColor: #1a3c53;
+  --lightTextColor: rgba(0,0,0,.4);
 }
