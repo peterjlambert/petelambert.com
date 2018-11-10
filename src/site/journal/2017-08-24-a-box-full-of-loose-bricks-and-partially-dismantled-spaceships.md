@@ -5,7 +5,7 @@ slug: a-box-full-of-loose-bricks-and-partially-dismantled-spaceships
 keywords:
 - family
 - 'the web'
-excerpt: "I took part in the [Aggregate100](http://aggregate100k.uk) last weekend. A 100km gravel enduro race comprising four timed stages of varying (but I’m assured atypically long) distances, each over the hilly and at times pretty technical off-road course on the bridleways, singletracks and forest roads of the North York Moors. "
+excerpt: "I’m currently somewhere near the middle of a huge project I've undertaken at work. A total refactor of the web app's CSS. Over the 6 or so years we've been working on the product, the CSS codebase has grown bigger and messier as we’ve added features and redesigned certain aspects. When features have been built on a tight deadline, refactoring old CSS to fix specificity clashes has been pretty low on the list of priorities, and so the number and length of selectors has grown."
 ---
 
 
