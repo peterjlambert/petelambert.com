@@ -6,7 +6,7 @@
 
 .navigation__lists {
   display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
+  grid-template-columns: 1fr 1fr minmax(auto, 1080px) 1fr 1fr;
   @media (max-width: 640px) {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -37,6 +37,11 @@
     color: var(--contrastLinkColor--hover);
     text-decoration: none;
   }
+}
+
+.navigation__link--header {
+  font-weight: 900;
+
 }
 
 
