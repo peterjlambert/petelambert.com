@@ -3,7 +3,7 @@ layout: layouts/home
 title: Pete Lambert ~ Chuff it
 headline: Chuff it
 slug: home
-description: I'm Pete Lambert; a husband, father, web UI engineer and keen cyclist from Yorkshire. Chuff it is where things land when they fall out of my head.
+description: I'm Pete Lambert; a husband, father, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
 keywords:
   - pete lambert
   - web designer
