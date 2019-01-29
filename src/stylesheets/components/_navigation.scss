@@ -50,9 +50,12 @@
 
 
 .navigation__item--current {
+  position: relative;
   &::after {
-    content: "";
     border-bottom: 2px solid var(--contrastLinkColor);
+    bottom: 0;
+    content: "";
+    position: absolute;
     width: 100%;
   }
 }
