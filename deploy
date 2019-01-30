@@ -16,7 +16,7 @@ fi
 
 remote=$(git config remote.origin.url)
 
-echo "Deploying https://chuff.it"
+echo "Deploying https://www.petelambert.com"
 echo ""
 echo "* Deploying commit:"
 echo "  $(git log -n 1)"
@@ -41,4 +41,4 @@ git push origin master:gh-pages --force --quiet
 rm -rf .git
 cd -
 
-echo "* Site deployed to https://chuff.it"
+echo "* Site deployed to https://www.petelambert.com"
