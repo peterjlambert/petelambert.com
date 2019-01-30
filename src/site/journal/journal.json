@@ -1,6 +1,5 @@
 {
   "layout": "layouts/post",
   "tags": "posts",
-  "permalink": "journal/{{ slug }}/index.html",
-  "description": "I'm Pete Lambert; husband, father, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head."
+  "permalink": "journal/{{ slug }}/index.html"
 }
