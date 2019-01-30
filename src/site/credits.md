@@ -11,7 +11,7 @@ date: 2018-08-19
 - This site is generated with the [11ty](https://www.11ty.io/) static site generator.
 - The source code of this site is [available on GitHub](https://github.com/peterjlambert/chuff.it).
 - I borrowed [Johan Brook's 11ty-based site](https://github.com/johanbrook/johanbrook.com) as a starting point when building Chuff.it
-- [Merriweather](https://fonts.google.com/specimen/Merriweather) from Google Fonts is used as heading and body font, and [Krub](https://fonts.google.com/specimen/Kruger) in the site header and footer navigation.
+- [Merriweather](https://fonts.google.com/specimen/Merriweather) from Google Fonts is used as heading and body font, and [Krub](https://fonts.google.com/specimen/Krub) in the site header and footer navigation.
 
 
 ### This site's simple license:
