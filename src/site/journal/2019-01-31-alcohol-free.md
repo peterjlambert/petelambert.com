@@ -36,7 +36,7 @@ It’s better than having a pint of Coke, but honestly I think I’d rather just
 
 ### Estrella Galacia 0.0
 
-<img src=“https://oh.chuff.it/pCI3PtxvI.jpg” alt=“Bottle and can of Estrella Galacia 0.0” class=“fr” height="400px">
+![Bottle and can of Estrella Galacia 0.0](https://oh.chuff.it/pCI3PtxvI.jpg#fr--400h)
 
 I’m not generally a lager drinker, but depending on the pub, a non-alcoholic lager might be your best option as the quality ‘craft’ ales can be harder to find. Estrella Galacia 0.0 is the best of these lagers that I’ve tried. Now, that’s a pretty low bar, but the Estrella at least manages to be crisp and light with a slight honey note (but not cloyingly sweet). It’s a refreshing drink and I could happily reach for it on those warm days when you really just fancy a lager.
 
@@ -53,7 +53,7 @@ Tastes like Heineken. If you like Heineken, you might well like this. A little b
 
 ### Erdinger Alkoholfrei
 
-<img src=“https://oh.chuff.it/voRLul5Os.jpg” alt=“Bottle of Erdinger Alkoholfrei” class=“fl” height="400px">
+![Bottle of Erdinger Alkoholfrei](https://oh.chuff.it/voRLul5Os.jpg#fl--400h)
 
 This is more of a Weissbier, a genre I’ve always struggled with. My usual experience with weissbier goes something like “Oooh, this is nice. Oh, there’s the instant hangover.” Alcohol free weissbier is a different kettle of fish altogether. Erdinger’s effort is pleasing, not too strong in flavour but strong enough, and it doesn’t come with the headache. And it’s ‘isotonic’, like Lucozade. So that’s basically beer that’s actively good for me, right?
 
@@ -88,7 +88,7 @@ I had this amber ale in Pivni, a little bar in York famous for its wide range of
 
 ### Nirvana Brewery Sutra IPA
 
-<img src=“https://oh.chuff.it/julBl3f4b.jpg” alt=“Bottle of Nirvana Sutra IPA” class=“fr” height="400px">
+![Bottle of Nirvana Sutra IPA](https://oh.chuff.it/julBl3f4b.jpg#fr--400h)
 
 This is just a good beer. It’s an IPA. It tastes like an IPA: hoppy, crisp, not too light. If it didn’t say it on the label, I wouldn’t know it was <0.5.  I would order and drink this whenever it’s available. I’ve given this to my drinking friends and family on nights out and they’ve subsequently ordered one for themselves.
 
@@ -110,7 +110,7 @@ Rich and velvety with a chocolate hint.  Mmmmmmm.
 
 ### Big Drop Milk Stout
 
-<img src=“https://oh.chuff.it/UZcenQDay.jpg” alt=“Bottle of Big Drop Milk Stout” class=“fl” height="400px">
+![Bottle of Big Drop Milk Stout](https://oh.chuff.it/UZcenQDay.jpg#fl--400h)
 
 Again, a departure for me, taste-wise. This is good, but probably falls into second place in the stouts, behind the Kosmic. It has a little smokiness to it, along with the chocolate and vanilla.
 

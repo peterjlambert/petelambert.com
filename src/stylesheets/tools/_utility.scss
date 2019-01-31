@@ -7,3 +7,15 @@
   float: right;
   margin: 0 0 1rem 1rem;
 }
+
+img[src*='#fl--400h'] {
+  max-height: 400px;
+  float: left;
+  margin: 0 1rem 1rem 0;
+}
+
+img[src*='#fr--400h'] {
+  max-height: 400px;
+  float: left;
+  margin: 0 0 1rem 1rem;
+}
