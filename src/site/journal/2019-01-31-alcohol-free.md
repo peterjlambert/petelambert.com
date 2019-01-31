@@ -1,7 +1,7 @@
 ---
 title: Alcohol Free
 date: 2019-01-31T13:34:43.314Z
-slug: Alcohol Free
+slug: alcohol-free
 excerpt: >
   I've knocked the booze on the head, so here's a look at some of the non-alcoholic beers I've been enjoying (or not).
 keywords:
