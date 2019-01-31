@@ -48,6 +48,7 @@ Not at all gassy like the Becks, but maybe actually a bit flat, in flavour as we
 ### Heineken 0.0
 Tastes like Heineken. If you like Heineken, you might well like this. A little bit of sweetness, not too carbonated.
 
+---
 
 ## Weissbiers
 
@@ -59,6 +60,7 @@ This is more of a Weissbier, a genre I’ve always struggled with. My usual expe
 
 [ERDINGER Weißbier Alkoholfrei](https://int.erdinger.de/beer/alkoholfrei.html)
 
+---
 
 ## Ales
 
@@ -99,8 +101,10 @@ Really nice. Another one on the list of “just a quality beer, regardless of AB
 
 [Big Drop Brewing Co.](https://www.bigdropbrew.com/)
 
+---
 
 ## Stouts
+
 ### Nirvana Brewery Kosmic Stout
 Delicious. I’m not normally a stout drinker but since starting this alcohol-free experiment I’ve tried a couple that I’ve really enjoyed. This is one of them. (The other is Big Drop’s Milk Stout).
 
