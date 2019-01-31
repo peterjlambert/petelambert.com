@@ -31,7 +31,6 @@
     "gulp-serve": "^1.4.0",
     "gulp-shell": "^0.6.5",
     "moment": "^2.22.2",
-    "netlify-cms": "^2.1.3",
     "require-dir": "^1.0.0",
     "typeset": "^0.2.2",
     "url-join": "^4.0.0"
