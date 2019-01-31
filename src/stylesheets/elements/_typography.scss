@@ -11,6 +11,7 @@ p, ul, ol {
 
 
 h1, h2, h3, h4 {
+  clear: both;
   font-family: var(--ffHeading);
   font-weight: 600;
   line-height: 1.5em;
@@ -83,5 +84,6 @@ pre {
 hr {
   border: 0;
   border-bottom: 1px solid rgba(0,0,0,.1);
+  clear: both;
   margin: 2rem 0;
 }
