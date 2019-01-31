@@ -81,12 +81,12 @@ Of the ales available in bars and supermarkets, this is the one I’ve seen most
 
 I’ve heard rumours that a non-alcoholic equivalent of Brewdog’s Punk IPA is forthcoming. I look forward to that.
 
-[Nanny State - BrewDog - BrewDog Beer - BrewDog](https://www.brewdog.com/item/61/BrewDog/Nanny-State.html)
+[Nanny State - BrewDog](https://www.brewdog.com/item/61/BrewDog/Nanny-State.html)
 
 ### Bernard Free Amber
 I had this amber ale in Pivni, a little bar in York famous for its wide range of beers from around the world. I was pleasantly surprised to find this non-alcoholic option and even more pleasantly surprised when I enjoyed it. I’m not normally one for an amber/semi-dark ale, preferring something pale and hoppy. This is malty with a caramel taste and a pleasant bitterness. I’m not sure I’d choose this if there were other available options, but it did tick some boxes.
 
-[BERNARD Free Amber - Family brewery BERNARD](https://www.bernard.cz/en/beer/assortment/bottled-beer/5.shtml)
+[BERNARD Free Amber](https://www.bernard.cz/en/beer/assortment/bottled-beer/5.shtml)
 
 ### Nirvana Brewery Sutra IPA
 
@@ -128,6 +128,6 @@ I haven’t given up the booze completely – still enjoy a single malt or the o
 
 If you want to try some of these beers for yourself, the supermarkets have a great selection. Tesco and Marks & Spencer seemed to have the most. Asda and Sainsbury’s are worth a visit too.
 
-You can buy online from sites like [Alcohol Free Beer, Non Alcoholic Wines, Spirits online shop | Dry Drinker](https://drydrinker.com/) who have a huge amount of choice and even some alcohol free spirits. That convenience comes at a premium though.
+You can buy online from sites like [Dry Drinker](https://drydrinker.com/) who have a huge amount of choice and even some alcohol free spirits. That convenience comes at a premium though.
 
 And fortunately, as Dry January has gained a lot of momentum this year, choice is increasing in pubs and bars too as they see greater demand from non-drinkers.
