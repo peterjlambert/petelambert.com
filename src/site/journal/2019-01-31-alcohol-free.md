@@ -14,7 +14,7 @@ keywords:
 ---
 Back in November I had a full health check. A proper service, including bloods, an ECG, lung capacity, physical resilience and fitness. It went really well and without wanting to brag, I’m the very specimen of a human being. A god amongst men. Well, that’s what the doctor said, anyway. I’ve never been one for resting on my laurels though and made my own assumptions from the results that my cycling performance in 2019 would benefit from me shedding a few kilograms. I looked at what I was currently doing and decided that booze and sugar could go. In mid-November I stopped drinking and eating biscuits.
 
-I’d [done this before](https://www.petelambert.com/journal/no-bread-beer-or-biscuits-how-i-lost-63lbs-in-100-days/), about  5 years ago, when cutting down on the worst stuff and improving my diet lead to me losing ~38kg. I only wanted to lose about 5 or 6 this time, and I already knew the drill.
+I’d [done this before](https://www.petelambert.com/journal/no-bread-beer-or-biscuits-how-i-lost-63lbs-in-100-days/), about  5 years ago, when cutting down on the worst stuff and improving my diet led to me losing ~38kg. I only wanted to lose about 5 or 6 this time, and I already knew the drill.
 
 Going into December as a non-drinker was a tricky prospect. So many nights out that I didn’t want to miss. So much Christmas ‘celebration’ to be done. I didn’t know how I’d deal with that or how those around me would take it. I didn’t know what I’d drink on those nights out. I didn’t fancy pints on pints of cola.
 
