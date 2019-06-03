@@ -79,8 +79,8 @@ td {
 
 pre,
 code {
-  background-color: rgba(0, 0, 0, 0.2);
-  font-size: var(--fsLittle);
+  background-color: rgba(0, 0, 0, 0.05);
+  font-size: var(--fsRegular);
   font-family: 'Courier New', Courier, monospace;
   max-width: 100%;
   padding: 1rem;
@@ -88,8 +88,9 @@ code {
 }
 
 code {
+  font-style: normal;
   max-width: none;
-  padding: .25em;
+  padding: 0 .25em;
   white-space: normal;
 }
 
