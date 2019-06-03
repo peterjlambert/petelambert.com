@@ -1,9 +1,11 @@
 :root {
   // Font Sizes
   --baseFontSize: 20px;
+
   @media (max-width: 640px) {
     --baseFontSize: 16px;
   }
+
   --fsJumbo: 3rem;
   --fsBigger: 2.5rem;
   --fsBig: 1.5rem;
@@ -11,25 +13,20 @@
   --fsLittle: .75rem;
 
   // Font families
-  --ffBody: 'Merriweather', serif;
-  --ffHeading: 'Merriweather', serif;
-  --ffNav: 'Krub', sans-serif;
-  --ffCode: Consolas, monaco, monospace;
+  --ffBody: 'Merriweather',
+  serif;
+  --ffHeading: 'Merriweather',
+  serif;
+  --ffNav: 'Krub',
+  sans-serif;
+  --ffCode: Consolas,
+  monaco,
+  monospace;
 
 
-  // Colors
-  --backgroundColor: #1a3c53;
-  --foregroundColor: #e0e0e0;
-  --linkColor:#6abeda;
-  --linkColor--hover: #98c7d6;
-  --contrastLinkColor: #fff;
-  --contrastLinkColor--hover: #195e75;
-  --contrastBackgroundColor: #48a1be;
-  --contrastForegroundColor: #fff;
-  --lightTextColor: rgba(255,255,255,.6);
-}
 
-.site--light {
+
+  // Light mode / default colours
   --backgroundColor: #fcfbfa;
   --foregroundColor: #1a3c53;
   --linkColor:#116986;
@@ -38,5 +35,18 @@
   --contrastLinkColor--hover: #147c9e;
   --contrastBackgroundColor: #efefef;
   --contrastForegroundColor: #1a3c53;
-  --lightTextColor: rgba(0,0,0,.6);
+  --lightTextColor: rgba(0, 0, 0, .6);
+
+  @media (prefers-color-scheme: dark) {
+    // Dark Mode Colours
+    --backgroundColor: #1a3c53;
+    --foregroundColor: #e0e0e0;
+    --linkColor: #6abeda;
+    --linkColor--hover: #98c7d6;
+    --contrastLinkColor: #fff;
+    --contrastLinkColor--hover: #195e75;
+    --contrastBackgroundColor: #48a1be;
+    --contrastForegroundColor: #fff;
+    --lightTextColor: rgba(255, 255, 255, .6);
+  }
 }
