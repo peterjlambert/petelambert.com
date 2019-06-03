@@ -31,11 +31,11 @@ h3 {
 
 a {
   color: var(--linkColor);
-  text-decoration: none;
+  text-decoration: underline;
   transition: .3s all ease;
   &:hover {
     color: var(--linkColor--hover);
-    text-decoration: underline;
+    text-decoration: dotted;
   }
 }
 
