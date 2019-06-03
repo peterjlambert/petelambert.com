@@ -77,13 +77,20 @@ td {
   padding: .5rem;
 }
 
-pre {
+pre,
+code {
   background-color: rgba(0, 0, 0, 0.2);
   font-size: var(--fsLittle);
   font-family: 'Courier New', Courier, monospace;
   max-width: 100%;
   padding: 1rem;
   white-space: pre-wrap;
+}
+
+code {
+  max-width: none;
+  padding: .25em;
+  white-space: normal;
 }
 
 
