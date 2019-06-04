@@ -1,7 +1,7 @@
 {
   "name": "chuff.it",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Homepage of Pete Lambert",
   "scripts": {
     "build": "gulp build",
@@ -15,31 +15,31 @@
     "url": "https://github.com/peterjlambert/chuff.it"
   },
   "author": "Pete Lambert <pete@chuff.it>",
-  "license": "Copyright Pete Lambert (2018)",
+  "license": "Copyright Pete Lambert (2019)",
   "bugs": {
     "url": "https://github.com/peterjlambert/chuff.it/issues"
   },
   "homepage": "https://chuff.it",
   "dependencies": {
     "@11ty/eleventy": "0.5.3",
-    "@11ty/eleventy-plugin-rss": "^1.0.2",
+    "@11ty/eleventy-plugin-rss": "^1.0.6",
     "@11ty/eleventy-plugin-syntaxhighlight": "^1.0.5",
     "eleventy-plugin-reading-time": "0.0.1",
-    "gulp": "^4",
+    "gulp": "^4.0.2",
     "gulp-clean": "^0.4.0",
-    "gulp-sass": "^4",
+    "gulp-sass": "^4.0.2",
     "gulp-serve": "^1.4.0",
     "gulp-shell": "^0.6.5",
-    "moment": "^2.22.2",
-    "require-dir": "^1.0.0",
+    "moment": "^2.24.0",
+    "require-dir": "^1.2.0",
     "typeset": "^0.2.2",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.6",
-    "slug": "^0.9.1"
+    "browser-sync": "^2.26.5",
+    "slug": "^0.9.4"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=10.1.0"
   }
 }
