@@ -33,7 +33,7 @@ It’s not a case of looking for perfection at this stage in the process - just 
 
 It’s been a learning experience for me, not only because I’ve never been this involved in hiring before, but also because I’ve got to see how other people work - how many different approaches can be taken to complete the same goal. In the same way that I love to see other people’s desk setups, their iPhone home screens and their `.dotfiles`, watching how somebody writes their code is fascinating, even if at times it’s a little infuriating.
 
-But we haven’t found the right person for the job yet, so if you’re a Frontend Engineer who loves being a Frontend Engineer, drop us a line.[Logikcull - Frontend Engineer](https://jobs.lever.co/logikcull/ebf4ea7a-cfa7-4432-881d-194f1d24e583).
+But we haven’t found the right person for the job yet, so if you’re a Frontend Engineer who loves being a Frontend Engineer, drop us a line. [Logikcull - Frontend Engineer](https://jobs.lever.co/logikcull/ebf4ea7a-cfa7-4432-881d-194f1d24e583).
 
 ## Around the Web
 * [Uibot -- Infinite UI designs](https://www.uibot.app/) - This is brilliant. An app that randomly, programatically produces app UIs. 
