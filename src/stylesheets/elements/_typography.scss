@@ -2,19 +2,24 @@ body {
   font-size: var(--baseFontSize);
   font-family: var(--ffBody);
   font-weight: 200;
-  line-height: 1.75em;
+  line-height: 1.625em;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
   padding-bottom: 1.5em;
 }
 
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
   clear: both;
   font-family: var(--ffHeading);
   font-weight: 700;
-  line-height: 1.5em;
+  line-height: 1.25em;
 }
 
 h1 {
@@ -33,6 +38,7 @@ a {
   color: var(--linkColor);
   text-decoration: underline;
   transition: .3s all ease;
+
   &:hover {
     color: var(--linkColor--hover);
     text-decoration: dotted;
@@ -48,9 +54,8 @@ em {
 }
 
 blockquote {
-  border-left: 2px solid rgba(0,0,0,.1);
+  border-left: 2px solid rgba(0, 0, 0, .1);
   font-style: italic;
-  margin-left: 3rem;
   margin-bottom: 1.5rem;
   padding-left: 1.5rem;
   padding-top: 1.5rem;
@@ -61,29 +66,38 @@ table {
 }
 
 th {
-  border-bottom: 1px solid rgba(0,0,0,.2);
+  border-bottom: 1px solid rgba(0, 0, 0, .2);
   font-family: Merriweather, serif;
   font-weight: 600;
   text-align: left;
 }
+
 th,
 td {
   padding: .5rem;
 }
 
-pre {
-  background-color: rgba(0,0,0,0.2);
-  font-size: var(--fsLittle);
+pre,
+code {
+  background-color: rgba(0, 0, 0, 0.05);
+  font-size: var(--fsRegular);
   font-family: 'Courier New', Courier, monospace;
   max-width: 100%;
   padding: 1rem;
   white-space: pre-wrap;
 }
 
+code {
+  font-style: normal;
+  max-width: none;
+  padding: 0 .25em;
+  white-space: normal;
+}
+
 
 hr {
   border: 0;
-  border-bottom: 1px solid rgba(0,0,0,.1);
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
   clear: both;
   margin: 2rem 0;
 }

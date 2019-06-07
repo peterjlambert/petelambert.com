@@ -5,10 +5,15 @@
 
   ul {
     list-style-type: disc;
-    padding-left: 1em;
+    padding-left: 0;
   }
 
-  h2, h3 {
+  li {
+    margin-bottom: .5em;
+  }
+
+  h2,
+  h3 {
     padding-bottom: .5em;
     padding-top: 1em;
   }
