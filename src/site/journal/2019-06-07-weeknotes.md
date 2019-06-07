@@ -1,4 +1,17 @@
-# Week Notes w/c 3rd May 2019
+---
+title: Weeknotes - w/c 3 June 2019
+date: 2019-06-07T11:32:18+01:00
+slug: weeknotes-03-Jun-2019
+excerpt: >
+ This week's notes featuring a Pokemon film, a radio play, an upcoming gig and a bunch of web dev links. 
+keywords:
+  - Music
+  - Movies
+  - Work
+  - Web Design
+  - Web development
+  - Radio
+---
 
 ## I watched
 I took my son to the cinema to see **Detective Pikachu**. I was never into Pokemon as a kid (although I remember quite enjoying the cartoons as a teenager), and I’ve never got into the many video games that have been released since. I did, however, enjoy a few card battles with my boy when he got into collecting a few years ago, and the Pokemon Go iOS app proved a great bonding opportunity. What I’m saying was that I was familiar with the concept and the characters of Pokemon before stepping into the cinema. Beyond that I had no idea what to expect. Turns out it’s brilliantly funny. So cleverly written and the lead characters hilariously portrayed by Justice Smith (The Get Down) and Ryan Reynolds (Deadpool). It’s a very funny film. I haven’t lol’d so much in a cinema for a long time. 
@@ -23,13 +36,13 @@ It’s been a learning experience for me, not only because I’ve never been thi
 But we haven’t found the right person for the job yet, so if you’re a Frontend Engineer who loves being a Frontend Engineer, drop us a line.[Logikcull - Frontend Engineer](https://jobs.lever.co/logikcull/ebf4ea7a-cfa7-4432-881d-194f1d24e583).
 
 ## Around the Web
-* [Uibot — Infinite UI designs](https://www.uibot.app/) - This is brilliant. An app that randomly, programatically produces app UIs. 
+* [Uibot -- Infinite UI designs](https://www.uibot.app/) - This is brilliant. An app that randomly, programatically produces app UIs. 
 * [Self-Host Your Static Assets – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2019/05/self-host-your-static-assets/)
 * [What’s in my 2019 WWDC Travel Bag – The Sweet Setup](https://thesweetsetup.com/whats-in-my-2019-wwdc-travel-bag/) - I’m not going to WWDC but it doesn’t matter. I love these kinds of blog posts. Travel blogs, tech blogs, whatever. Just tell me what’s in your bag and I’ll lap it up.
 * [Building the most inaccessible site possible with a perfect Lighthouse score - Manuel Matuzović](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) - A fun and important demonstration of why a ‘pass’  in your automated accessibility testing suite does not and accessible site make.  
 * [Data Tables](http://inclusive-components.design/data-tables/) - A detailed article on building inclusive data tables. I think i’ll be purchasing the book too. [Inclusive Components – Heydon Pickering](http://book.inclusive-components.design)
 * [Everything Apple Announced at WWDC 2019 in Nine Minutes - MacRumors](https://www.macrumors.com/2019/06/03/everything-apple-announced-at-wwdc/) - I’m especially excited about Catalyst, and how potentially easy it will be for developers of my favourite iOS apps to create versions for the Mac. I wonder what it will mean for apps that already have a Mac counterpart (like Twitterrific). With only one codebase to maintain we could see some amazing developments.
-* [How Frontend Developers Can Help To Bridge The Gap Between Designers And Developers — Smashing Magazine](https://www.smashingmagazine.com/2019/05/frontend-developers-designers/) - As a Frontend Developer, I’ve always felt that a really important part of the role is the act as a conduit between design and those developers deeper in the stack. This is a great read about how we can all help each other at every step of the process.
+* [How Frontend Developers Can Help To Bridge The Gap Between Designers And Developers -- Smashing Magazine](https://www.smashingmagazine.com/2019/05/frontend-developers-designers/) - As a Frontend Developer, I’ve always felt that a really important part of the role is the act as a conduit between design and those developers deeper in the stack. This is a great read about how we can all help each other at every step of the process.
 * [Web Maker](https://webmaker.app/) - This is interesting. An offline, browser-based CodePen-like web playground.
 * [An Introduction to ARIA States | a11y with Lindsey](https://www.a11ywithlindsey.com/blog/introduction-aria-states/) - Attributes to help communicate the state of components in your app.
 * [The View From Above (Paid Post by Allbirds from The New York Times)](https://www.nytimes.com/paidpost/allbirds/the-view-from-above.html) - This is a beautiful use of depth, colour, sound and motion in web design. I’d love to build something like this (and I might just).
