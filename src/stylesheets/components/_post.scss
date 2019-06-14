@@ -3,9 +3,14 @@
     max-width: 100%;
   }
 
-  ul {
+  ul,
+  ol {
     list-style-type: disc;
     padding-left: 0;
+
+    @media (max-width: 640px) {
+      padding-left: 1em;
+    }
   }
 
   li {
@@ -17,5 +22,4 @@
     padding-bottom: .5em;
     padding-top: 1em;
   }
-
 }
