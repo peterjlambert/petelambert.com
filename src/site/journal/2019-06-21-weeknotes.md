@@ -55,5 +55,3 @@ A lot of HTML related links this week. Quite a few were recommended reading from
 * [3 Simple Tips to Improve Keyboard Accessibility | a11y with Lindsey](https://www.a11ywithlindsey.com/blog/3-simple-tips-improve-keyboard-accessibility/)
 * [CodePen - CSS Grid: Coupons!](https://codepen.io/oliviale/full/wbyVWr?utm_campaign=Piccalilli%2B%E2%80%94%2BTangy%2C%2BCurated%2BCSS%2BLinks&utm_medium=email&utm_source=Piccalilli_%E2%80%94_Tangy%2C_Curated_CSS_Links_13) - I’ve been trying to do this kind of thing more often - seeing layouts in real life and recreating then in HTML and CSS. Grid and Flexbox are so powerful for doing this. 
 * [An Introduction to ARIA States | a11y with Lindsey](https://www.a11ywithlindsey.com/blog/introduction-aria-states/)
-
-#weeknotes
