@@ -1,4 +1,4 @@
-—
+---
 title: Weeknotes - w/c 17th June 2019
 date: 2019-06-21T10:33:41+01:00
 slug: weeknotes-17-Jun-2019
@@ -14,7 +14,7 @@ keywords:
   - accessibility 
   - a11y
   - css
-—
+---
 
 ## The response to my HTML article
 Last Friday I sat down with my morning coffee, put Love Island on the TV and started writing a paragraph about how [annoyed I was by ‘Frontend Engineers’ who couldn’t write decent HTML](https://www.petelambert.com/journal/html-is-the-web/). That turned into a bit of a ranty essay which I then published on this site. The response I’ve had to that article has been overwhelming. My Twitter notifications have been ringing off the hook, I’ve been getting emails asking for markup advice, and some just wishing me well and thanking me for my article. I’ve seen other blog posts quoting heavily from the piece and putting forth their own thoughts, and I’ve had some fantastic discussions.
