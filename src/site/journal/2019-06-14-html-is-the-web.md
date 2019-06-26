@@ -51,7 +51,7 @@ Please do this. Make the Web a better place by building it responsibly. There’
 * Find out about [how assistive technologies access the Web](https://www.smashingmagazine.com/2019/02/accessibility-webinar/)
 * Look at the [HTML specs](https://www.w3.org/TR/html52/), or even just at a list of [HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and their uses.
 * If you work in a team of developers, have discussions about markup. Have lively conversations about whether _something_ should be a `table` or a `dl`
-([The Description List Element - MDN](https://www.w3schools.com/html/html_lists.asp)). It’s great fun, I promise.
+([The Description List Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)). It’s great fun, I promise.
 * Find out who the HTML expert in your team is and ask them to review your code. If that person is me, I’m always happy to have that discussion.
 
 If you'd like to discuss any of this, I'm happy to have that chat. See my [contact page](https://www.petelambert.com/contact) for ways to get in touch.
