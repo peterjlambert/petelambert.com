@@ -1,5 +1,18 @@
-# Week Notes w/c 24th June 2019
-#weeknotes
+---
+title: Weeknotes - w/c 24 June 2019
+date: 2019-06-28T10:30:18+01:00
+slug: weeknotes-24-Jun-2019
+excerpt: >
+  In which I go a bit viral, ride my bike to a cliff edge, sleep under the stars, get the band back together, and put together a list of great web development articles and resources 
+keywords:
+  - html
+  - css
+  - a11y
+  - accessibility
+  - music
+  - cycling
+  - bikepacking
+---
 
 ## The Hacker News Effect
 As I mentioned in last week’s notes, the immediate reaction to my [HTML is the Web](https://www.petelambert.com/journal/html-is-the-web/) article was fantastic. My phone hasn’t stopped buzzing with Twitter notifications and emails from well-wishers and those asking advice. It’s been a lovely experience.
@@ -10,7 +23,7 @@ I don’t have analytics on this blog, but my DNS provider, [Cloudflare](https:/
 
 This in turn, has led to some great conversations and comment threads. I’ve tried not to get involved on the main [HN thread](https://news.ycombinator.com/item?id=20283207) itself, because I know what that forum can be like and I didn’t have time to get embroiled in flame wars, but I have to say that the vast majority of feedback I’ve had has been positive, encouraging and empathetic. It seems it struck a real chord in the industry and I’m honoured to have been able to do that. I really hope the momentum continues and that it encourages others to speak up and hopefully help to make the web a better place for everyone, user and developer alike.
 
-> “The author is right, but this comes off very much as ‘old man yells at cloud’ to me. Sorry.”
+> "The author is right, but this comes off very much as ‘old man yells at cloud’ to me. Sorry."
  [My favourite comment](https://news.ycombinator.com/item?id=20286958) on the Hacker News thread for my article.
 
 
@@ -35,7 +48,7 @@ On Thursday I made my monthly trip to Bishopthorpe for the Open Mic night. It’
 
 Fortunately, it went well. I mean, it was rough - we were doing vocal harmonies that we’d never practiced and songs that I barely knew how to play, but it was fun and that’s what counts.
 
-I stayed on stage afterwards to do a few myself - all covers, because who’s got time to write these days. I opened with a song that I’ve been playing in my bedroom for 25 years but I’ve never been able to muster the courage to perform in public. It was “Round Here” by Counting Crows, but after 25 years of noodling, it sounds nothing like the original. It’s a challenging vocal and a long song (about six minutes). It’s also quite emotional for me to play. I shouldn’t have started with it, in retrospect. I was absolutely shaking afterwards from the adrenaline. 
+I stayed on stage afterwards to do a few myself - all covers, because who’s got time to write these days. I opened with a song that I’ve been playing in my bedroom for 25 years but I’ve never been able to muster the courage to perform in public. It was "Round Here" by Counting Crows, but after 25 years of noodling, it sounds nothing like the original. It’s a challenging vocal and a long song (about six minutes). It’s also quite emotional for me to play. I shouldn’t have started with it, in retrospect. I was absolutely shaking afterwards from the adrenaline. 
 
 It’s difficult to tell what the reception is like on these gigs. Everybody is so nice and supportive that you can’t tell if they’ve genuinely enjoyed the show. I hope they did. I enjoyed playing it.
 
@@ -53,7 +66,7 @@ It’s difficult to tell what the reception is like on these gigs. Everybody is 
 * [CSS :focus-within](https://davidwalsh.name/css-focus-within) - Not something I’d used before but I’l definitely be using it in future.  When you add functionality on `:hover`, it’s only right to also make that usable by keyboard and assistive tech users.
 * [Three Predictions From the State of CSS 2019 Survey | CSS-Tricks](https://css-tricks.com/three-predictions-from-the-state-of-css-2019-survey/)
 * [Making Tables Responsive With Minimal CSS · Bradley Taunt](https://bradleytaunt.com/responsive-tables/) - This is always a challenge I really relish. I’ve used the Flexbox with labels technique in the past and I’ve played around with using Grid with `display: contents` on the `tr`. 
-* [Style your default global links using the :not CSS selector - Alex Carpenter](https://alexcarpenter.me/screencasts/2019/02/global-link-styles/) - Every so often you see a little tip like this that just makes you say out loud “That’s a good idea”. It almost always happens when you’re in public and talking to yourself is greeted with sideways looks. 
+* [Style your default global links using the :not CSS selector - Alex Carpenter](https://alexcarpenter.me/screencasts/2019/02/global-link-styles/) - Every so often you see a little tip like this that just makes you say out loud "That’s a good idea". It almost always happens when you’re in public and talking to yourself is greeted with sideways looks. 
 * [Delight Comes Last: Matthew Ström](https://matthewstrom.com/writing/delight-comes-last/) - Focus on the important stuff first. The glitter comes later.
 * [Static Indieweb pt2: Using Webmentions: Max Böck](https://mxb.dev/blog/using-webmentions-on-static-sites/) - Enabling WebMention support in static site generators. This blog is run on 11ty, so I found this useful. 
 * [How a Pro Photographer Edits iPhone Photos](https://thewirecutter.com/blog/how-a-pro-photographer-edits-iphone-photos/?utm_source=rss&utm_medium=feed&utm_campaign=RSS%20Feed) - I’ve always been into photography. More recently, whether I’m carrying my ‘good’ camera or just using my phone, I do all my editing either on the iPhone or iPad.
