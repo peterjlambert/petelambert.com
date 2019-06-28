@@ -45,13 +45,13 @@ I continued back up the ridge to Sutton Bank, past some dog walkers and a young 
 And of course, as it was the shortest night of the year, I woke up at 4am with the sun and was home in time for breakfast with my family.
 
 ## Open Mic
-On Thursday I made my monthly trip to Bishopthorpe for the Open Mic night. It’s been a busy four weeks for me since the last one and I haven’t really had time to practice. I had a good idea of what I’d play though and was confident with my selection.  The potential spanner in the works though, was that I’d agreed to play a few songs with my good friends and erstwhile band mates, Jon and Dave. We hadn’t actually played together for about 12 years, and couldn’t arrange time in our busy lives to get together beforehand to rehearse, so the only practice we had before stepping onto the stage was 20 minutes in Jon’s garden an hour before we were due to play.
+On Thursday I made my monthly trip to Bishopthorpe for the Open Mic night. It’s been a busy four weeks for me since the last one and I haven’t really had time to practice. I had a good idea of what I’d play though and was confident with my selection.  The potential spanner in the works though, was that I’d agreed to play a few songs with my good friends and erstwhile band mates, Jon and Dave. We hadn’t actually played together for about 12 years and couldn’t arrange time in our busy lives to get together beforehand to rehearse, so the only practice we had before stepping onto the stage was 20 minutes in Jon’s garden an hour before we were due to play.
 
 Fortunately, it went well. I mean, it was rough - we were doing vocal harmonies that we’d never practiced and songs that I barely knew how to play, but it was fun and that’s what counts.
 
 I stayed on stage afterwards to do a few myself - all covers, because who’s got time to write these days. I opened with a song that I’ve been playing in my bedroom for 25 years but I’ve never been able to muster the courage to perform in public. It was "Round Here" by Counting Crows, but after 25 years of noodling, it sounds nothing like the original. It’s a challenging vocal and a long song (about six minutes). It’s also quite emotional for me to play. I shouldn’t have started with it, in retrospect. I was absolutely shaking afterwards from the adrenaline.
 
-It’s difficult to tell what the reception is like on these gigs. Everybody is so nice and supportive that you can’t tell if they’ve genuinely enjoyed the show. I hope they did. I enjoyed playing it.
+It’s difficult to tell what the reception is like on these gigs. Everybody is so nice and supportive that you can’t tell if they’ve genuinely enjoyed the show. I hope they did because I enjoyed playing it.
 
 
 ## Reading List
