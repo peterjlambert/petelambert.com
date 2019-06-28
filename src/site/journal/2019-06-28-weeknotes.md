@@ -3,7 +3,7 @@ title: Weeknotes - w/c 24 June 2019
 date: 2019-06-28T10:30:18+01:00
 slug: weeknotes-24-Jun-2019
 excerpt: >
-  In which I go a bit viral, ride my bike to a cliff edge, sleep under the stars, get the band back together, and put together a list of great web development articles and resources
+  In which I go a bit viral, ride my bike to a cliff edge, sleep under the stars, get the band back together, and put together a list of great web development articles and resources.
 keywords:
   - html
   - css
