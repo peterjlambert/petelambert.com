@@ -24,6 +24,7 @@ I don’t have analytics on this blog, but my DNS provider, [Cloudflare](https:/
 This in turn, has led to some great conversations and comment threads. I’ve tried not to get involved on the main [HN thread](https://news.ycombinator.com/item?id=20283207) itself, because I know what that forum can be like and I didn’t have time to get embroiled in flame wars, but I have to say that the vast majority of feedback I’ve had has been positive, encouraging and empathetic. It seems it struck a real chord in the industry and I’m honoured to have been able to do that. I really hope the momentum continues and that it encourages others to speak up and hopefully help to make the web a better place for everyone, user and developer alike.
 
 > "The author is right, but this comes off very much as ‘old man yells at cloud’ to me. Sorry."
+
  [My favourite comment](https://news.ycombinator.com/item?id=20286958) on the Hacker News thread for my article.
 
 
