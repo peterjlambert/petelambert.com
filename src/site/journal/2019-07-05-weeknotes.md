@@ -44,12 +44,12 @@ You can [read the full interview here](https://www.logikcull.com/blog/pete-lambe
 ## Reading List
 * [Where Do You Learn HTML & CSS in 2019? | CSS-Tricks](https://css-tricks.com/where-do-you-learn-html-css-in-2019/) - A question that’s been asked of me a few times over the last couple of weeks. 
 * [Bruce Lawson's  personal site  : A short note on HTML5 article, section and hgroup](https://www.brucelawson.co.uk/2019/html5-article-section-hgroup/) - This is a little golden nugget of sectioning info. 
-* [The Lean Web | Go Make Things](https://gomakethings.com/talks/the-lean-web/) - Chris Ferdinandi talks about the importance of keeping it simple. 
+* [The Lean Web | Go Make Things](https://gomakethings.com/talks/the-lean-web/) - Chris Ferdinandi talks about fixing the web by pushing for simple. 
 * [Short note on what CSS display properties do to table semantics | TPG – Digital Accessibility Solutions](https://developer.paciellogroup.com/blog/2018/03/short-note-on-what-css-display-properties-do-to-table-semantics/) - Changing the `display` in table elements is my favourite way to achieve responsive tables, but this has shown me that I need to be a little more thoughtful in order to maintain accessibility. 
 * [Tables, CSS Display Properties, and ARIA | Adrian Roselli](http://adrianroselli.com/2018/02/tables-css-display-properties-and-aria.html) - More on responsive, accessible tables with ARIA
 * [HTML can do that?](https://dev.to/ananyaneogi/html-can-do-that-c0n) - This is great. I’m always a proponent of using the least powerful tool to do the job. Why use JavaScript to do something that HTML can do on its own? Some of this stuff is still lacking wide support but it can be used now and progressively enhanced. 
 * [Limitations of HTML Email Templates in MailChimp - Designmodo](https://designmodo.com/mailchimp-limitations-email/) - I’ve had call to work on some HTML email templates recently and whilst it’s nowhere near as bad as it used to be, it’s still a pain in the arse. 
-* [Elika J. Etemad (fantasai) | CSS Line Layout and Vertical Rhythm | CSS Day 2019 - YouTube](https://www.youtube.com/watch?v=OtlGo48iTOk)
+* [Elika J. Etemad (fantasai) | CSS Line Layout and Vertical Rhythm | CSS Day 2019 - YouTube](https://www.youtube.com/watch?v=OtlGo48iTOk) - This is something I’ve been working on with our designers at Logikcull recently so this video couldn’t have dropped at a better time. An in depth look into how type is displayed in the browser.
 * [CSS Grid Generator](https://cssgrid-generator.netlify.com/) - A super-handy GUI for creating CSS Grid layouts, and for learning how Grid can be used. 
 * [Optimizing Google Fonts Performance -- Smashing Magazine](https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/)
 * [CSS Named Colours](https://codepen.io/ananyaneogi/pen/YoLQQy) - All the names colours we can use in CSS, presented as handy swatches. 
