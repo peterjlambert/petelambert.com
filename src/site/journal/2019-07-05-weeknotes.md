@@ -2,7 +2,8 @@
 title: Weeknotes - w/c 1st July 2019
 date: 2019-07-05T12:54:08+02:00
 slug: weeknotes-01-jul-2019
-excerpt: > In which I wave my brother and his family off to Singapore, take myself and my wife off to a Spanish island, get interviewed about HTML, and collate a fantastic collection of frontend web dev links for you to sift through.
+excerpt: > 
+ In which I wave my brother and his family off to Singapore, take myself and my wife off to a Spanish island, get interviewed about HTML, and collate a fantastic collection of frontend web dev links for you to sift through.
  
 keywords:
   - family
