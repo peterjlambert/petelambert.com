@@ -28,7 +28,7 @@ After the party we moved on to quality family time. Making the most of us all be
 I’m going to miss them, but we live in the future and that means that they’re not actually going away. They’re just in a different room when we video chat. 
 
 ## Taking a Short Break
-I’m away on holiday at the weekend. Just some time in the sun with my amazing wife. We’ve both had a bit of stress this year, so it’s great to get away from it all for a week, turn off Slack notifications (which is less stressful when the rest of my US-based company is also offline for the long Independence Day weekend), lay back on a sun lounger by the pool and catch up on some reading and some sleep.
+I’m away on holiday at the moment. Just some time in the sun with my amazing wife. We’ve both had a bit of stress this year, so it’s great to get away from it all for a week, turn off Slack notifications (which is less stressful when the rest of my US-based company is also offline for the long Independence Day weekend), lay back on a sun lounger by the pool and catch up on some reading and some sleep.
 
 This is going to be a real recharge holiday for me. I’ve been tracking my sleep for a few months and found that I’m struggling to get out of sleep debt. It’s a tricky cycle to break so hopefully this will help. Just completely switching off. 
 
