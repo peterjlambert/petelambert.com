@@ -51,7 +51,7 @@ pagination:
           </header>
 
           <div class="post__body">
-            {{ post.data.content }}
+            {{ post.data.content | safe }}
           </div>
         </article>
       </li>
