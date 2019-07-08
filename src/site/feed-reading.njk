@@ -1,5 +1,5 @@
 ---
-permalink: feed.xml
+permalink: feed-reading-list.xml
 metadata:
   title: Pete Lambert ~ Chuff it.
   url: https://www.petelambert.com
@@ -7,9 +7,9 @@ metadata:
     name: Pete Lambert
     email: pete@petelambert.com
   feed:
-    filename: feed.xml
+    filename: feed-reading-list.xml
     path: feed/feed.xml
-    url: https://www.petelambert.com/feed.xml
+    url: https://www.petelambert.com/feed-reading-list.xml
     id: https://www.petelambert.com
 ---
 <?xml version="1.0" encoding="utf-8"?>
@@ -17,13 +17,13 @@ metadata:
   <title>{{ metadata.title }}</title>
   <link href="{{ metadata.feed.url }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
-  <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.reading | rssLastUpdatedDate }}</updated>
   <id>{{ metadata.feed.id }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
     <email>{{ metadata.author.email }}</email>
   </author>
-  {%- for post in collections.allPosts %}
+  {%- for post in collections.reading %}
   {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ post.data.title }}</title>
