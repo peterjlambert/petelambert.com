@@ -16,7 +16,7 @@ pagination:
 <main role="main" class="mainContent">
 
   <ol class="posts">
-    {% for post in posts %}
+    {% for post in posts | reverse %}
 
       <li class="posts__item">
         <article class="{% if post.data.link %}linked{% endif %} postSummary">
