@@ -51,7 +51,7 @@ pagination:
           </header>
 
           <div class="post__body">
-            {{ post.content }}
+            {{ post.templateContent }}
           </div>
         </article>
       </li>
@@ -66,7 +66,7 @@ pagination:
         <span class="pagination__separator">/ </span>
       {% endif %}
 
-      <span class="pagination__separator">{{collections.allPosts.length }} posts</span>
+      <span class="pagination__separator">{{collections.reading.length }} posts</span>
 
       {% if pagination.nextPageLink %}
         <span class="pagination__separator"> /</span>
