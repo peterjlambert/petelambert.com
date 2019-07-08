@@ -1,6 +1,6 @@
 ---
-title: Journal
-description: I'm Pete Lambert; husband, father, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
+title: Reading List
+description: I'm Pete Lambert. These are the (mostly Frontend web development) things I've been reading
 layout: layouts/main
 pagination:
   data: collections.reading
@@ -10,7 +10,7 @@ pagination:
 
 <header role="banner" class="mainHeader">
   <h1 class="mainHeader__headline">
-    Journal
+    Reading List
   </h1>
 </header>
 <main role="main" class="mainContent">
@@ -50,8 +50,8 @@ pagination:
 
           </header>
 
-          <div class="post__body">
-            {{ post.data.content | safe }}
+          <div class="post__excerpt">
+            {{ post.data.excerpt }}
           </div>
         </article>
       </li>
