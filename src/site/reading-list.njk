@@ -3,7 +3,7 @@ title: Journal
 description: I'm Pete Lambert; husband, father, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
 layout: layouts/main
 pagination:
-  data: collections.posts
+  data: collections.reading
   size: 10
   alias: posts
 ---
@@ -50,9 +50,8 @@ pagination:
 
           </header>
 
-          <div class="post__excerpt">
-            <p>{{ post.data.excerpt }}</p>
-            <p><a href="{{ post.url }}">Continue reading&hellip;</a></p>
+          <div class="post__body">
+            {{ content | safe }}
           </div>
         </article>
       </li>
