@@ -1,11 +1,17 @@
 .page__text {
+  padding-top: 3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
   img {
     max-width: 100%;
   }
+
   ul {
     list-style-type: disc;
     padding-left: 1em;
   }
+
   h3 {
     padding-bottom: .5em;
   }

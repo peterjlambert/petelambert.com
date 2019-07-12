@@ -1,15 +1,15 @@
 ---
 layout: layouts/main
 ---
-<header role="banner" class="mainHeader">
-  <h1 class="mainHeader__headline">
-    {{ title }}
-  </h1>
-  <p class="mainHeader__description">
-    {{ meta.description }}
-  </p>
-</header>
 <main role="main" class="mainContent">
+  <header role="banner" class="mainHeader">
+    <h1 class="mainHeader__headline">
+      {{ title }}
+    </h1>
+    <p class="mainHeader__description">
+      {{ meta.description }}
+    </p>
+  </header>
   <article class="page">
     <div class="page__text">
       {{ content | safe }}
