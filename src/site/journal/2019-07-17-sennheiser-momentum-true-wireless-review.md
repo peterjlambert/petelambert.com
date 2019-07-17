@@ -14,9 +14,9 @@ keywords:
   - user experience
   - ux
 ---
-I do like buying headphones and it’s something I don’t mind spending a bit of money on. I listen to a lot of music and a lot of podcasts and I value the isolation and immersiveness that a good set of headphones or earbuds can give.
+I do like buying headphones and it’s something I don’t mind spending a bit of money on. I listen to a lot of music and a lot of podcasts and I value the isolation and immersiveness that a good set of headphones or earbuds can give. I also value the freedom that being wire-free offers. I use wireless headphones far more than wired because they're neater, tidier and often more comfortable.
 
-Last year I bought some [Sennheiser Momentum Free](https://en-uk.sennheiser.com/headphones-bluetooth-momentum-free) on a trip to the US. They were fantastic. I’m no deep audiophile but I thought they sounded wonderful. They're small and lightweight and comfortable too. Unfortunately they went through the washing machine and now they’re in the bin. So I decided to replace them with their new true-wireless (no neck-cord) sibling, the [Sennheiser MOMENTUM True Wireless](https://en-uk.sennheiser.com/truewireless-details). They were quite expensive and a bit of an extravagant purchase, but I felt like treating myself.
+Last year I bought some [Sennheiser MOMENTUM Free](https://en-uk.sennheiser.com/headphones-bluetooth-momentum-free) on a trip to the US. They were fantastic. I’m no deep audiophile but I thought they sounded wonderful. They're small and lightweight and comfortable too. Unfortunately they went through the washing machine and now they’re in the bin. So I decided to replace them with their new true-wireless (no neck-cord) sibling, the [Sennheiser MOMENTUM True Wireless](https://en-uk.sennheiser.com/truewireless-details). They were quite expensive and a bit of an extravagant purchase, but I felt like treating myself.
 
 Over the last couple of months I’ve had a few little issues with them that I’d brushed off at the time, but this morning when I came to jot a few of them down in a tweet, I realised there were too many for Twitter. This needed a proper Pros and Cons list.
 
@@ -44,4 +44,4 @@ I spent a lot of money on these things. I treated myself and I don’t feel bad 
 
 However, every single time I use these headphones, at least one of the cons listed above annoys me. It does not make for a great experience.  In fact, I’d say that the great audio is massively outweighed by the absolutely horrible UX. My gamble did not pay off and now I’m either stuck using these and not being happy with them, or I’m going to have to start the search again and buy something that brings me joy.
 
-Basically, I wouldn’t recommend the Sennheiser Momentum True Wireless.
+Basically, I wouldn’t recommend buying the Sennheiser MOMENTUM True Wireless.
