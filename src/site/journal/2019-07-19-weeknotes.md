@@ -1,33 +1,33 @@
-—
+---
 title: Weeknotes - w/c 15 July 2019
 date: 2019-07-19T12:00:04+01:00
 slug: weeknotes-15-Jul-2019
 excerpt: >
-  In which I rock the party in the most polite way possible, pick a banjo, bemoan bad headphone UX and read a bunch of great front-end web dev articles. 
+  In which I rock the party in the most polite way possible, pick a banjo, bemoan bad headphone UX and read a bunch of great front-end web dev articles.
 keywords:
   - css
   - JavaScript
   - front-end
-  - a11y 
-  - accessibility 
+  - a11y
+  - accessibility
   - music
   - guitar
   - banjo
   - band
-—
+---
 
 ## Me and my friends rocked the Vicar’s garden
-On Saturday afternoon me, Dave and Jon, played our first gig together in over twelve years. Through Becki, one of the organisers of the open mic night we’ve been frequenting since the start of the year, we’d been invited to perform at the St Andrew’s Church Bishopthorpe Summer Garden Party. 
+On Saturday afternoon me, Dave and Jon, played our first gig together in over twelve years. Through Becki, one of the organisers of the open mic night we’ve been frequenting since the start of the year, we’d been invited to perform at the St Andrew’s Church Bishopthorpe Summer Garden Party.
 
-We got together the night before and somehow put together a set of eight songs. We spent about 90 minutes practicing, working out harmonies and cues, etc. before parting ways and hoping for the best. We would reconvene at the gates of the vicarage the next day. 
+We got together the night before and somehow put together a set of eight songs. We spent about 90 minutes practicing, working out harmonies and cues, etc. before parting ways and hoping for the best. We would reconvene at the gates of the vicarage the next day.
 
-None of us really knew what to expect. I mean, we assumed it would be different from playing a city-centre dive bar and we assumed, given the implied nature of the audience, that everyone would be very polite to us as long as we didn’t blaspheme too much. Those assumptions played out accurately. The atmosphere was very relaxed as people milled around the large garden drinking Prosecco, buying raffle tickets, winning wine on the tombola and nibbling cream teas. There were people of all ages present, although the demographic skewed pretty heavily into the 60-90 age group. 
+None of us really knew what to expect. I mean, we assumed it would be different from playing a city-centre dive bar and we assumed, given the implied nature of the audience, that everyone would be very polite to us as long as we didn’t blaspheme too much. Those assumptions played out accurately. The atmosphere was very relaxed as people milled around the large garden drinking Prosecco, buying raffle tickets, winning wine on the tombola and nibbling cream teas. There were people of all ages present, although the demographic skewed pretty heavily into the 60-90 age group.
 
-Everything was just very free and loose. We played a few, Becki played a few, I sang backing for Becki on a few and we all played some individually before getting back on stage as a band to close out the event. 
+Everything was just very free and loose. We played a few, Becki played a few, I sang backing for Becki on a few and we all played some individually before getting back on stage as a band to close out the event.
 
-As a trio, we play songs that we all like, in a style that we all like. None of us have any aspirations of pop stardom, we’re just doing it for us. Serendipitously then, our songs went down really well with that crowd. Our mixture of folk-y ballads, 70s folk rock and vocal harmonies seemed to strike a chord. The comments we received afterwards were heartwarming. We’ve been asked back for next Summer. 
+As a trio, we play songs that we all like, in a style that we all like. None of us have any aspirations of pop stardom, we’re just doing it for us. Serendipitously then, our songs went down really well with that crowd. Our mixture of folk-y ballads, 70s folk rock and vocal harmonies seemed to strike a chord. The comments we received afterwards were heartwarming. We’ve been asked back for next Summer.
 
-Onto the next one - I’m playing an open mic next Thursday and then a charity gig in early August. I’m really enjoying myself. 
+Onto the next one - I’m playing an open mic next Thursday and then a charity gig in early August. I’m really enjoying myself.
 
 ## I bought a banjo
 More on the music front - a lot of the music I’ve been listening to over the last year or so has been in the bluegrass and indie-folk genres. It’s made me a much better guitarist, listening to and playing those songs having previously been stuck in a Britpop time warp for 25 years. I’ve had a hankering to learn a new instrument though - especially now that we’re getting the band back together and we’re basically three guitarists. To augment that sound, it was either going to be double bass or 5-string bluegrass banjo. I live in a small house, so banjo it was.
