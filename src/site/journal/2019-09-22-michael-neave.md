@@ -1,3 +1,18 @@
+---
+title: Eating - Michael Neave's Kitchen and Whisky Bar
+date: 2019-09-22T21:14:25+01:00
+slug: michael-neave
+excerpt: > 
+  The first of my two nights in Scotland's capital and I visited quite a lovely restaurant. 
+ 
+keywords:
+  - food
+  - restaurant
+  - dining
+  - edinburgh 
+  - review
+---
+
 This week I’m visiting Edinburgh for [Finch Conf](https://finchconf.uk), a wonderful-looking web development conference. This means a couple of nights in a strange city and at least for this first night, I’m dining alone. 
 
 I set out from my New Town hotel in the rain in search of food and with no plans. I’d seen a few places on Foursquare but was feeling indecisive. I started on a drizzly wander towards the old town to explore. 
