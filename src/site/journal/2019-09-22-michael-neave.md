@@ -20,5 +20,5 @@ The main course of Venison saddle; beautifully pink and wrapped in smokey bacon.
 
 I had scanned the dessert menu when I was seated and whilst the Bowmore barbar looked very tempting at £6.50, I opted to call it a day on two courses and go to a pub for a whisky or two before getting my head down. 
 
-Michael Naeve’s restaurant is a must-visit if you’re in Edinburgh. If you’re not, it’s a reason to go there.
+Michael Neave’s restaurant is a must-visit if you’re in Edinburgh. If you’re not, it’s a reason to go there.
 
