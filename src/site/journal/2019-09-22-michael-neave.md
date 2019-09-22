@@ -27,13 +27,13 @@ The young waiter on the door seemed hesitant to take in this damp, solo diner an
 
 I ordered a glass of wine from a waiter somehow more snooty than the man from the bar and at the same time made my dinner choices. King scallops with black pudding and pea purée to start, followed by a venison saddle main. 
 
-The scallops were delicious. Perfectly cooked and resting on a plate Rich in their cooking liquor. The black pudding was moist but with a delightful crisp to its edges. The pea purée was also there. It added moisture to the plate but not much flavour. 
+The scallops were delicious. Perfectly cooked and resting on a plate rich in their cooking liquor. The black pudding was moist but with a delightful crisp to its edges. The pea purée was also there. It added moisture to the plate but not much flavour. 
 
 By this time, care of my table was being shared between the the original waiter and another, rather less snooty woman who seemed happy that I was enjoying my meal. 
 
-The main course of Venison saddle; beautifully pink and wrapped in smokey bacon. I’m not generally  fan of things wrapped in bacon or pancetta. I can make an exception here. The salty, smokey flavour of the bacon was the perfect foil for its tender, meaty contents.  It was served with confit potatoes, kale, turned baby carrots, a butternut purée and the richest jus. 
+The main course was venison saddle; beautifully pink and wrapped in smokey bacon. I’m not generally  fan of things wrapped in bacon or pancetta. I can make an exception here. The salty, smokey flavour of the bacon was the perfect foil for its tender, meaty contents.  It was served with confit potatoes, kale, turned baby carrots, a butternut purée and the richest jus. 
 
-I had scanned the dessert menu when I was seated and whilst the Bowmore barbar looked very tempting at £6.50, I opted to call it a day on two courses and go to a pub for a whisky or two before getting my head down. 
+I had scanned the dessert menu when I was seated and whilst the Bowmore baba looked very tempting at £6.50, I opted to call it a day on two courses and go to a pub for a whisky or two before getting my head down. 
 
 Michael Neave’s restaurant is a must-visit if you’re in Edinburgh. If you’re not, it’s a reason to go there.
 
