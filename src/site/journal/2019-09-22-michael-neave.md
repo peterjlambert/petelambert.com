@@ -19,7 +19,7 @@ I set out from my New Town hotel in the rain in search of food and with no plans
 
 Taking a shortcut up a steep alleyway to get out of the rain, I spotted a name I recognised from my research, Michael Neave Kitchen and Whisky bar. I ducked inside and asked if there was a table for one. 
 
-The young waiter on the door  seemed hesitant to take in this damp, solo diner and checked with the slightly snooty, older man behind the bar who gave a stern nod. I was led downstairs to the dining room, a spacious, modern affair with tables well spaced and music on the trip-hip side of jazz. Despite the layout, I was surprised to be able to detect that every one of my fellow diners that evening were middle-aged travelling Americans. 
+The young waiter on the door seemed hesitant to take in this damp, solo diner and checked with the slightly snooty, older man behind the bar who gave a stern nod. I was led downstairs to the dining room, a spacious, modern affair with tables well spaced and music on the trip-hip side of jazz. Despite the layout, I was surprised to be able to detect that every one of my fellow diners that evening were middle-aged travelling Americans. 
 
 > “So, Paris, Barcelona, Edinburgh. What’s been your favourite place so far?”
 
@@ -29,7 +29,7 @@ I ordered a glass of wine from a waiter somehow more snooty than the man from th
 
 The scallops were delicious. Perfectly cooked and resting on a plate Rich in their cooking liquor. The black pudding was moist but with a delightful crisp to its edges. The pea purée was also there. It added moisture to the plate but not much flavour. 
 
-By this time, care of my table was being shared between the snooty man and a rather less snooty woman who seemed happy that I was enjoying my meal. 
+By this time, care of my table was being shared between the the original waiter and another, rather less snooty woman who seemed happy that I was enjoying my meal. 
 
 The main course of Venison saddle; beautifully pink and wrapped in smokey bacon. I’m not generally  fan of things wrapped in bacon or pancetta. I can make an exception here. The salty, smokey flavour of the bacon was the perfect foil for its tender, meaty contents.  It was served with confit potatoes, kale, turned baby carrots, a butternut purée and the richest jus. 
 
