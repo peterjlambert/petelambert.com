@@ -1,6 +1,6 @@
 ---
 layout: layouts/page
-title: Links Chuff it
+title: Links
 headline: Links
 slug: links
 description: Here's a list of things I'm linking to right now.
