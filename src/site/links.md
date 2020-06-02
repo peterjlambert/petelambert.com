@@ -1,5 +1,5 @@
 ---
-layout: layouts/home
+layout: layouts/page
 title: Links | Pete Lambert | Chuff it
 headline: Links
 slug: links
