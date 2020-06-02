@@ -26,7 +26,7 @@ keywords:
 * [Lennox house fire GoFundMe](https://www.gofundme.com/f/drxd9-emergency-help) - My friend's family had a house fire and need some help.
 
 ## Social Media
-* (Pete Lambert on Twitter)[https://twitter.com/peterjlambert]
-* (Pete Lambert on Instagram)[https://instagram.com/peterjlambert]
-* (Lockdown Open Mic on Twitter)[https://twitter.com/lockdownopenmic]
-* (Lockdown Open Mic on Instagram)[https://instagram.com/lockdownopenmic]
+* [Pete Lambert on Twitter](https://twitter.com/peterjlambert)
+* [Pete Lambert on Instagram](https://instagram.com/peterjlambert)
+* [Lockdown Open Mic on Twitter](https://twitter.com/lockdownopenmic)
+* [Lockdown Open Mic on Instagram](https://instagram.com/lockdownopenmic)
