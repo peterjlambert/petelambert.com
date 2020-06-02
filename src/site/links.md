@@ -20,6 +20,7 @@ keywords:
 
 * [Anti Racism Resources](https://bit.ly/ANTIRACISMRESOURCES)
 * [Being an ally](https://sojo.net/articles/our-white-friends-desiring-be-allies)
+* [A linktree of fantastic Black Lives Matter resources](https://linktr.ee/blacklivesmatter)
 
 ## Other things
 * [Lennox house fire GoFundMe](https://www.gofundme.com/f/drxd9-emergency-help) - My friend's family had a house fire and need some help.
