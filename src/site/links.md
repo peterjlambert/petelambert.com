@@ -1,6 +1,6 @@
 ---
 layout: layouts/page
-title: Links | Pete Lambert | Chuff it
+title: Links Chuff it
 headline: Links
 slug: links
 description: Here's a list of things I'm linking to right now.
