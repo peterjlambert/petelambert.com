@@ -3,7 +3,7 @@ layout: layouts/home
 title: Chuff it
 headline: Chuff it
 slug: home
-description: I'm Pete Lambert; husband, father, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
+description: I'm Pete Lambert; husband, father, musician, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
 keywords:
   - pete lambert
   - web designer
@@ -24,4 +24,4 @@ I’m also a cyclist, riding road, gravel and mountain bikes. I’m currently th
 
 I’m a [keen photographer](https://500px.com/peterjlambert), I like a bit of snowboarding, I play a bit of guitar and I’ve played bass and sung in a few bands. I pick up new hobbies and passions pretty easily and pretty frequently. If I’m given the opportunity to try something new I’ll usually take it.
 
-I live in York, in the North of England with my beautiful wife and our awesome teenage son. 
+I live in York, in the North of England with my beautiful wife and our awesome teenage son.
