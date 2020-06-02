@@ -1,9 +1,9 @@
 :root {
   // Font Sizes
-  --baseFontSize: 18px;
+  --baseFontSize: 1em;
 
-  @media (max-width: 640px) {
-    --baseFontSize: 16px;
+  @media (max-width: 40rem) {
+    --baseFontSize: 1em;
   }
 
   --fsJumbo: 3rem;
@@ -13,7 +13,7 @@
   --fsLittle: .75rem;
 
   // Font families
-  --ffBody: 'Merriweather',
+  --ffBody: 'Krub',
   serif;
   --ffHeading: 'Merriweather',
   serif;
