@@ -20,7 +20,7 @@ Since 2010 I’ve been working for [Logikcull](https://logikcull.com) as a Senio
 
 ---
 
-I'm a musician. I play guitar and sing and I write some songs. Since March 2020 I've been running [Lockdown Open Mic](https://lockdownopenmic.club), a virtual open mic night for the Covid generation.
+I'm a musician. I play guitar and sing, and I write songs occasionally. Since March 2020 I've been running [Lockdown Open Mic](https://lockdownopenmic.club), a virtual open mic night for the Covid generation.
 
 I’m also a cyclist, riding road, gravel and mountain bikes. Yorkshire provides when it comes to cycling. I love a bit of snowboarding but getting to mountains is tricky. I pick up new hobbies and passions pretty easily and pretty frequently. If I’m given the opportunity to try something new I’ll usually take it.
 
