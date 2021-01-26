@@ -16,8 +16,8 @@ date: 2018-08-19
 
 ### This site's simple license:
 
-```
+<pre>
 Copyright Pete Lambert, 2019
 You may steal the code of this site, and be inspired by its structure.
 You may not steal any writings or photography of mine and claim them as your own.
-```
+</pre>
