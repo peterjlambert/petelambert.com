@@ -11,4 +11,4 @@ color: orange
 | Twitter   | [{{meta.twitter}}](https://twitter.com/{{meta.twitter}})      |
 | Instagram | [{{meta.instagram}}](https://instagram.com/{{meta.instagram}})  |
 | GitHub    | [{{meta.github}}](https://github.com/{{meta.github}})         |
-| Strava    | [{{meta.strava}}](https://strava.com/athletes/{{meta.strava}})|
+| YouTube   | [YouTube]({{meta.youtube}})|
