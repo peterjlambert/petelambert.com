@@ -29,4 +29,4 @@ I'm a musician. [I play guitar and sing](https://youtube.com/playlist?list=PLrV8
 
 I’m also a cyclist, riding road, gravel and mountain bikes. Yorkshire provides when it comes to cycling. I love a bit of snowboarding but getting to mountains is tricky. I pick up new hobbies and passions pretty easily and pretty frequently. If I’m given the opportunity to try something new I’ll usually take it.
 
-I live in York, in the North of England with my beautiful wife and our awesome teenage son.
+I live in [York](https://en.wikipedia.org/wiki/York), in the North of England with my beautiful wife and our awesome teenage son.
