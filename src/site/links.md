@@ -16,12 +16,10 @@ keywords:
   - web developer
 ---
 
-## Black Lives Matter
+## Upcoming Gig
+I'll be performing at York Museum Gardens on Saturday 19th June, along with my friends Alex Victoria, Rob Modus, Chelle Millar and David Turley. an evening of chilled out acoustic music in a beautiful setting with picnic hampers provided by Sketch (the wonderful cafe in York Art Gallery)  
 
-* [StopWatch - National Campaign for Fair and Accountable Policing](https://www.gofundme.com/f/StopWatch-Campaign-for-Fair-Accountable-Policing)
-* [Anti Racism Resources](https://bit.ly/ANTIRACISMRESOURCES)
-* [Being an ally](https://sojo.net/articles/our-white-friends-desiring-be-allies)
-* [A linktree of fantastic Black Lives Matter resources](https://linktr.ee/blacklivesmatter)
+[Tickets available here](https://www.eventbrite.co.uk/e/celebrate-summer-at-york-museum-gardens-tickets-157592396099).
 
 ## Me around the web
 * [Pete Lambert dot com](https://petelambert.com) - This website
