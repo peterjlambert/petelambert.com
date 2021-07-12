@@ -16,10 +16,8 @@ keywords:
   - web developer
 ---
 
-## Upcoming Gig
-I'll be performing at York Museum Gardens on Saturday 19th June, along with my friends Alex Victoria, Rob Modus, Chelle Millar and David Turley. an evening of chilled out acoustic music in a beautiful setting with picnic hampers provided by Sketch (the wonderful cafe in York Art Gallery)  
-
-[Tickets available here](https://www.eventbrite.co.uk/e/celebrate-summer-at-york-museum-gardens-tickets-157592396099).
+## Buy me a coffee
+[I like coffee. you can buy me one of you like](https://buymeacoffee.com/petelambert)
 
 ## Me around the web
 * [Pete Lambert dot com](https://petelambert.com) - This website
