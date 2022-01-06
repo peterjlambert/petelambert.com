@@ -1,8 +1,1 @@
 /rss/  /feed.xml              301
-
-# Redirect domain aliases to primary domain
-https://chuff.it/* https://www.petelambert.com/:splat 301!
-https://petelambert.com/* https://www.petelambert.com/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://chuffit.netlify.com/* https://www.petelambert.com/:splat 301!
