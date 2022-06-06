@@ -27,7 +27,8 @@ Since 2010 I’ve been working for [Logikcull](https://logikcull.com) as a Desig
 
 ---
 
-I'm a musician. [I play guitar and sing](https://youtube.com/playlist?list=PLrV87Cz_hwZTtS1AhyjcKrVW5RwJ8O5xp), and I write songs occasionally. Since March 2020 I've been running [Lockdown Open Mic](https://lockdownopenmic.club), a virtual open mic night for the Covid generation.
+(I'm a musician)[petelambert.pages.dev
+], writing and recording music (currently working on my debut EP), and I perform around Yorkshire. Since March 2020 I've been running [Lockdown Open Mic](https://lockdownopenmic.club), a virtual open mic night for the Covid generation.
 
 I’m also a cyclist, riding road, gravel and mountain bikes. Yorkshire provides when it comes to cycling. I love a bit of snowboarding but getting to mountains is tricky. I pick up new hobbies and passions pretty easily and pretty frequently. If I’m given the opportunity to try something new I’ll usually take it.
 
