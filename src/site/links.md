@@ -20,10 +20,8 @@ keywords:
 [I like coffee. you can buy me one of you like](https://buymeacoffee.com/petelambert)
 
 ## Me around the web
-* [Pete Lambert dot com](https://www.petelambert.com) - This website
-* [Pete Lambert on Twitter](https://twitter.com/peterjlambert)
-* [Pete Lambert on Instagram](https://instagram.com/peterjlambert)
-* [Lockdown Open Mic](https://lockdownopenmic.club) - A virtual open mic night that I host every Tuesday night.
-* [Lockdown Open Mic on Twitter](https://twitter.com/lockdownopenmic)
-* [Lockdown Open Mic on Instagram](https://instagram.com/lockdownopenmic)
+* [I'm on Mastodon](https://mastodon.cloud/@petelambert")
+* [I'm on Instagram](https://instagram.com/peterjlambert)
+* [Find out about my music here](https://petelambertmusic.com)
+* [Lockdown Open Mic](https://lockdownopenmic.club) - A virtual open mic night that I host every other Tuesday night.
 
