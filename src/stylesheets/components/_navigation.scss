@@ -45,7 +45,12 @@
 }
 
 .navigation__item--home {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-weight: var(--fwBold);
   margin-right: auto;
+  
   @media (max-width: 640px) {
     flex-basis: 100%;
     text-align: center;
