@@ -1,6 +1,6 @@
 ---
 layout: layouts/home
-title: Pete Lambert - Chuff It
+title: Pete Lambert
 headline: Pete Lambert
 slug: home
 description: This is where things land when they fall out of my head.
@@ -20,7 +20,7 @@ keywords:
   - music
 ---
 
-👋 I'm Pete Lambert; husband, father, design engineer and musician Yorkshire. This is where things land when they fall out of my head.
+👋 I'm Pete Lambert; husband, father, design engineer and musician from Yorkshire. This is where things land when they fall out of my head.
 
 **I like the web**. I’ve been designing and building for it since 1999. I’ve lived through the browser wars and the dot-com crash. I love doing what I do. It’s a great thing, being a veteran in what’s still a nascent industry.
 
