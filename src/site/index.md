@@ -34,4 +34,4 @@ I love a bit of snowboarding but getting to mountains is tricky and I've got a b
 
 I live in [York](https://en.wikipedia.org/wiki/York), in the North of England with my beautiful wife and our awesome son.
 
-If you want to get in touch, <a rel="me" href="https://mastodon.cloud/@petelambert">I'm on Mastodon</a>.
+If you want to get in touch, <a rel="me" href="https://mas.to/@petelambert">I'm on Mastodon</a>.
