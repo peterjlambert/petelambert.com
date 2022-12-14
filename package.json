@@ -33,7 +33,7 @@
     "moment": "^2.24.0",
     "require-dir": "^1.2.0",
     "sass": "^1.56.2",
-    "typeset": "^0.2.2",
+    "typeset": "^0.2.9",
     "url-join": "^4.0.0"
   },
   "devDependencies": {
