@@ -30,9 +30,10 @@
   color: var(--contrastLinkColor);
   font-size: var(--fsLittle);
   font-family: var(--ffNav);
-  padding: 3rem 1rem 3rem;
+  font-weight: var(--fwBold);
+  padding: 1.5rem 1rem 1rem;
   text-decoration: none;
-  transition: .1s ease-in-out all;
+  transition: .3s ease-in-out all;
   white-space: nowrap;
   @media (max-width: 640px) {
     padding: .5rem .5rem .25rem;
@@ -44,21 +45,22 @@
   }
 }
 
-.navigation__item--home {
+.navigation__item {
+  align-items: stretch;
   display: flex;
-  align-items: center;
-  gap: 1rem;
+}
+
+.navigation__item--home {
   font-weight: var(--fwBold);
   margin-right: auto;
-  
   @media (max-width: 640px) {
     flex-basis: 100%;
-    text-align: center;
+    justify-content: center;
   }
 }
 
 
-.navigation__item--current {
+.navigation__item--current:not(.navigation__item--home) {
   position: relative;
   &::after {
     border-bottom: 2px solid var(--contrastLinkColor);

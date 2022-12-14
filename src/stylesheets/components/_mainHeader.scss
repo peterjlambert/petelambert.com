@@ -12,22 +12,13 @@
   align-items: center;
 }
 
-.mainHeader__avatar {
-  border-radius: 50%;
-  box-shadow: 0 .25rem .25rem .125rem rgba(0,0,0,.1);
-  grid-column: 3/4;
-  height: 5rem;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 2rem;
-  width: 5rem;
-}
 
 .mainHeader__headline {
-  font-weight: 900;
-  font-size: var(--fsBig);
+  font-weight: 100;
+  font-size: var(--fsJumbo);
+  font-style: italic;
   line-height: 1.5em;
-  padding-bottom: 3rem;
+  padding-bottom: 0;
   text-align: center;
 }
 

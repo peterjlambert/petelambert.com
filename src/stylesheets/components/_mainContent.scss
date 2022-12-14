@@ -1,8 +1,7 @@
 .mainContent {
   display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
+  grid-template-columns: 1fr 1fr minmax(auto, 62ch) 1fr 1fr;
   padding-bottom: 10rem;
-
   >* {
     grid-column: 3/4;
   }

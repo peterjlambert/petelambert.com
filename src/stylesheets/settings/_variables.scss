@@ -1,6 +1,6 @@
 :root {
   // Font Sizes
-  --baseFontSize: 1.25em;
+  --baseFontSize: 1.1em;
 
   @media (max-width: 40rem) {
     --baseFontSize: 1em;
@@ -13,32 +13,23 @@
   --fsLittle: .875rem;
 
   // Font families
-  --ffBody: 'Krub',
-  serif;
-  --ffHeading: 'Merriweather',
-  serif;
-  --ffNav: 'Krub',
-  sans-serif;
-  --ffCode: Consolas,
-  monaco,
-  monospace;
+  --ffBody: 'Bitter',  serif;
+  --ffHeading: 'Bitter',  serif;
+  --ffNav: 'Krub', sans-serif;
+  --ffCode: Consolas,  monaco,  monospace;
+
+  --baseHue: 265;
+  --baseSaturation: 45%;
+  --baseLightness: 29%;
+  --baseAlpha: 100%;
+  --baseColor: hsla(
+      var(--baseHue), 
+      var(--baseSaturation),
+      var(--baseLightness),
+      var(--baseAlpha));
 
 
-
-
-  // Light mode / default colours
-  --backgroundColor: #fcfbfa;
-  --foregroundColor: #1a3c53;
-  --linkColor:#116986;
-  --linkColor--hover: #147c9e;
-  --contrastLinkColor: #116986;
-  --contrastLinkColor--hover: #147c9e;
-  --contrastBackgroundColor: #efefef;
-  --contrastForegroundColor: #1a3c53;
-  --lightTextColor: rgba(0, 0, 0, .6);
-
-  @media (prefers-color-scheme: dark) {
-    // Dark Mode Colours
+  // Dark mode / default colours
     --backgroundColor: #1a3c53;
     --foregroundColor: #e0e0e0;
     --linkColor: #98c7d6;
@@ -48,5 +39,16 @@
     --contrastBackgroundColor: #195e75;
     --contrastForegroundColor: #fff;
     --lightTextColor: rgba(255, 255, 255, .6);
+
+  @media (prefers-color-scheme: light) {
+      --backgroundColor: #fcfbfa;
+      --foregroundColor: #1a3c53;
+      --linkColor: #116986;
+      --linkColor--hover: #147c9e;
+      --contrastLinkColor: #116986;
+      --contrastLinkColor--hover: #147c9e;
+      --contrastBackgroundColor: #efefef;
+      --contrastForegroundColor: #1a3c53;
+      --lightTextColor: rgba(0, 0, 0, .6);
   }
 }
