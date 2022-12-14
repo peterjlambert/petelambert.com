@@ -8,7 +8,7 @@
   "instagram": "petelambertmusic",
   "youtube": "https://www.youtube.com/channel/UCSsjPnfxvFl5D_Vi1FupbWg",
   "mastodon": {
-    "server": "https://mas.to",
+    "server": "mas.to",
     "handle": "@petelambert"
   }
 }
