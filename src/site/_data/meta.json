@@ -2,14 +2,13 @@
   "description": "I'm Pete Lambert; husband, father, musician, open mic host and Design Manager at Logikcull, from Yorkshire. This is where things land when they fall out of my head.",
   "shortbio": "Brought up in Bradford and now living in York with my amazing wife and son. I play, sing and write music (not necessarily in that order), I ride bikes and snowboards and I host a virtual open mic night - Lockdown Open Mic",
   "site": "https://www.petelambert.com",
+  "music": "https://www.petelambertmusic.com",
   "email": "pete@petelambert.com",
   "github": "peterjlambert",
-  "twitter": "peterjlambert",
-  "instagram": "peterjlambert",
+  "instagram": "petelambertmusic",
   "youtube": "https://www.youtube.com/channel/UCSsjPnfxvFl5D_Vi1FupbWg",
   "mastodon": {
     "server": "https://mas.to",
     "handle": "@petelambert"
   }
-
 }
