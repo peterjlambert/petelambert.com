@@ -30,7 +30,7 @@
     "gulp-sass": "^5.1.0",
     "gulp-serve": "^1.4.0",
     "gulp-shell": "^0.6.5",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "require-dir": "^1.2.0",
     "sass": "^1.56.2",
     "typeset": "^0.2.2",
