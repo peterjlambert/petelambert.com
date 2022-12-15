@@ -4,13 +4,14 @@
       <li
         class="{% if slug == 'home' %}navigation__item--current{% endif %} navigation__item navigation__item--home"
       >
-        <a href="/" class="navigation__link navigation__link--home">
+        <a href="/" class="navigation__link navigation__link--home" aria-label="Pete Lambert - Home">
           <svg
             width="122"
             height="41"
             viewBox="0 0 122 41"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
+            role="presentation"
           >
             <path
               d="M53.7907 33.9006H57.3271L53.3085 15.1233H49.6382L45.834 33.9006H49.3703L50.1204 30.1773H52.987L53.7907 33.9006ZM50.817 26.7219L51.5135 23.2664L52.2369 26.7219H50.817Z"
@@ -75,14 +76,6 @@
           class="navigation__link"
           rel="me"
           >Mastodon</a
-        >
-      </li>
-      <li class="navigation__item">
-        <a
-          title="Oh, you don't have your personal API yet?"
-          href="/meta.json"
-          class="navigation__link"
-          >API</a
         >
       </li>
     </ul>

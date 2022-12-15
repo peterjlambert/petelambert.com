@@ -1,12 +1,12 @@
 .navigation {
   background-color: var(--contrastBackgroundColor);
-  border-bottom: 1px solid rgba(0,0,0,.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   color: var(--contrastForegroundColor);
 }
 
 .navigation__lists {
   display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, 1080px) 1fr 1fr;
+  grid-template-columns: 1fr 1fr minmax(auto, 62ch) 1fr 1fr;
   @media (max-width: 640px) {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -33,13 +33,13 @@
   font-weight: var(--fwBold);
   padding: 1.5rem 1rem 1rem;
   text-decoration: none;
-  transition: .3s ease-in-out all;
+  transition: 0.3s ease-in-out all;
   white-space: nowrap;
   @media (max-width: 640px) {
-    padding: .5rem .5rem .25rem;
+    padding: 0.5rem 0.5rem 0.25rem;
   }
   &:hover {
-    background-color: rgba(0,0,0,.05);
+    background-color: rgba(0, 0, 0, 0.05);
     color: var(--contrastLinkColor--hover);
     text-decoration: none;
   }
@@ -59,16 +59,14 @@
   }
 }
 
-
 .navigation__item--current:not(.navigation__item--home) {
   position: relative;
   &::after {
     border-bottom: 2px solid var(--contrastLinkColor);
     bottom: 0;
-    content: "";
+    content: '';
     left: 0;
     right: 0;
     position: absolute;
   }
 }
-

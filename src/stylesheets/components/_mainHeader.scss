@@ -4,14 +4,13 @@
   -webkit-clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 3rem), 0% 100%);
   clip-path: polygon(0 0, 100% 0%, 100% calc(100% - 3rem), 0% 100%);
   color: var(--contrastForegroundColor);
-  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
+  grid-template-columns: 1fr 1fr minmax(auto, 62ch) 1fr 1fr;
   grid-column: 1/6;
   padding-bottom: 5rem;
   padding-top: 3rem;
   justify-content: center;
   align-items: center;
 }
-
 
 .mainHeader__headline {
   font-weight: 100;
