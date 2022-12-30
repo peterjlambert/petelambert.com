@@ -1,4 +1,5 @@
 .mainContent {
+  background-color: var(--backgroundColor);
   display: grid;
   grid-template-columns: 1fr 1fr minmax(auto, 62ch) 1fr 1fr;
   padding-bottom: 10rem;

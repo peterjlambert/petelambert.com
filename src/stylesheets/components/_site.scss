@@ -1,11 +1,9 @@
-html,
 body {
   background-color: var(--contrastBackgroundColor);
 }
 
 .site {
   background-color: var(--backgroundColor);
-  background-image: var(--bgGradient);
   color: var(--foregroundColor);
   font-size: var(--baseFontSize);
   overflow-x: hidden;
