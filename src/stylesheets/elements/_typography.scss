@@ -2,7 +2,7 @@ body {
   font-size: var(--baseFontSize);
   font-family: var(--ffBody);
   font-weight: 100;
-  line-height: 1.625em;
+  line-height: var(--lhRegular);
 }
 
 p,
@@ -17,12 +17,13 @@ h3,
 h4 {
   clear: both;
   font-family: var(--ffHeading);
-  font-weight: 800;
-  line-height: 1.25em;
+  font-weight: var(--fwSemiBold);
+  line-height: var(--lhCompact);
 }
 
 h1 {
   font-size: var(--fsBigger);
+  letter-spacing: 0.05em;
 }
 
 h2 {
@@ -59,7 +60,7 @@ blockquote {
   padding-left: 1.5rem;
   padding-top: 1.5rem;
   font-size: var(--fsBig);
-  line-height: 1.5;
+  line-height: var(--lhRegular);
 }
 
 table {

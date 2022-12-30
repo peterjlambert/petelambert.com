@@ -6,14 +6,21 @@
     --baseFontSize: 1em;
   }
 
+  // Font sizes
   --fsJumbo: 3rem;
   --fsBigger: 2.5rem;
   --fsBig: 1.5rem;
   --fsRegular: 1rem;
   --fsLittle: 0.875rem;
 
+  // Font weights
   --fwReg: 400;
+  --fwSemiBold: 600;
   --fwBold: 800;
+
+  // Line heights
+  --lhRegular: 1.625;
+  --lhCompact: 1.25;
 
   // Font families
   --ffBody: 'Domine', Georgia, serif;
@@ -22,8 +29,9 @@
   --ffCode: Consolas, monaco, monospace;
 
   // Primary Accent Color
-  --hue: 265;
-  --saturation: 45%;
+  --primaryColor: hsl(250, 34%, 59%);
+  --hue: 250;
+  --saturation: 34%;
 
   // Colour scale
   --c0: hsla(var(--hue), var(--saturation), 100%, 100%);
