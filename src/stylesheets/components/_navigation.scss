@@ -1,6 +1,5 @@
 .navigation {
   background-color: var(--contrastBackgroundColor);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   color: var(--contrastForegroundColor);
 }
 
@@ -30,7 +29,7 @@
   color: var(--contrastLinkColor);
   font-size: var(--fsLittle);
   font-family: var(--ffNav);
-  font-weight: var(--fwBold);
+  font-weight: var(--fwReg);
   padding: 1.5rem 1rem 1rem;
   text-decoration: none;
   transition: 0.3s ease-in-out all;

@@ -1,6 +1,6 @@
 :root {
   // Font Sizes
-  --baseFontSize: 1.1em;
+  --baseFontSize: 1.05em;
 
   @media (max-width: 40rem) {
     --baseFontSize: 1em;
@@ -12,45 +12,60 @@
   --fsRegular: 1rem;
   --fsLittle: 0.875rem;
 
+  --fwReg: 400;
+  --fwBold: 800;
+
   // Font families
-  --ffBody: 'Bitter', serif;
-  --ffHeading: 'Bitter', serif;
-  --ffNav: 'Krub', sans-serif;
+  --ffBody: 'Domine', Georgia, serif;
+  --ffHeading: 'Work Sans', Arial, Helvetica, sans-serif;
+  --ffNav: 'Work Sans', Arial, Helvetica, sans-serif;
   --ffCode: Consolas, monaco, monospace;
 
+  // Primary Accent Color
+  --hue: 265;
+  --saturation: 45%;
+
   // Colour scale
-  --c0: hsla(204, 52%, 100%, 100%);
-  --c1: hsla(204, 52%, 80%, 100%);
-  --c2: hsla(204, 52%, 70%, 100%);
-  --c3: hsla(204, 52%, 60%, 100%);
-  --c4: hsla(204, 52%, 50%, 100%);
-  --c5: hsla(204, 52%, 40%, 100%);
-  --c6: hsla(204, 52%, 30%, 100%);
-  --c7: hsla(204, 52%, 20%, 100%);
-  --c8: hsla(204, 52%, 10%, 100%);
-}
+  --c0: hsla(var(--hue), var(--saturation), 100%, 100%);
+  --c1: hsla(var(--hue), var(--saturation), 80%, 100%);
+  --c2: hsla(var(--hue), var(--saturation), 70%, 100%);
+  --c3: hsla(var(--hue), var(--saturation), 60%, 100%);
+  --c4: hsla(var(--hue), var(--saturation), 50%, 100%);
+  --c5: hsla(var(--hue), var(--saturation), 40%, 100%);
+  --c6: hsla(var(--hue), var(--saturation), 30%, 100%);
+  --c7: hsla(var(--hue), var(--saturation), 20%, 100%);
+  --c8: hsla(var(--hue), var(--saturation), 10%, 100%);
 
-[data-theme='dark'] {
-  // Dark mode / default colours
-  --backgroundColor: var(--c7);
-  --foregroundColor: var(--c0);
-  --linkColor: var(--c2);
-  --linkColor--hover: var(--c3);
-  --contrastLinkColor: var(--c1);
-  --contrastLinkColor--hover: var(--c2);
-  --contrastBackgroundColor: var(--c8);
-  --contrastForegroundColor: var(--c0);
-  --lightTextColor: var(--c1);
-}
+  // Background colors
+  --bgLight: hsla(var(--hue), var(--saturation), 94%, 100%);
+  --bgLight2: hsla(var(--hue), var(--saturation), 90%, 100%);
+  --bgDark: hsla(var(--hue), var(--saturation), 15%, 100%);
+  --bgDark2: hsla(var(--hue), var(--saturation), 10%, 100%);
 
-[data-theme='light'] {
-  --backgroundColor: var(--c0);
+  // Color theme
+  --backgroundColor: var(--bgLight);
   --foregroundColor: var(--c8);
   --linkColor: var(--c5);
   --linkColor--hover: var(--c6);
   --contrastLinkColor: var(--c6);
   --contrastLinkColor--hover: var(--c5);
-  --contrastBackgroundColor: var(--c1);
+  --contrastBackgroundColor: var(--bgLight2);
   --contrastForegroundColor: var(--c8);
-  --lightTextColor: var(--c1);
+  --lightTextColor: var(--c8);
+  --borderColor: var(--c4);
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --backgroundColor: var(--bgDark);
+    --foregroundColor: var(--c0);
+    --linkColor: var(--c2);
+    --linkColor--hover: var(--c3);
+    --contrastLinkColor: var(--c1);
+    --contrastLinkColor--hover: var(--c2);
+    --contrastBackgroundColor: var(--bgDark2);
+    --contrastForegroundColor: var(--c0);
+    --lightTextColor: var(--c1);
+    --borderColor: var(--c6);
+  }
 }

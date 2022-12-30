@@ -1,7 +1,7 @@
 body {
   font-size: var(--baseFontSize);
   font-family: var(--ffBody);
-  font-weight: 300;
+  font-weight: 100;
   line-height: 1.625em;
 }
 
@@ -11,14 +11,13 @@ ol {
   padding-bottom: 1.5em;
 }
 
-
 h1,
 h2,
 h3,
 h4 {
   clear: both;
   font-family: var(--ffHeading);
-  font-weight: 700;
+  font-weight: 800;
   line-height: 1.25em;
 }
 
@@ -37,7 +36,7 @@ h3 {
 a {
   color: var(--linkColor);
   text-decoration: underline;
-  transition: .3s all ease;
+  transition: 0.3s all ease;
 
   &:hover {
     color: var(--linkColor--hover);
@@ -46,7 +45,7 @@ a {
 }
 
 strong {
-  font-weight: 700;
+  font-weight: 800;
 }
 
 em {
@@ -54,11 +53,13 @@ em {
 }
 
 blockquote {
-  border-left: 2px solid rgba(0, 0, 0, .1);
+  border-left: 2px solid var(--borderColor);
   font-style: italic;
   margin-bottom: 1.5rem;
   padding-left: 1.5rem;
   padding-top: 1.5rem;
+  font-size: var(--fsBig);
+  line-height: 1.5;
 }
 
 table {
@@ -66,7 +67,7 @@ table {
 }
 
 th {
-  border-bottom: 1px solid rgba(0, 0, 0, .2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   font-family: Merriweather, serif;
   font-weight: 600;
   text-align: left;
@@ -74,7 +75,7 @@ th {
 
 th,
 td {
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 pre,
@@ -90,14 +91,13 @@ code {
 code {
   font-style: normal;
   max-width: none;
-  padding: 0 .25em;
+  padding: 0 0.25em;
   white-space: normal;
 }
 
-
 hr {
   border: 0;
-  border-bottom: 1px solid rgba(0, 0, 0, .1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   clear: both;
   margin: 2rem 0;
 }

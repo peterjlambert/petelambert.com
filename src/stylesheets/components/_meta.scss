@@ -1,5 +1,9 @@
 .meta {
   color: var(--lightTextColor);
   font-size: var(--fsLittle);
-  font-style: italic;
+  font-family: var(--ffNav);
+  font-weight: var(--fwReg);
+  text-transform: uppercase;
+  color: var(--lightTextColor);
+  padding: 0;
 }
