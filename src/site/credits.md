@@ -1,7 +1,7 @@
 ---
 title: Licenses & Credits
 layout: layouts/page
-date: 2018-08-19
+date: 2022-12-30
 ---
 
 <p class="meta">
