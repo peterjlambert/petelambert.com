@@ -34,22 +34,23 @@ pagination:
                 </a>
               </h2>
             {% endif %}
-              <p class="meta">
-                <time datetime="{{ post.date | toISODate }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
-                {% if post.data.link %}
-                  /
-                  <a class="meta__permalink" href="{{ post.url }}">Permalink</a>
-                {% else %}
-                  /
-                  <span class="meta__stats">{{ post | readingTime }}</span>
-                {% endif %}
-
-                {% if post.data.draft %}
-                  <strong class="meta__status meta__status--draft">Draft</strong>
-                {% endif %}
-              </p>
 
             </header>
+            
+            <p class="meta">
+              <time datetime="{{ post.date | toISODate }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
+              {% if post.data.link %}
+                /
+                <a class="meta__permalink" href="{{ post.url }}">Permalink</a>
+              {% else %}
+                /
+                <span class="meta__stats">{{ post | readingTime }}</span>
+              {% endif %}
+
+              {% if post.data.draft %}
+                <strong class="meta__status meta__status--draft">Draft</strong>
+              {% endif %}
+            </p>
 
             <div class="post__excerpt">
               <p>{{ post.data.excerpt }}</p>

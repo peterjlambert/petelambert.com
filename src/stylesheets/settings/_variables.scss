@@ -14,19 +14,25 @@
   --fsLittle: 0.875rem;
 
   // Font weights
+  --fwLight: 200;
   --fwReg: 400;
   --fwSemiBold: 600;
-  --fwBold: 800;
+  --fwBold: 700;
 
   // Line heights
   --lhRegular: 1.625;
   --lhCompact: 1.25;
 
   // Font families
-  --ffBody: 'Domine', Georgia, serif;
+  --ffBody: 'Lora', Georgia, serif;
   --ffHeading: 'Work Sans', Arial, Helvetica, sans-serif;
   --ffNav: 'Work Sans', Arial, Helvetica, sans-serif;
   --ffCode: Consolas, monaco, monospace;
+
+  // Widths
+  --textContentWidth: 68ch;
+  --containerWidth: 68ch;
+  --sidebarWidth: 36ch;
 
   // Primary Accent Color
   --primaryColor: hsl(230, 31%, 46%);

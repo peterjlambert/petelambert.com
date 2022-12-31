@@ -1,7 +1,7 @@
 ---
 layout: layouts/home
 title: Pete Lambert
-headline: 👋 Now then, pal
+headline: 👋 Hello, you
 slug: home
 description: This is where things land when they fall out of my head.
 keywords:

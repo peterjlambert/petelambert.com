@@ -1,11 +1,14 @@
 .navigation {
   background-color: var(--contrastBackgroundColor);
   color: var(--contrastForegroundColor);
+  position: sticky;
+  top: 0;
+  z-index: 1;
 }
 
 .navigation__lists {
   display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, 62ch) 1fr 1fr;
+  grid-template-columns: 1fr 1fr minmax(auto, var(--containerWidth)) 1fr 1fr;
   @media (max-width: 640px) {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -25,11 +28,14 @@
 }
 
 .navigation__link {
+  align-items: center;
   color: var(--contrastLinkColor);
+  display: flex;
+
   font-size: var(--fsLittle);
   font-family: var(--ffNav);
   font-weight: var(--fwReg);
-  padding: 1.5rem 1rem 1rem;
+  padding: 1rem 1rem 1rem;
   text-decoration: none;
   transition: 0.3s ease-in-out all;
   white-space: nowrap;

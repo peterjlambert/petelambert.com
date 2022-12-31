@@ -1,9 +1,13 @@
 .mainContent {
   background-color: var(--backgroundColor);
   display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, 62ch) 1fr 1fr;
+  grid-template-columns: 1fr 1fr minmax(auto, var(--containerWidth)) 1fr 1fr;
   padding-bottom: 10rem;
   > * {
     grid-column: 3/4;
   }
+}
+
+.mainContent__body {
+  max-width: var(--textContentWidth);
 }
