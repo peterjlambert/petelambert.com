@@ -5,7 +5,7 @@ layout: main
 pagination:
   data: collections.post
   size: 10
-  alias: post
+  alias: posts
   reverse: true
 ---
 
@@ -18,7 +18,7 @@ pagination:
   <div class="page__text">
 
   <ol class="posts">
-    {% for post in collections.post | reverse %}
+    {% for post in posts %}
 
       <li class="posts__item">
         <article class="{% if post.data.link %}linked{% endif %} postSummary">
