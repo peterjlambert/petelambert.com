@@ -36,11 +36,13 @@ h3 {
 a {
   color: var(--linkColor);
   text-decoration: underline;
+  text-decoration-color: var(--secondaryColor);
+  text-decoration-thickness: 2px;
   transition: 0.3s all ease;
 
   &:hover {
     color: var(--linkColor--hover);
-    text-decoration: dotted;
+    text-decoration-color: var(--linkColor--hover);
   }
 }
 
