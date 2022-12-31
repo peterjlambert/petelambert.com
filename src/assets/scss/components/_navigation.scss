@@ -24,11 +24,10 @@
   align-items: center;
   color: var(--contrastLinkColor);
   display: flex;
-
   font-size: var(--fsLittle);
   font-family: var(--ffNav);
   font-weight: var(--fwReg);
-  padding: 1rem 1rem 1rem;
+  padding: 1rem 0.5rem;
   text-decoration: none;
   transition: 0.3s ease-in-out all;
   white-space: nowrap;
@@ -40,6 +39,18 @@
     );
     color: var(--contrastLinkColor--hover);
     text-decoration: none;
+  }
+}
+
+.navigation__logo--small {
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .navigation__logo--small {
+    display: block;
+  }
+  .navigation__logo--large {
+    display: none;
   }
 }
 
