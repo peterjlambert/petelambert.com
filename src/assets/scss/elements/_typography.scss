@@ -41,7 +41,7 @@ a {
   transition: 0.3s all ease;
 
   &:hover {
-    color: var(--linkColor--hover);
+    color: var(--foregroundColor);
     text-decoration-color: var(--linkColor--hover);
   }
 }
