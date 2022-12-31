@@ -6,7 +6,7 @@ const getDeployedUrl = () => `https://${fs.readFileSync('./CNAME')}`;
 
 const ROOT_URL = getDeployedUrl();
 
-const escapeQuotes = text =>
+const escapeQuotes = (text) =>
   text.replace(/'/g, '&rsquo;').replace(/"/g, '&ldquo;');
 
 module.exports = {
@@ -38,9 +38,9 @@ module.exports = {
     return moment(date).fromNow();
   },
 
-  pretty: text => text.replace('index.html', ''),
+  pretty: (text) => text.replace('index.html', ''),
 
-  canonicalUrl: path => {
+  canonicalUrl: (path) => {
     return typeof path === 'string' ? joinUrl(ROOT_URL, path) : ROOT_URL;
   },
 

@@ -1,7 +1,7 @@
 ---
 title: Reading List
 description: I'm Pete Lambert. These are the (mostly Frontend web development) things I've been reading
-layout: layouts/main
+layout: main
 pagination:
   data: collections.reading
   size: 10
@@ -34,7 +34,7 @@ pagination:
                 </h2>
               {% endif %}
               <p class="meta">
-                <time datetime="{{ post.date | toISODate }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
+                <time datetime="{{ post.date | dateToISO }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
                 {% if post.data.link %}
                   /
                   <a class="meta__permalink" href="{{ post.url }}">Permalink</a>

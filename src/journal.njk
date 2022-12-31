@@ -1,7 +1,7 @@
 ---
 title: Journal
 description: I'm Pete Lambert; husband, father, musician, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
-layout: layouts/main
+layout: main
 pagination:
   data: collections.allPosts
   size: 10
@@ -38,7 +38,7 @@ pagination:
             </header>
             
             <p class="meta">
-              <time datetime="{{ post.date | toISODate }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
+              <time datetime="{{ post.date | dateToISO }}" pubdate class="meta__pubDate">{{ post.date | niceDate }}</time>
               {% if post.data.link %}
                 /
                 <a class="meta__permalink" href="{{ post.url }}">Permalink</a>

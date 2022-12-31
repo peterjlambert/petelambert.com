@@ -26,7 +26,7 @@ ogImage: /assets/images/og-image.png
     <link rel="alternate" type="application/rss+xml" title="Chuff It: Pete Lambert's RSS feed" href="/feed.xml">
 
     <link rel="shortcut icon" href="/favicon.png" type="image/png">
-    <link rel="canonical" itemprop="url" href="{{ page.url | canonicalUrl }}">
+    <link rel="canonical" itemprop="url" href="{{ page.url  }}">
     <link rel="author" href="https://www.petelambert.com">
     <link rel="me" href="https://www.twitter.com/peterjlambert">
     <link rel="me" href="https://www.instagram.com/peterjlambert">
@@ -36,10 +36,10 @@ ogImage: /assets/images/og-image.png
     <link rel="pingback" href="https://webmention.io/www.petelambert.com/xmlrpc" />
 
     <meta property="og:title" content="{{title}}">
-    <meta property="og:url" content="{{ page.url | canonicalUrl }}">
+    <meta property="og:url" content="{{ page.url  }}">
     <meta property="og:site_name" itemprop="name" content="Pete Lambert">
     <meta property="og:type" content="blog">
-    <meta property="og:image" content="{{ogImage | canonicalUrl}}">
+    <meta property="og:image" content="{{ogImage}}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="1200">
     {% if excerpt or description %}
@@ -49,7 +49,7 @@ ogImage: /assets/images/og-image.png
     {% if tags === 'posts' %}
     <meta property="article:author" content="https://www.petelambert.com">
     <meta property="article:tag" content="{{keywords}}">
-    <meta property="article:published_time" content="{{page.date | toISODate}}">
+    <meta property="article:published_time" content="{{page.date | dateToISO}}">
     {% endif %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">

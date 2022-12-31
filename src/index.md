@@ -1,5 +1,5 @@
 ---
-layout: layouts/home
+layout: home
 title: Pete Lambert
 headline: 👋 Hello, you
 slug: home

@@ -1,46 +1,59 @@
 {
-  "name": "chuff.it",
+  "name": "petelambert.com",
   "private": true,
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Homepage of Pete Lambert",
+  "browserslist": [
+    "> 0.5%",
+    "not IE 11"
+  ],
   "scripts": {
-    "build": "gulp build",
-    "watch": "gulp watch",
-    "start": "NODE_ENV=development gulp serve",
-    "deploy": "npm run build && ./deploy",
-    "new": "node scripts/new-post --editor"
+    "start": "npx @11ty/eleventy --serve",
+    "watch": "npx @11ty/eleventy --watch",
+    "serve": "npx @11ty/eleventy --serve",
+    "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "build": "npx @11ty/eleventy",
+    "clean": "del-cli build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "patch-package"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/peterjlambert/chuff.it"
   },
-  "author": "Pete Lambert <pete@chuff.it>",
-  "license": "Copyright Pete Lambert (2019)",
+  "author": "Pete Lambert <pete@petelambert.com>",
+  "license": "Copyright Pete Lambert (2023)",
   "bugs": {
     "url": "https://github.com/peterjlambert/chuff.it/issues"
   },
-  "homepage": "https://chuff.it",
-  "dependencies": {
-    "@11ty/eleventy": "0.5.3",
-    "@11ty/eleventy-plugin-rss": "^1.0.6",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^1.0.5",
-    "eleventy-plugin-reading-time": "0.0.1",
-    "gulp": "^4.0.2",
-    "gulp-clean": "^0.4.0",
-    "gulp-sass": "^5.1.0",
-    "gulp-serve": "^1.4.0",
-    "gulp-shell": "^0.6.5",
-    "moment": "^2.24.0",
-    "require-dir": "^1.2.0",
-    "sass": "^1.56.2",
-    "typeset": "^0.2.2",
-    "url-join": "^4.0.0"
-  },
+  "homepage": "https://petelambert.com",
   "devDependencies": {
-    "browser-sync": "^2.26.5",
-    "slug": "^0.9.4"
-  },
-  "engines": {
-    "node": ">=10.1.0"
+    "@11ty/eleventy": "^2.0.0-canary.13",
+    "@11ty/eleventy-img": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.3",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
+    "@11ty/eleventy-plugin-vite": "^2.0.0-canary.1",
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.12",
+    "cssremedy": "^0.1.0-beta.2",
+    "del-cli": "^4.0.1",
+    "eslint": "^8.18.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.2.3",
+    "eslint-plugin-promise": "^6.0.0",
+    "focus-visible": "^5.2.0",
+    "luxon": "^3.0.1",
+    "markdown-it": "^13.0.1",
+    "markdown-it-anchor": "^8.6.4",
+    "npm-run-all": "^4.1.5",
+    "patch-package": "^6.4.7",
+    "postcss-nesting": "^10.1.10",
+    "rollup-plugin-critical": "^1.0.8",
+    "sass": "^1.53.0",
+    "vite": "^3.0.0",
+    "eleventy-plugin-reading-time": "^0.0.1",
+    "url-join": "^5.0.0"
   }
 }

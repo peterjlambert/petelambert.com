@@ -1,7 +1,7 @@
 ---
 title: Licenses & Credits
-layout: layouts/page
-date: 2022-12-30
+layout: page
+date: 2022-12-30T00:00
 ---
 
 <p class="meta">
@@ -11,7 +11,6 @@ date: 2022-12-30
 - This site is generated with the [11ty](https://www.11ty.io/) static site generator.
 - The source code of this site is [available on GitHub](https://github.com/peterjlambert/chuff.it).
 - I borrowed [Johan Brook's 11ty-based site](https://github.com/johanbrook/johanbrook.com) as a starting point when building this site
-
 
 ### This site's simple license:
 
