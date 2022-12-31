@@ -9,10 +9,6 @@
 .navigation__lists {
   display: grid;
   grid-template-columns: 1fr 1fr minmax(auto, var(--containerWidth)) 1fr 1fr;
-  @media (max-width: 640px) {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
 }
 
 .navigation__list {
@@ -22,9 +18,6 @@
   grid-column: 3/4;
   list-style: none;
   padding-bottom: 0;
-  @media (max-width: 640px) {
-    justify-content: space-around;
-  }
 }
 
 .navigation__link {
@@ -39,9 +32,6 @@
   text-decoration: none;
   transition: 0.3s ease-in-out all;
   white-space: nowrap;
-  @media (max-width: 640px) {
-    padding: 0.5rem 0.5rem 0.25rem;
-  }
   &:hover {
     background-image: linear-gradient(
       180deg,
@@ -61,10 +51,6 @@
 .navigation__item--home {
   font-weight: var(--fwBold);
   margin-right: auto;
-  @media (max-width: 640px) {
-    flex-basis: 100%;
-    justify-content: center;
-  }
 }
 
 .navigation__item--current:not(.navigation__item--home) {
