@@ -1,6 +1,7 @@
 ---
 title: 'Somewhere for Things to Land'
-date: '2012-08-27T11:44'
+tags: post
+date: 2012-08-27
 slug: somewhere-for-things-to-land
 excerpt: 'In the mid-2000s I had a blog. It was before Twitter and having a blog is just what you did. I sometimes had things to write about and discussions to have. Most of the time I was talking to myself but as long as I was getting things out of my head and onto the world wide web I was happy.'
 ---

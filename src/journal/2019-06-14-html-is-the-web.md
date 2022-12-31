@@ -1,9 +1,10 @@
 ---
 title: HTML is the Web
-date: 2019-06-14T15:15:18+01:00
+tags: post
+date: 2019-06-14
 slug: html-is-the-web
 excerpt: >
- In which I lament the fact that many frontend Web engineers don't understand the end product of their work, HTML.
+  In which I lament the fact that many frontend Web engineers don't understand the end product of their work, HTML.
 keywords:
   - Web Design
   - HTML
@@ -22,7 +23,7 @@ What’s the story with Frontend Engineers and HTML these days? I’ve been spea
 
 It’s all about what gets consumed by the consumer. It’s the UI and UX. It’s the whole package. In descending order of importance it's the HTML, the CSS, and the behaviour (which might be provided by the Javascript - might not be).
 
-My big concern is at the bottom of that technology pyramid. The lowest common denominator of the Web. The foundation. The rhythm section. The ladyfingers in the Web trifle. It’s the HTML.  And it is becoming increasingly clear to me that there’s a whole swathe of _Frontend Engineers_ who don’t know or understand the frontend-est of frontend technologies.
+My big concern is at the bottom of that technology pyramid. The lowest common denominator of the Web. The foundation. The rhythm section. The ladyfingers in the Web trifle. It’s the HTML. And it is becoming increasingly clear to me that there’s a whole swathe of _Frontend Engineers_ who don’t know or understand the frontend-est of frontend technologies.
 
 A Web page is a document. A component, whether it’s part of a blog template, a news site, a marketing stats dashboard or a sign-up form, is a part of a document. Documents have structure. On the Web, that’s not just about the visuals or the architecture provided by your framework, it’s about choosing semantically correct elements to that make sure that your Web page, component, whatever, is correctly structurally formatted. Headings should be headings, lists should be lists, buttons should be buttons and tables should be tables. You can style them (pretty much) however you like - a heading doesn’t have to be big and bold with a bottom margin. That’s up to you, but it should definitely be a heading and I’ll fight you if you make it a `div`.
 
@@ -44,14 +45,14 @@ This stuff really matters. Not doing this stuff is slowly (actually not that slo
 
 Please do this. Make the Web a better place by building it responsibly. There’s a Web full of resources that can help you to do it, but here’s a few for starters:
 
-* Learn how to markup a document in HTML. Try little thought exercises where you look at a concert poster or a newspaper page and imagine how it would be structured in HTML. If you have time, build it. Use those learnings in your day-to-day work.
-* [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML) is a great resource for blog posts, tutorials and references.
-* Reach out to people in the community. Read blog posts (like Andy Bell’s recent post about using semantic HTML, [Keep it simple](https://andy-bell.design/wrote/keep-it-simple/)) and [watch videos](https://css-tricks.com/video-screencasts/58-html-css-the-very-basics/).
-* When I was coming up, *View Source* was still useful. We’ve collectively broken that for current and future generations, but I would impress upon you the power that comes with knowing [how to use a browser’s dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
-* Find out about [how assistive technologies access the Web](https://www.smashingmagazine.com/2019/02/accessibility-webinar/)
-* Look at the [HTML specs](https://www.w3.org/TR/html52/), or even just at a list of [HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and their uses.
-* If you work in a team of developers, have discussions about markup. Have lively conversations about whether _something_ should be a `table` or a `dl`
-([The Description List Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)). It’s great fun, I promise.
-* Find out who the HTML expert in your team is and ask them to review your code. If that person is me, I’m always happy to have that discussion.
+- Learn how to markup a document in HTML. Try little thought exercises where you look at a concert poster or a newspaper page and imagine how it would be structured in HTML. If you have time, build it. Use those learnings in your day-to-day work.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML) is a great resource for blog posts, tutorials and references.
+- Reach out to people in the community. Read blog posts (like Andy Bell’s recent post about using semantic HTML, [Keep it simple](https://andy-bell.design/wrote/keep-it-simple/)) and [watch videos](https://css-tricks.com/video-screencasts/58-html-css-the-very-basics/).
+- When I was coming up, _View Source_ was still useful. We’ve collectively broken that for current and future generations, but I would impress upon you the power that comes with knowing [how to use a browser’s dev tools](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+- Find out about [how assistive technologies access the Web](https://www.smashingmagazine.com/2019/02/accessibility-webinar/)
+- Look at the [HTML specs](https://www.w3.org/TR/html52/), or even just at a list of [HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) and their uses.
+- If you work in a team of developers, have discussions about markup. Have lively conversations about whether _something_ should be a `table` or a `dl`
+  ([The Description List Element - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl)). It’s great fun, I promise.
+- Find out who the HTML expert in your team is and ask them to review your code. If that person is me, I’m always happy to have that discussion.
 
 If you'd like to discuss any of this, I'm happy to have that chat. See my [contact page](https://www.petelambert.com/contact) for ways to get in touch.

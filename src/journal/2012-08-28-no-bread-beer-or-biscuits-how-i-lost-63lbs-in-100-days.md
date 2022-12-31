@@ -1,6 +1,7 @@
 ---
 title: 'No Bread, Beer or Biscuits: How I Lost 63lbs in 100 Days'
-date: '2012-08-28T11:15'
+tags: post
+date: 2012-08-28
 slug: no-bread-beer-or-biscuits-how-i-lost-63lbs-in-100-days
 keywords:
   - health

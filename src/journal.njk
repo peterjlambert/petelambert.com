@@ -3,9 +3,10 @@ title: Journal
 description: I'm Pete Lambert; husband, father, musician, web UI engineer and keen cyclist from Yorkshire. This is where things land when they fall out of my head.
 layout: main
 pagination:
-  data: collections.allPosts
+  data: collections.post
   size: 10
-  alias: posts
+  alias: post
+  reverse: true
 ---
 
 <main role="main" class="mainContent">
@@ -17,7 +18,7 @@ pagination:
   <div class="page__text">
 
   <ol class="posts">
-    {% for post in posts %}
+    {% for post in collections.post | reverse %}
 
       <li class="posts__item">
         <article class="{% if post.data.link %}linked{% endif %} postSummary">

@@ -1,11 +1,12 @@
 ---
 title: 'My Photo Highlights of 2017'
-date: '2017-12-31T11:18'
+tags: post
+date: 2017-12-31
 slug: my-photo-highlights-of-2017
 keywords:
-- life
-- travel
-- photography
+  - life
+  - travel
+  - photography
 excerpt: "It's New Year's Eve, 2017 and, as I sipped my morning coffee, I spent some time looking through my photo album and reflecting on the year. This year has definitely had its ups and downs for me, but the downs aren't represented at all in my camera roll. I only seem to capture the highs, and frankly I don't think that's a problem."
 ---
 
@@ -85,7 +86,7 @@ When my cousin took his family to Brittany a decade ago, it transformed their li
 
 [![A bright sun casts its rays on the San Francisco skyline.](https://oh.chuff.it/Q5NjkomBED.jpeg)](https://oh.chuff.it/lHemDwrVo9.jpg)
 
-In June I was back to San Francisco for another week working on site with my Logikcull colleagues. The development team at Logikcull is almost entirely remote, yet when we get together, it's like meeting up with old friends.  A few of us were put up in a fabulous AirBnB - a very comfortable penthouse apartment with amazing views of the city.
+In June I was back to San Francisco for another week working on site with my Logikcull colleagues. The development team at Logikcull is almost entirely remote, yet when we get together, it's like meeting up with old friends. A few of us were put up in a fabulous AirBnB - a very comfortable penthouse apartment with amazing views of the city.
 
 [![San Francisco's Golden Gate Bridge, in silhouette.](https://oh.chuff.it/OlrWoR6Hj7.jpeg)](https://oh.chuff.it/quJTPsecfC.jpg)
 

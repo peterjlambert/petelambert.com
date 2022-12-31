@@ -1,6 +1,7 @@
 ---
 title: 'Twenty Twenty'
-date: '2020-12-31T23:59'
+tags: post
+date: 2020-12-31
 slug: twenty-twenty
 keywords:
   - health

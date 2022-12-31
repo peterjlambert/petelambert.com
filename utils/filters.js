@@ -29,7 +29,7 @@ module.exports = {
   },
 
   niceDate(date) {
-    return DateTime.fromISO(date, {
+    return DateTime.fromJSDate(date, {
       zone: 'Europe/Amsterdam',
     }).toFormat(String('dd LLL yyyy'));
   },
