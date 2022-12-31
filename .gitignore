@@ -8,7 +8,7 @@ node_modules/
 package-lock.json
 
 # Eleventy
-build/
+_site/
 
 # Misc
 .DS_Store
