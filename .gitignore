@@ -1,5 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
 node_modules/
-npm-debug.log
-.sass-cache/
+package-lock.json
+
+# Eleventy
+_site/
+
+# Misc
 .DS_Store
-build/
+.env
+
+# Local Netlify folder
+.netlify

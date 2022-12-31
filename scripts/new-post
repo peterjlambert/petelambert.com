@@ -16,7 +16,7 @@ if (arg.indexOf('-') !== 0) {
 const titleSlug = slug(title, { lower: true });
 
 const options = {
-  destination: path.join(__dirname, '../src/site/journal'),
+  destination: path.join(__dirname, '../src/journal'),
   prefix: moment().format('YYYY-MM-DD'),
   silent: arg === '--silent',
   editor: arg == '--editor',

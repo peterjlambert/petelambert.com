@@ -1,0 +1,5 @@
+{
+  "layout": "post",
+  "tags": "reading",
+  "permalink": "reading-list/{{ slug }}/index.html"
+}
