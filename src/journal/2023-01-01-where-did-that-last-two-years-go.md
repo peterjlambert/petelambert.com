@@ -1,21 +1,22 @@
 ---
-title: 'Where did that last two years go?'
-tags: post
+title: Where did that last two years go?
 date: 2023-01-01
-slug: where-did-that-last-two-years-go
 keywords:
   - life
   - music
   - health
   - travel
-excerpt: 'It’s been a while. The last post on this site was literally two years ago and was a rundown of my 2020. It’s been a bit weird since, hasn’t it? I mean, the world got weirder. Stuff keeps happening. Such is time.'
+excerpt: It’s been a while. The last post on this site was literally two years
+  ago and was a rundown of my 2020. It’s been a bit weird since, hasn’t it? I
+  mean, the world got weirder. Stuff keeps happening. Such is time.
+tags: post
+slug: where-did-that-last-two-years-go
 ---
-
 It’s been a while. The last post on this site was literally two years ago and was a rundown of my 2020. It’s been a bit weird since, hasn’t it? I mean, the world got weirder. Stuff keeps happening. Such is time.
 
 ## Work
 
-At the end of 2020 I moved out of the engineering team at Logikcull and took my first management role, running the small but effective design team. Through my whole career I’ve operated in a hybrid development/design position - at first because that’s just what we did, and then later as a bridge in the gap between ‘full stack’ engineers and pure designers. Switching fully into design, having the knowledge and skills of an engineer was definitely an advantage. It meant I was able to drive the team effectively. I found the management side of the role difficult. Being a small team, I wanted to focus my efforts more on the _creating_ side and less on the management/admin side, and it always felt like I was running uphill, looking after the interests of those above and below in the organisation and it was hard.
+At the end of 2020 I moved out of the engineering team at Logikcull and took my first management role, running the small but effective design team. Through my whole career I’ve operated in a hybrid development/design position - at first because that’s just what we did, and then later as a bridge in the gap between ‘full stack’ engineers and pure designers. Switching fully into design, having the knowledge and skills of an engineer was definitely an advantage. It meant I was able to drive the team effectively. I found the management side of the role difficult. Being a small team, I wanted to focus my efforts more on the *creating* side and less on the management/admin side, and it always felt like I was running uphill, looking after the interests of those above and below in the organisation and it was hard.
 
 It was a stressful two years in that regard but the experience I gained will prove to be invaluable. Ultimately though I missed the doing. I missed creating and more importantly for me, I missed creating in code. I’ve always considered what I do at the front-end of the front-end to be ‘design in code’. Art not science. Design engineering. So I started bringing more of that back into my work stream and a change in the organisation has meant I’ve been able to go back to doing that full time. All of a sudden I’m building again and solving problems fast and with near immediate results. I’m much happier.
 
@@ -41,7 +42,7 @@ The reception to that first single has been amazing. It’s had numerous radio s
 
 ## Life
 
-A mixed bag really. Tremendous highs and personal achievements, but some lows too. My mental health took a battering for a number of reasons, as I’m sure did so many other people’s, and my physical fitness has taken a bash as a result, which is kind of a viscous cycle. I feel like I’m getting on top of at least one of those things though, having had a bit of therapy. I’ve got the tools in my belt now to keep my keel more even.
+A mixed bag really. Tremendous highs and personal achievements, but some lows too. My mental health took a battering for a number of reasons, as I’m sure did so many other people’s, and my physical fitness has taken a bash as a result, which is kind of a viscious cycle. I feel like I’m getting on top of at least one of those things though, having had a bit of therapy. I’ve got the tools in my belt now to keep my keel more even.
 
 Oh, and I was diagnosed with a degenerative spinal condition and had two surgeries for that that didn’t really work. I always forget about that. It’s just something that’s there now and I deal with it. It’s uncomfortable to painful but doesn’t deter my desire for adventure, so I can deal.
 
