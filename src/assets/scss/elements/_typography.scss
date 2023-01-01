@@ -34,14 +34,13 @@ h3 {
 }
 
 a {
-  color: var(--linkColor);
+  color: var(--foregroundColor);
   text-decoration: underline;
   text-decoration-color: var(--secondaryColor);
   text-decoration-thickness: 2px;
   transition: 0.3s all ease;
-
   &:hover {
-    color: var(--foregroundColor);
+    color: var(--linkColor);
     text-decoration-color: var(--linkColor--hover);
   }
 }
