@@ -2,6 +2,7 @@
 title: Where did that last two years go?
 date: 2023-01-01
 tags: post
+slug: where-did-that-last-two-years-go
 keywords:
   - life
   - music
