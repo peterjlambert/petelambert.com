@@ -19,12 +19,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peterjlambert/chuff.it"
+    "url": "https://github.com/peterjlambert/petelambert.com"
   },
   "author": "Pete Lambert <pete@petelambert.com>",
   "license": "Copyright Pete Lambert (2023)",
   "bugs": {
-    "url": "https://github.com/peterjlambert/chuff.it/issues"
+    "url": "https://github.com/peterjlambert/petelambert.com/issues"
   },
   "homepage": "https://petelambert.com",
   "devDependencies": {
