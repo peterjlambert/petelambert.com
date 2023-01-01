@@ -1,6 +1,6 @@
 ---
 title: Where did that last two years go?
-date: 2023-01-01T16:03:37.039Z
+date: 2023-01-01
 tags: post
 keywords:
   - life
