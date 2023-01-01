@@ -24,3 +24,4 @@ collections:
       - { label: 'Tags', name: 'keywords', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Section', name: 'tags', widget: 'string', default: 'journal' }
+      - { label: 'Slug', name: 'slug', widget: 'string', default: '{{slug}}' }
