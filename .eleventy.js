@@ -109,7 +109,7 @@ module.exports = function (eleventyConfig) {
   // Copy/pass-through files
   eleventyConfig.addPassthroughCopy('src/assets/css');
   eleventyConfig.addPassthroughCopy('src/assets/js');
-  eleventyConfig.addPassthroughCopy('src/admin/config.yml');
+  eleventyConfig.addPassthroughCopy('src/admin');
 
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],
@@ -117,7 +117,6 @@ module.exports = function (eleventyConfig) {
     passthroughFileCopy: true,
     dir: {
       input: 'src',
-      // better not use "public" as the name of the output folder (see above...)
       output: '_site',
       includes: '_includes',
       layouts: 'layouts',

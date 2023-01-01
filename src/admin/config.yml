@@ -5,6 +5,7 @@ backend:
 display_url: https://petelambert.com
 media_folder: public/assets
 public_folder: /assets
+publish_mode: editorial_workflow
 collections:
   - name: journal
     label: Journal
