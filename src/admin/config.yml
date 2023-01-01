@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: latest
   repo: peterjlambert/petelambert.com
 display_url: https://petelambert.com
 media_folder: public/assets
