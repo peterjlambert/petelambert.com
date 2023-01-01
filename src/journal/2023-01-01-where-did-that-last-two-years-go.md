@@ -3,6 +3,7 @@ title: Where did that last two years go?
 date: 2023-01-01
 tags: post
 slug: where-did-that-last-two-years-go
+excerpt: 'It’s been a while. The last post on this site was literally two years ago and was a rundown of my 2020. It’s been a bit weird since, hasn’t it? I mean, the world got weirder. Stuff keeps happening. Such is time.'
 keywords:
   - life
   - music
