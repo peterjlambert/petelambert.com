@@ -13,17 +13,16 @@
 }
 
 .footer__credits {
-  grid-column: 3/4;
-  display: block;
   font-family: var(--ffNav);
-  fonst-weight: var(--fwReg);
-  font-size: var(--ffLittle);
+  font-weight: var(--fwReg);
+  font-size: var(--fsLittle);
 }
 
 .footer__nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
+  display: flex;
+  flex-direction: column;
   grid-column: 3/4;
+  align-items: center;
 
   @media (max-width: 640px) {
     display: flex;
