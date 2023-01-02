@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 1rem;
+  gap: 2rem;
   align-self: center;
   padding-top: 5rem;
   padding-bottom: 3rem;
@@ -16,6 +16,10 @@
   font-family: var(--ffNav);
   font-weight: var(--fwReg);
   font-size: var(--fsLittle);
+  a {
+    display: inline-block;
+    padding: 0.5rem;
+  }
 }
 
 .footer__nav {

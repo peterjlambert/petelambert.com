@@ -21,6 +21,10 @@
   }
 }
 
+.navigation__list--footer {
+  gap: 0 1rem;
+}
+
 .navigation__link {
   align-items: center;
   color: var(--contrastLinkColor);
@@ -41,6 +45,10 @@
     color: var(--contrastLinkColor--hover);
     text-decoration: none;
   }
+}
+
+.navigation__list--footer .navigation__link {
+  padding: 0.5rem;
 }
 
 .navigation__logo--small {
