@@ -1,11 +1,8 @@
 .mainContent {
   background-color: var(--backgroundColor);
-  display: grid;
-  grid-template-columns: 1fr 1fr minmax(auto, var(--containerWidth)) 1fr 1fr;
+  display: flex;
+  flex-direction: column;
   padding-bottom: 10rem;
-  > * {
-    grid-column: 3/4;
-  }
 }
 
 .mainContent__body {
