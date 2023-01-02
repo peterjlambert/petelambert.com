@@ -5,7 +5,7 @@ layout: main
     <header class="mainHeader">
       <h1 itemprop="name" class="mainHeader__headline">{{ title }}</h1>
     </header>
-    <article role="article" itemscope itemtype="http://schema.org/BlogPosting" class="post">
+    <article role="article" itemscope itemtype="http://schema.org/BlogPosting" class="post mainContent__body">
       <p class="meta">
         <time datetime="{{ date | dateToISO }}" itemprop="datePublished" title="{{ date | niceDate }}" pubdate class="meta__pubDate">{{ date | niceDate }}</time>
         / <span class="meta__stats">About {{ content | readingTime }} reading time</span>
