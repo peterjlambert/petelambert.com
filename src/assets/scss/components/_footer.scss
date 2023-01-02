@@ -13,6 +13,8 @@
 }
 
 .footer_credits {
+  grid-column: 3/4;
+  display: block;
   font-family: var(--ffNav);
   fonst-weight: var(--fwReg);
   font-size: var(--ffLittle);
