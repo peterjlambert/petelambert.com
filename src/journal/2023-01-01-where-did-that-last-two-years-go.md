@@ -1,5 +1,5 @@
 ---
-title: Where did the last two years go?
+title: Where did two years go?
 date: 2023-01-01
 keywords:
   - life
