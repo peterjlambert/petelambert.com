@@ -71,7 +71,7 @@
         <a href="/" class="navigation__link">About</a>
       </li>
       <li
-        class="{% if page.fileSlug == 'journal' or tags == 'post' %}navigation__item--current{% endif %} navigation__item"
+        class="{% if page.fileSlug == 'journal' or 'journal/' in page.filePathStem or tags == 'post' %}navigation__item--current{% endif %} navigation__item"
       >
         <a href="/journal" class="navigation__link">Journal</a>
       </li>
@@ -83,3 +83,5 @@
       
     </ul>
 </nav>
+
+

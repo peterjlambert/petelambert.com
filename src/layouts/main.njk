@@ -7,7 +7,7 @@ ogImage: /assets/images/og-image.png
 <html lang="en" class="{{ htmlClass }} {{ slug or page.fileSlug }} site">
 
   <head itemtype="http://schema.org/Blog" itemscope>
-    <title>{{ title }} ~ Pete Lambert</title>
+    <title>{{ title }} {% if slug != 'home' %} ~ Pete Lambert {% endif %}</title>
 
     <meta charset="utf-8">
 
