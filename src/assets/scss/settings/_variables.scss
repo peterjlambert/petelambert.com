@@ -30,9 +30,8 @@
   --ffCode: Consolas, monaco, monospace;
 
   // Widths
-  --textContentWidth: 68ch;
-  --containerWidth: 68ch;
-  --sidebarWidth: 36ch;
+  --textContentWidth: 48rem;
+  --containerWidth: var(--textContentWidth);
 
   // Primary Accent Color
   --primaryColor: hsl(230, 31%, 46%);

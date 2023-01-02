@@ -28,7 +28,7 @@
 
 .mainHeader__headline,
 .mainHeader__description {
-  grid-column: 3/4;
   padding-left: 1rem;
   padding-right: 1rem;
+  max-width: var(--textContentWidth);
 }

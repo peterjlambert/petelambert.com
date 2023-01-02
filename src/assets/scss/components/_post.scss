@@ -1,9 +1,10 @@
 .post {
+  align-self: center;
+  font-size: 1.1em;
+  max-width: var(--textContentWidth);
   padding-left: 1rem;
   padding-right: 1rem;
   padding-top: 3rem;
-  font-size: 1.1em;
-
   img {
     max-width: 100%;
   }
