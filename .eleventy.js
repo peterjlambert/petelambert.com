@@ -109,7 +109,6 @@ module.exports = function (eleventyConfig) {
   // Copy/pass-through files
   eleventyConfig.addPassthroughCopy('src/assets/css');
   eleventyConfig.addPassthroughCopy('src/assets/js');
-  eleventyConfig.addPassthroughCopy('src/public');
   eleventyConfig.addPassthroughCopy('src/admin/config.yml');
 
   return {
