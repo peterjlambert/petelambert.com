@@ -5,9 +5,15 @@
   color: var(--contrastForegroundColor);
   display: grid;
   grid-template-columns: 1fr 1fr minmax(auto, 640px) 1fr 1fr;
-  align-self: flex-end;
+  align-self: center;
   padding-top: 5rem;
   padding-bottom: 3rem;
+}
+
+.footer_credits {
+  grid-column: 3/4;
+  font-family: var(--ffNav);
+  font-size: var(--ffSmall);
 }
 
 .footer__nav {
