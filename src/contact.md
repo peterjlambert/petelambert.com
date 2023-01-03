@@ -22,12 +22,14 @@ keywords:
   - links
 layout: page
 ---
+<h3 class="meta">Email</h3>
+[{{meta.email}}](mailto:{{meta.email}})
 
-| Method         | Value                                                                                                  |
-| -------------- | ------------------------------------------------------------------------------------------------------ |
-| Email          | {{meta.email}}                                                                                         |
-| Mastodon       | [{{meta.mastodon.server}}/{{meta.mastodon.handle}}](https://{{meta.mastodon.server}}/{{meta.twitter}}) |
-| Instagram      | [{{meta.instagram}}](https://instagram.com/{{meta.instagram}})                                         |
-| GitHub         | [{{meta.github}}](https://github.com/{{meta.github}})                                                  |
-| YouTube        | [YouTube]({{meta.youtube}})                                                                            |
-| My music stuff | [Pete Lambert Music]({{meta.music}})                                                                   |
+<h3 class="meta">Mastodon</h3>
+[{{meta.mastodon.server}}/{{meta.mastodon.handle}}](https://{{meta.mastodon.server}}/{{meta.mastodon.handle}})
+
+<h3 class="meta">Github</h3>
+[{{meta.github}}](https://github.com/{{meta.github}})
+
+<h3 class="meta">My music stuff</h3>
+[Pete Lambert Music]({{meta.music}}
