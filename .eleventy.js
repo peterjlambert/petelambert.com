@@ -23,27 +23,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyPluginRss);
   eleventyConfig.addPlugin(EleventyPluginSyntaxhighlight);
   eleventyConfig.setServerOptions({
-    // Default values are shown:
-    // Opt-out of the live reload snippet
     enabled: true,
-    // Opt-out of DOM diffing updates and use page reloads
     domdiff: true,
-    // The starting port number to attempt to use
     port: 8080,
-    // number of times to increment the port if in use
     portReassignmentRetryCount: 10,
-    // Show local network IP addresses for device testing
     showAllHosts: false,
-    // Use a local key/certificate to opt-in to local HTTP/2 with https
     https: {
       // key: "./localhost.key",
       // cert: "./localhost.cert",
     },
-    // Change the name of the special folder name used for injected scripts
     folder: '.11ty',
-    // Show the server version number on the command line
     showVersion: false,
-    // Change the default file encoding for reading/serving files
     encoding: 'utf-8',
   });
   eleventyConfig.on('beforeBuild', () => {
@@ -111,6 +101,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets/js');
   eleventyConfig.addPassthroughCopy({ 'src/public': '/' });
   eleventyConfig.addPassthroughCopy('src/admin/config.yml');
+
+  eleventyConfig.addCollection('journal', function (collection) {
+    return collection.getFilteredByGlob('journal/**/*.md');
+  });
 
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],
