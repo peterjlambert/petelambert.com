@@ -24,3 +24,5 @@ collections:
       - { label: 'Tags', name: 'keywords', widget: 'list' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'markdown' }
+      - { label: 'Category', name: 'tags', widget: 'hidden', default: 'post' }
+      - { label: 'Slug', name: 'slug', widget: 'hidden', default: { { slug } } }
