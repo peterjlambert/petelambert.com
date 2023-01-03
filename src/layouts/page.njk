@@ -6,9 +6,11 @@ layout: main
     <h1 class="mainHeader__headline">
       {{ title }}
     </h1>
+    {% if description %}
     <p class="mainHeader__description">
       {{ description }}
     </p>
+    {% endif %}
   </header>
   <article class="page">
     <div class="page__text">

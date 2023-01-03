@@ -35,7 +35,27 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Headline, name: headline, widget: string }
-          - { label: Meta Description, name: description, widget: string }
+          - { label: Description, name: description, widget: string }
           - { label: Keywords, name: keywords, widget: list }
           - { label: Slug, name: slug, widget: string, default: 'home' }
+          - { label: Body, name: body, widget: markdown }
+      - label: 'Contact'
+        name: 'contact'
+        file: 'src/contact.md'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Headline, name: headline, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Keywords, name: keywords, widget: list }
+          - { label: Slug, name: slug, widget: string, default: 'contact' }
+          - { label: Body, name: body, widget: markdown }
+      - label: 'Credits'
+        name: 'credits'
+        file: 'src/credits.md'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Headline, name: headline, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Keywords, name: keywords, widget: list }
+          - { label: Slug, name: slug, widget: string, default: 'credits' }
           - { label: Body, name: body, widget: markdown }
