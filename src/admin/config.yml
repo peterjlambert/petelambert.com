@@ -35,7 +35,12 @@ collections:
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Headline, name: headline, widget: string }
-          - { label: Description, name: description, widget: string }
+          - {
+              label: Description,
+              name: description,
+              widget: string,
+              required: false,
+            }
           - {
               label: Keywords,
               name: keywords,
@@ -64,7 +69,12 @@ collections:
         file: 'src/contact.md'
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Description, name: description, widget: string }
+          - {
+              label: Description,
+              name: description,
+              widget: string,
+              required: false,
+            }
           - {
               label: Keywords,
               name: keywords,
@@ -92,7 +102,12 @@ collections:
         file: 'src/credits.md'
         fields:
           - { label: Title, name: title, widget: string }
-          - { label: Description, name: description, widget: string }
+          - {
+              label: Description,
+              name: description,
+              widget: string,
+              required: false,
+            }
           - {
               label: Keywords,
               name: keywords,
