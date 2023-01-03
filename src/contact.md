@@ -2,6 +2,20 @@
 template: contact
 title: Contact
 description: Get in touch with Pete Lambert by email or through a veritable smorgasbord of social media platforms
+keywords:
+  - pete lambert
+  - designer
+  - design manager
+  - design engineer
+  - musician
+  - guitarist
+  - web designer
+  - engineer
+  - web
+  - ui
+  - yorkshire
+  - web developer
+  - music
 layout: page
 ---
 

@@ -1,5 +1,19 @@
 ---
 title: Licenses & Credits
+keywords:
+  - pete lambert
+  - designer
+  - design manager
+  - design engineer
+  - musician
+  - guitarist
+  - web designer
+  - engineer
+  - web
+  - ui
+  - yorkshire
+  - web developer
+  - music
 layout: page
 date: 2023-01-03
 ---
