@@ -21,7 +21,7 @@ keywords:
   - links
 layout: page
 ---
-Get in touch with Pete Lambert by email or through a veritable smorgasbord of social media platforms
+Get in touch by email or social media.
 
 <h3 class="meta">Email</h3>
 
