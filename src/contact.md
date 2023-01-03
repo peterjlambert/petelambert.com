@@ -1,8 +1,10 @@
 ---
 template: contact
 title: Contact
-description: Get in touch with Pete Lambert by email or through a veritable smorgasbord of social media platforms
+description: Get in touch with Pete Lambert by email or through a veritable
+  smorgasbord of social media platforms
 keywords:
+  - contact
   - pete lambert
   - designer
   - design manager
@@ -16,6 +18,8 @@ keywords:
   - yorkshire
   - web developer
   - music
+  - social media
+  - links
 layout: page
 ---
 
