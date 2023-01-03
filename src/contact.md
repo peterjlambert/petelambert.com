@@ -1,8 +1,8 @@
 ---
 template: contact
 title: Contact
+description: Get in touch with Pete Lambert by email or through a veritable smorgasbord of social media platforms
 layout: page
-color: orange
 ---
 
 | Method         | Value                                                                                                  |
