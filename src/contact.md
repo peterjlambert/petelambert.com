@@ -1,7 +1,7 @@
 ---
 template: contact
 title: Contact
-description: Get in touch
+description: ""
 keywords:
   - contact
   - pete lambert
