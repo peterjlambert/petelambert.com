@@ -7,7 +7,7 @@ pagination:
   size: 10
   alias: posts
   reverse: true
-permalink: "journal/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+permalink: "journal/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}/{{ post.fileSlug }}/"
 ---
 
 <main role="main" class="mainContent">
