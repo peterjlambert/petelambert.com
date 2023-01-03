@@ -26,3 +26,16 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'markdown' }
       - { label: 'Category', name: 'tags', widget: 'hidden', default: 'post' }
+  - label: 'Pages'
+    name: 'pages'
+    files:
+      - label: 'Home Page'
+        name: 'home'
+        file: 'src/index.md'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Headline, name: headline, widget: string }
+          - { label: Meta Description, name: description, widget: string }
+          - { label: Keywords, name: keywords, widget: list }
+          - { label: Slug, name: slug, widget: string, default: 'home' }
+          - { label: Body, name: body, widget: markdown }
