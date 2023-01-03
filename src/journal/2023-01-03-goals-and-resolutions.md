@@ -10,7 +10,7 @@ excerpt: As we start the new year, it's tempting to resolve to improve ourselves
   or our situation without ever really thinking about why. Here I discuss why I
   prefer to set goals rather than resolutions, and what that means to me.
 ---
-It’s that time of year when we roll out the resolutions. A list of ways to improve ourselves - to turn over a new leaf as we start another lap of the sun. It’s something that I’ve done for most of my life; sometimes formally with a pen and paper, sometimes out loud and sometimes just in my head, marking a list of reminders of what I *should* be doing throughout my year. My own resolutions have always taken the same format and many carry over year-to-year. Some have been successful in guiding me through the months and establishing new habits, most have been forgotten or ignored by the end of January. 
+It’s that time of year when we roll out the resolutions. A list of ways to improve ourselves - to turn over a new leaf as we start another lap of the sun. It’s something that I’ve done for most of my life; sometimes formally with a pen and paper, sometimes out loud and sometimes just in my head, marking a list of reminders of what I *should* be doing throughout my year. My own resolutions have always taken the same format and many carry over year-to-year. Some have been successful in guiding me through the months and establishing new habits, most have been forgotten or ignored by the end of January.
 
 Historically, my resolutions would generally take this form:
 
