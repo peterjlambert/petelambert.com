@@ -2,8 +2,8 @@
 layout: home
 title: Pete Lambert
 headline: 👋 Hello, you
-slug: home
-description: This is where things land when they fall out of my head.
+description: The personal website of Pete Lambert. This is where things land
+  when they fall out of my head.
 keywords:
   - pete lambert
   - designer
@@ -18,6 +18,7 @@ keywords:
   - yorkshire
   - web developer
   - music
+slug: home
 ---
 
 Hi. I'm Pete Lambert and amongst a fair few other things, I'm a husband, father, design engineer and musician from Yorkshire.
