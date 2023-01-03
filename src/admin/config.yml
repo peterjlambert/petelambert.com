@@ -15,6 +15,7 @@ collections:
     delete: true
     fields:
       - { label: Title, name: title, widget: string }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
       - {
           label: 'Publish Date',
           name: 'date',
@@ -25,9 +26,3 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'markdown' }
       - { label: 'Category', name: 'tags', widget: 'hidden', default: 'post' }
-      - {
-          label: 'Permalink',
-          name: 'permalink',
-          widget: 'hidden',
-          default: { { slug } },
-        }
