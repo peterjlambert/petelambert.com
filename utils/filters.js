@@ -33,4 +33,8 @@ module.exports = {
       zone: 'Europe/Amsterdam',
     }).toFormat(String('dd LLL yyyy'));
   },
+
+  limit(arr, limit) {
+    return arr.slice(0, limit);
+  },
 };
