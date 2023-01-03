@@ -82,8 +82,6 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addShortcode(shortcodeName, shortcodes[shortcodeName]);
   });
 
-  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
-
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,

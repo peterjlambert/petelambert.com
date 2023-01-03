@@ -1,7 +1,7 @@
 ---
 title: Licenses & Credits
 layout: page
-date: 2022-12-30T00:00
+date: 2023-01-03
 ---
 
 <p class="meta">
@@ -15,7 +15,7 @@ date: 2022-12-30T00:00
 ### This site's simple license:
 
 ```
-Copyright Pete Lambert, {% year %}
+Copyright Pete Lambert, {% year %}.
 You may steal the code of this site, and be inspired by its structure.
 You may not steal any writings or photography of mine and claim them as your own.
 ```
