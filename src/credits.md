@@ -29,7 +29,6 @@ date: 2023-01-03
 ### This site's simple license:
 
 ```
-Copyright Pete Lambert, {% year %}.
-You may steal the code of this site, and be inspired by its structure.
-You may not steal any writings or photography of mine and claim them as your own.
+© Copyright Pete Lambert, {% year %}.
+You may steal or borrow bits of code from this site that you find helpful in your own project but you are not licensed to copy this project in its entirety. You may not take any writings or images from this project and claim them as your own.
 ```
