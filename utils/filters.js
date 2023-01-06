@@ -1,4 +1,5 @@
 const { DateTime } = require('luxon');
+const dumpFilter = require('@jamshop/eleventy-filter-dump');
 
 module.exports = {
   dateToFormat: function (date, format) {
@@ -36,5 +37,17 @@ module.exports = {
 
   limit(arr, limit) {
     return arr.slice(0, limit);
+  },
+
+  dump(dumpFilter) {
+    return dumpFilter;
+  },
+
+  json(data) {
+    return JSON.stringify(data);
+  },
+
+  keys(data) {
+    return Object.keys(data);
   },
 };

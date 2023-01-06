@@ -1,0 +1,509 @@
+{
+  "head": {
+    "title": "Feeds"
+  },
+  "body": {
+    "outline": [
+      {
+        "outline": [
+          {
+            "_xmlUrl": "https://www.nomadicmatt.com/feed/",
+            "_title": "Nomadic Matt's Travel Site",
+            "_text": "Nomadic Matt's Travel Site",
+            "_type": "rss",
+            "_htmlUrl": "https://www.nomadicmatt.com/"
+          },
+          {
+            "_type": "rss",
+            "_title": "The Points Guy UK",
+            "_htmlUrl": "https://thepointsguy.co.uk",
+            "_xmlUrl": "https://thepointsguy.co.uk/feed/",
+            "_text": "The Points Guy UK"
+          },
+          {
+            "_title": "Turning left for less",
+            "_type": "rss",
+            "_text": "Turning left for less",
+            "_htmlUrl": "https://www.turningleftforless.com/",
+            "_xmlUrl": "https://www.turningleftforless.com/feed/"
+          },
+          {
+            "_htmlUrl": "https://www.headforpoints.com",
+            "_xmlUrl": "https://www.headforpoints.com/feed",
+            "_title": "Head for Points",
+            "_text": "Head for Points",
+            "_type": "rss"
+          },
+          {
+            "_xmlUrl": "https://www.seat31b.com/feed/",
+            "_type": "rss",
+            "_title": "Seat 31B",
+            "_text": "Seat 31B",
+            "_htmlUrl": "https://www.seat31b.com"
+          },
+          {
+            "_type": "rss",
+            "_xmlUrl": "https://www.flyertalk.com/feed",
+            "_title": "FlyerTalk – The world's most popular frequent flyer community",
+            "_text": "FlyerTalk – The world's most popular frequent flyer community",
+            "_htmlUrl": "https://www.flyertalk.com"
+          },
+          {
+            "_htmlUrl": "https://alastairhumphreys.com/category/blog/",
+            "_type": "rss",
+            "_xmlUrl": "http://www.alastairhumphreys.com/category/blog/feed/",
+            "_text": "Blog Archives - Alastair Humphreys",
+            "_title": "Blog Archives - Alastair Humphreys"
+          },
+          {
+            "_text": "expertvagabond.com",
+            "_title": "expertvagabond.com",
+            "_type": "rss",
+            "_htmlUrl": "https://expertvagabond.com",
+            "_xmlUrl": "https://expertvagabond.com/wp-json/wp/v2/pages/19658"
+          },
+          {
+            "_xmlUrl": "https://www.adventure-journal.com/feed/",
+            "_title": "Adventure Journal",
+            "_text": "Adventure Journal",
+            "_type": "rss",
+            "_htmlUrl": "https://www.adventure-journal.com/"
+          },
+          {
+            "_type": "rss",
+            "_title": "The Planet D: Adventure Travel Blog",
+            "_text": "The Planet D: Adventure Travel Blog",
+            "_htmlUrl": "https://theplanetd.com/",
+            "_xmlUrl": "https://theplanetd.com/feed/"
+          },
+          {
+            "_type": "rss",
+            "_xmlUrl": "https://localadventurer.com/feed/",
+            "_htmlUrl": "https://localadventurer.com",
+            "_title": "Local Adventurer » Travel Adventures in Las Vegas + World Wide",
+            "_text": "Local Adventurer » Travel Adventures in Las Vegas + World Wide"
+          },
+          {
+            "_text": "ordinarytraveler.com",
+            "_type": "rss",
+            "_htmlUrl": "https://ordinarytraveler.com",
+            "_title": "ordinarytraveler.com",
+            "_xmlUrl": "https://ordinarytraveler.com/wp-json/wp/v2/pages/1000662"
+          }
+        ],
+        "_text": "Adventure",
+        "_title": "Adventure"
+      },
+      {
+        "outline": [
+          {
+            "_title": "xkcd.com",
+            "_type": "rss",
+            "_xmlUrl": "http://www.xkcd.com/rss.xml",
+            "_text": "xkcd.com",
+            "_htmlUrl": "https://xkcd.com/"
+          },
+          {
+            "_text": "Textastrophe",
+            "_xmlUrl": "http://textastrophe.com/rss",
+            "_title": "Textastrophe",
+            "_type": "rss",
+            "_htmlUrl": "https://textastrophe.com/"
+          },
+          {
+            "_type": "rss",
+            "_text": "kottke.org",
+            "_htmlUrl": "http://kottke.org/",
+            "_xmlUrl": "http://feeds.kottke.org/main",
+            "_title": "kottke.org"
+          }
+        ],
+        "_title": "Interesting and Funny",
+        "_text": "Interesting and Funny"
+      },
+      {
+        "outline": [
+          {
+            "_htmlUrl": "https://americana-uk.com",
+            "_xmlUrl": "https://americana-uk.com/feed",
+            "_type": "rss",
+            "_text": "Americana UK",
+            "_title": "Americana UK"
+          },
+          {
+            "_title": "Gear4music Blog",
+            "_htmlUrl": "https://www.gear4music.com/blog/",
+            "_xmlUrl": "https://www.gear4music.com/blog/feed/",
+            "_type": "rss",
+            "_text": "Gear4music Blog"
+          },
+          {
+            "_text": "York Calling",
+            "_title": "York Calling",
+            "_type": "rss",
+            "_xmlUrl": "https://yorkcalling.co.uk/feed/",
+            "_htmlUrl": "https://yorkcalling.co.uk"
+          }
+        ],
+        "_title": "Music",
+        "_text": "Music"
+      },
+      {
+        "outline": [
+          {
+            "_type": "rss",
+            "_text": "MacSparky",
+            "_xmlUrl": "http://www.macsparky.com/feed",
+            "_title": "MacSparky",
+            "_htmlUrl": "https://www.macsparky.com/"
+          },
+          {
+            "_title": "Wirecutter: Reviews for the Real World",
+            "_xmlUrl": "http://feeds.feedburner.com/TheWirecutter",
+            "_htmlUrl": "https://www.nytimes.com/wirecutter",
+            "_type": "rss",
+            "_text": "Wirecutter: Reviews for the Real World"
+          },
+          {
+            "_text": "Uses This",
+            "_title": "Uses This",
+            "_htmlUrl": "https://usesthis.com/feed.atom",
+            "_xmlUrl": "http://usesthis.com/feed/",
+            "_type": "rss"
+          },
+          {
+            "_xmlUrl": "http://feedpress.me/512pixels",
+            "_text": "512 Pixels",
+            "_title": "512 Pixels",
+            "_htmlUrl": "http://512pixels.net",
+            "_type": "rss"
+          },
+          {
+            "_xmlUrl": "http://toolsandtoys.net/feed/",
+            "_title": "Tools and Toys",
+            "_text": "Tools and Toys",
+            "_htmlUrl": "http://toolsandtoys.net",
+            "_type": "rss"
+          },
+          {
+            "_text": "Six Colors",
+            "_title": "Six Colors",
+            "_xmlUrl": "http://feedpress.me/sixcolors",
+            "_htmlUrl": "https://sixcolors.com",
+            "_type": "rss"
+          },
+          {
+            "_xmlUrl": "http://feeds.feedburner.com/Documentally",
+            "_text": "Documentally.com",
+            "_title": "Documentally.com",
+            "_htmlUrl": "http://documentally.com",
+            "_type": "rss"
+          },
+          {
+            "_text": "The Sweet Setup",
+            "_xmlUrl": "http://thesweetsetup.com/feed/",
+            "_type": "rss",
+            "_title": "The Sweet Setup",
+            "_htmlUrl": "https://thesweetsetup.com"
+          },
+          {
+            "_title": "Daring Fireball",
+            "_type": "rss",
+            "_htmlUrl": "https://daringfireball.net/",
+            "_xmlUrl": "https://daringfireball.net/feeds/main",
+            "_text": "Daring Fireball"
+          },
+          {
+            "_type": "rss",
+            "_text": "MacRumors: Mac News and Rumors - All Stories",
+            "_htmlUrl": "https://www.macrumors.com",
+            "_title": "MacRumors: Mac News and Rumors - All Stories",
+            "_xmlUrl": "http://feeds.macrumors.com/MacRumors-All"
+          }
+        ],
+        "_title": "Tech",
+        "_text": "Tech"
+      },
+      {
+        "outline": [
+          {
+            "_title": "Rachel Andrew",
+            "_htmlUrl": "https://rachelandrew.co.uk",
+            "_text": "Rachel Andrew",
+            "_type": "rss",
+            "_xmlUrl": "https://rachelandrew.co.uk/archives/rss.php"
+          },
+          {
+            "_htmlUrl": "https://tympanus.net/codrops",
+            "_type": "rss",
+            "_title": "Codrops",
+            "_text": "Codrops",
+            "_xmlUrl": "http://feeds2.feedburner.com/tympanus"
+          },
+          {
+            "_title": "Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher.",
+            "_htmlUrl": "https://stephaniewalter.design/",
+            "_xmlUrl": "http://feedpress.me/stephaniewalter-blog-en",
+            "_type": "rss",
+            "_text": "Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher."
+          },
+          {
+            "_htmlUrl": "https://tobiasahlin.com",
+            "_xmlUrl": "https://tobiasahlin.com/feed.xml",
+            "_title": "Tobias Ahlin",
+            "_text": "Tobias Ahlin",
+            "_type": "rss"
+          },
+          {
+            "_title": "Zeldman on Web and Interaction Design",
+            "_htmlUrl": "https://www.zeldman.com/",
+            "_type": "rss",
+            "_text": "Zeldman on Web and Interaction Design",
+            "_xmlUrl": "http://www.zeldman.com/feed/"
+          },
+          {
+            "_text": "Ethan Marcotte’s website",
+            "_htmlUrl": "https://ethanmarcotte.com/wrote/feed.xml",
+            "_title": "Ethan Marcotte’s website",
+            "_xmlUrl": "https://ethanmarcotte.com/wrote/feed.xml",
+            "_type": "rss"
+          },
+          {
+            "_title": "Manuel Matuzović - Web development blog",
+            "_type": "rss",
+            "_text": "Manuel Matuzović - Web development blog",
+            "_htmlUrl": "https://matuzo.at/feed.xml",
+            "_xmlUrl": "https://www.matuzo.at/feed.xml?rev=1669185388178"
+          },
+          {
+            "_htmlUrl": "https://prototypr.io",
+            "_xmlUrl": "https://prototypr.io/feed/",
+            "_title": "Prototypr | Prototyping",
+            "_type": "rss",
+            "_text": "Prototypr | Prototyping"
+          },
+          {
+            "_xmlUrl": "https://macwright.org/rss.xml",
+            "_type": "rss",
+            "_htmlUrl": "https://macwright.com",
+            "_title": "macwright.com",
+            "_text": "macwright.com"
+          },
+          {
+            "_xmlUrl": "http://feather.ca/feed/",
+            "_text": "Derek Featherstone",
+            "_type": "rss",
+            "_title": "Derek Featherstone",
+            "_htmlUrl": "http://feather.ca"
+          },
+          {
+            "_type": "rss",
+            "_title": "Hicks Journal: Latest articles",
+            "_text": "Hicks Journal: Latest articles",
+            "_htmlUrl": "https://hicks.design/journal",
+            "_xmlUrl": "https://hicks.design/feeds/journal/"
+          },
+          {
+            "_title": "The Whimsical Web",
+            "_text": "The Whimsical Web",
+            "_type": "rss",
+            "_htmlUrl": "https://whimsical.club",
+            "_xmlUrl": "https://whimsical.club/feed.xml"
+          },
+          {
+            "_text": "Tim Benniks",
+            "_title": "Tim Benniks",
+            "_htmlUrl": "https://timbenniks.dev/feed.xml",
+            "_type": "rss",
+            "_xmlUrl": "https://timbenniks.dev/feed.xml"
+          },
+          {
+            "_title": "Articles on Smashing Magazine — For Web Designers And Developers",
+            "_htmlUrl": "https://www.smashingmagazine.com/",
+            "_text": "Articles on Smashing Magazine — For Web Designers And Developers",
+            "_xmlUrl": "https://www.smashingmagazine.com/feed/",
+            "_type": "rss"
+          },
+          {
+            "_title": "Josh Comeau's blog",
+            "_type": "rss",
+            "_xmlUrl": "https://www.joshwcomeau.com/rss.xml",
+            "_text": "Josh Comeau's blog",
+            "_htmlUrl": "https://www.joshwcomeau.com/"
+          },
+          {
+            "_xmlUrl": "https://adactio.com/journal/rss",
+            "_type": "rss",
+            "_title": "Adactio: Journal",
+            "_text": "Adactio: Journal",
+            "_htmlUrl": "https://adactio.com/journal/"
+          },
+          {
+            "_htmlUrl": "https://snook.ca/",
+            "_text": "Snook.ca",
+            "_type": "rss",
+            "_title": "Snook.ca",
+            "_xmlUrl": "https://snook.ca/posts/index.rss"
+          },
+          {
+            "_htmlUrl": "https://benfrain.com",
+            "_type": "rss",
+            "_xmlUrl": "https://benfrain.com/feed/",
+            "_text": "Ben Frain",
+            "_title": "Ben Frain"
+          },
+          {
+            "_xmlUrl": "https://www.petelambert.com/feed.xml",
+            "_htmlUrl": "https://www.petelambert.com/feed.xml",
+            "_type": "rss",
+            "_title": "Pete Lambert ~ Journal",
+            "_text": "Pete Lambert ~ Journal"
+          },
+          {
+            "_htmlUrl": "https://bradfrost.com",
+            "_xmlUrl": "http://feeds.feedburner.com/brad-frosts-blog",
+            "_title": "Brad Frost",
+            "_text": "Brad Frost",
+            "_type": "rss"
+          },
+          {
+            "_title": "cassie.codes",
+            "_type": "rss",
+            "_text": "cassie.codes",
+            "_htmlUrl": "https://cassie.codes/feed.xml",
+            "_xmlUrl": "https://www.cassie.codes/feed.xml"
+          },
+          {
+            "_htmlUrl": "https://www.zachleat.com/web/notes/feed/",
+            "_xmlUrl": "https://www.zachleat.com/web/notes/feed/",
+            "_text": "Zach Leatherman’s Notes",
+            "_title": "Zach Leatherman’s Notes",
+            "_type": "rss"
+          },
+          {
+            "_title": "Sally Lait - blog",
+            "_htmlUrl": "https://sallylait.com/blog/",
+            "_type": "rss",
+            "_text": "Sally Lait - blog",
+            "_xmlUrl": "https://sallylait.com/blog/index.xml"
+          },
+          {
+            "_htmlUrl": "https://css-tricks.com",
+            "_type": "rss",
+            "_title": "CSS-Tricks",
+            "_xmlUrl": "http://feeds.feedburner.com/CssTricks",
+            "_text": "CSS-Tricks"
+          },
+          {
+            "_type": "rss",
+            "_title": "CSS In Real Life",
+            "_htmlUrl": "https://css-irl.info/rss.xml/",
+            "_xmlUrl": "https://css-irl.info/rss.xml",
+            "_text": "CSS In Real Life"
+          },
+          {
+            "_xmlUrl": "http://feeds.feedburner.com/wesbos/ZXAx",
+            "_type": "rss",
+            "_title": "Wes Bos",
+            "_htmlUrl": "https://wesbos.com",
+            "_text": "Wes Bos"
+          },
+          {
+            "_type": "rss",
+            "_title": "Mozilla Hacks – the Web developer blog",
+            "_text": "Mozilla Hacks – the Web developer blog",
+            "_xmlUrl": "https://hacks.mozilla.org/feed/",
+            "_htmlUrl": "https://hacks.mozilla.org/"
+          },
+          {
+            "_htmlUrl": "https://pineco.de/",
+            "_text": "Pine",
+            "_xmlUrl": "https://pineco.de/feed/",
+            "_type": "rss",
+            "_title": "Pine"
+          },
+          {
+            "_text": "Stuff & Nonsense | And All That Malarkey",
+            "_htmlUrl": "https://stuffandnonsense.co.uk/blog",
+            "_title": "Stuff & Nonsense | And All That Malarkey",
+            "_type": "rss",
+            "_xmlUrl": "https://stuffandnonsense.co.uk/blog/feed"
+          },
+          {
+            "_type": "rss",
+            "_title": "Matthias Ott – User Experience Designer",
+            "_text": "Matthias Ott – User Experience Designer",
+            "_xmlUrl": "https://matthiasott.com/feed",
+            "_htmlUrl": "https://matthiasott.com/"
+          },
+          {
+            "_htmlUrl": "https://lea.verou.me",
+            "_title": "Lea Verou",
+            "_xmlUrl": "http://lea.verou.me/feed/",
+            "_type": "rss",
+            "_text": "Lea Verou"
+          },
+          {
+            "_text": "TimKadlec.com on Web Performance Consulting | TimKadlec.com",
+            "_xmlUrl": "http://timkadlec.com/atom.xml",
+            "_title": "TimKadlec.com on Web Performance Consulting | TimKadlec.com",
+            "_htmlUrl": "https://timkadlec.com/",
+            "_type": "rss"
+          },
+          {
+            "_text": "CSS on Smashing Magazine — For Web Designers And Developers",
+            "_xmlUrl": "https://www.smashingmagazine.com/category/css/index.xml",
+            "_type": "rss",
+            "_htmlUrl": "https://www.smashingmagazine.com/category/css/index.xml",
+            "_title": "CSS on Smashing Magazine — For Web Designers And Developers"
+          },
+          {
+            "_xmlUrl": "http://www.heydonworks.com/feed",
+            "_type": "rss",
+            "_title": "HeydonWorks",
+            "_text": "HeydonWorks",
+            "_htmlUrl": "https://heydonworks.com"
+          },
+          {
+            "_title": "Impressive Webs",
+            "_text": "Impressive Webs",
+            "_htmlUrl": "https://www.impressivewebs.com/",
+            "_type": "rss",
+            "_xmlUrl": "https://www.impressivewebs.com/feed/"
+          },
+          {
+            "_xmlUrl": "https://moderncss.dev/feed/",
+            "_text": "Modern CSS Solutions",
+            "_type": "rss",
+            "_title": "Modern CSS Solutions",
+            "_htmlUrl": "https://moderncss.dev/feed/"
+          },
+          {
+            "_htmlUrl": "https://hidde.blog/feed",
+            "_title": "Hidde's blog",
+            "_type": "rss",
+            "_xmlUrl": "https://hidde.blog/feed",
+            "_text": "Hidde's blog"
+          },
+          {
+            "_text": "bryanlrobinson.com",
+            "_title": "bryanlrobinson.com",
+            "_xmlUrl": "https://bryanlrobinson.com/feed.xml",
+            "_htmlUrl": "https://bryanlrobinson.com",
+            "_type": "rss"
+          },
+          {
+            "_text": "PaulStamatiou.com - Technology, Design and Photography",
+            "_xmlUrl": "https://paulstamatiou.com/posts.xml",
+            "_htmlUrl": "https://paulstamatiou.com",
+            "_type": "rss",
+            "_title": "PaulStamatiou.com - Technology, Design and Photography"
+          }
+        ],
+        "_title": "Web Tech and Design",
+        "_text": "Web Tech and Design"
+      }
+    ]
+  },
+  "_version": "2.0"
+}

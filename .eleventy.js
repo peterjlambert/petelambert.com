@@ -9,12 +9,11 @@ const EleventyPluginNavigation = require('@11ty/eleventy-navigation');
 const EleventyPluginRss = require('@11ty/eleventy-plugin-rss');
 const EleventyPluginSyntaxhighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const readingTime = require('eleventy-plugin-reading-time');
+const svgContents = require('eleventy-plugin-svg-contents');
 
 const filters = require('./utils/filters.js');
 const transforms = require('./utils/transforms.js');
 const shortcodes = require('./utils/shortcodes.js');
-
-const { resolve } = require('path');
 
 module.exports = function (eleventyConfig) {
   // Plugins
@@ -22,6 +21,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyPluginNavigation);
   eleventyConfig.addPlugin(EleventyPluginRss);
   eleventyConfig.addPlugin(EleventyPluginSyntaxhighlight);
+  eleventyConfig.addPlugin(svgContents);
+
   eleventyConfig.setServerOptions({
     // Default values are shown:
     // Opt-out of the live reload snippet
@@ -109,6 +110,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/assets/js');
   eleventyConfig.addPassthroughCopy({ 'src/public': '/' });
   eleventyConfig.addPassthroughCopy('src/admin/config.yml');
+
+  //Watch Sass
+  eleventyConfig.addWatchTarget('src/assets/scss/');
 
   return {
     templateFormats: ['md', 'njk', 'html', 'liquid'],

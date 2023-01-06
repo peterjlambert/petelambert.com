@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Feeds</title>
+  </head>
+  <body>
+    <outline text="Adventure" title="Travel &amp; Adventure">
+      <outline text="Nomadic Matt's Travel Site" type="rss" title="Nomadic Matt's Travel Site" htmlUrl="https://www.nomadicmatt.com/" xmlUrl="https://www.nomadicmatt.com/feed/" />
+      <outline text="The Points Guy UK" title="The Points Guy UK" xmlUrl="https://thepointsguy.co.uk/feed/" htmlUrl="https://thepointsguy.co.uk" type="rss" />
+      <outline title="Turning left for less" htmlUrl="https://www.turningleftforless.com/" text="Turning left for less" xmlUrl="https://www.turningleftforless.com/feed/" type="rss" />
+      <outline title="Head for Points" text="Head for Points" type="rss" xmlUrl="https://www.headforpoints.com/feed" htmlUrl="https://www.headforpoints.com" />
+      <outline type="rss" xmlUrl="https://www.seat31b.com/feed/" title="Seat 31B" text="Seat 31B" htmlUrl="https://www.seat31b.com" />
+      <outline htmlUrl="https://www.flyertalk.com" text="FlyerTalk – The world's most popular frequent flyer community" type="rss" title="FlyerTalk – The world's most popular frequent flyer community" xmlUrl="https://www.flyertalk.com/feed" />
+      <outline text="Blog Archives - Alastair Humphreys" title="Blog Archives - Alastair Humphreys" htmlUrl="https://alastairhumphreys.com/category/blog/" type="rss" xmlUrl="http://www.alastairhumphreys.com/category/blog/feed/" />
+      <outline xmlUrl="https://expertvagabond.com/wp-json/wp/v2/pages/19658" text="expertvagabond.com" title="expertvagabond.com" htmlUrl="https://expertvagabond.com" type="rss" />
+      <outline title="Adventure Journal" xmlUrl="https://www.adventure-journal.com/feed/" text="Adventure Journal" htmlUrl="https://www.adventure-journal.com/" type="rss" />
+      <outline xmlUrl="https://theplanetd.com/feed/" htmlUrl="https://theplanetd.com/" text="The Planet D: Adventure Travel Blog" type="rss" title="The Planet D: Adventure Travel Blog" />
+      <outline type="rss" text="Local Adventurer » Travel Adventures in Las Vegas + World Wide" title="Local Adventurer » Travel Adventures in Las Vegas + World Wide" htmlUrl="https://localadventurer.com" xmlUrl="https://localadventurer.com/feed/" />
+      <outline xmlUrl="https://ordinarytraveler.com/wp-json/wp/v2/pages/1000662" text="ordinarytraveler.com" type="rss" htmlUrl="https://ordinarytraveler.com" title="ordinarytraveler.com" />
+    </outline>
+    <outline text="Interesting and Funny" title="Interesting &amp; Funny">
+      <outline text="xkcd.com" title="xkcd.com" xmlUrl="http://www.xkcd.com/rss.xml" type="rss" htmlUrl="https://xkcd.com/" />
+      <outline title="kottke.org" htmlUrl="http://kottke.org/" type="rss" xmlUrl="http://feeds.kottke.org/main" text="kottke.org" />
+    </outline>
+    <outline text="Music" title="Music">
+      <outline htmlUrl="https://americana-uk.com" title="Americana UK" xmlUrl="https://americana-uk.com/feed" type="rss" text="Americana UK" />
+      <outline htmlUrl="https://www.gear4music.com/blog/" title="Gear4music Blog" type="rss" text="Gear4music Blog" xmlUrl="https://www.gear4music.com/blog/feed/" />
+      <outline text="York Calling" title="York Calling" type="rss" xmlUrl="https://yorkcalling.co.uk/feed/" htmlUrl="https://yorkcalling.co.uk" />
+    </outline>
+    <outline text="Tech" title="Tech">
+      <outline type="rss" text="MacSparky" htmlUrl="https://www.macsparky.com/" xmlUrl="http://www.macsparky.com/feed" title="MacSparky" />
+      <outline title="Wirecutter: Reviews for the Real World" xmlUrl="http://feeds.feedburner.com/TheWirecutter" type="rss" text="Wirecutter: Reviews for the Real World" htmlUrl="https://www.nytimes.com/wirecutter" />
+      <outline text="Uses This" htmlUrl="https://usesthis.com/feed.atom" xmlUrl="http://usesthis.com/feed/" title="Uses This" type="rss" />
+      <outline xmlUrl="http://feedpress.me/512pixels" text="512 Pixels" type="rss" title="512 Pixels" htmlUrl="http://512pixels.net" />
+      <outline title="Tools and Toys" htmlUrl="http://toolsandtoys.net" text="Tools and Toys" type="rss" xmlUrl="http://toolsandtoys.net/feed/" />
+      <outline htmlUrl="https://sixcolors.com" text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" />
+      <outline type="rss" text="Documentally.com" title="Documentally.com" htmlUrl="http://documentally.com" xmlUrl="http://feeds.feedburner.com/Documentally" />
+      <outline title="The Sweet Setup" xmlUrl="http://thesweetsetup.com/feed/" type="rss" htmlUrl="https://thesweetsetup.com" text="The Sweet Setup" />
+      <outline xmlUrl="https://daringfireball.net/feeds/main" type="rss" htmlUrl="https://daringfireball.net/" text="Daring Fireball" title="Daring Fireball" />
+      <outline type="rss" htmlUrl="https://www.macrumors.com" xmlUrl="http://feeds.macrumors.com/MacRumors-All" text="MacRumors: Mac News and Rumors - All Stories" title="MacRumors: Mac News and Rumors - All Stories" />
+    </outline>
+    <outline title="Web Tech and Design" text="Web Tech &amp; Design">
+      <outline text="Rachel Andrew" type="rss" htmlUrl="https://rachelandrew.co.uk" title="Rachel Andrew" xmlUrl="https://rachelandrew.co.uk/archives/rss.php" />
+      <outline text="Codrops" title="Codrops" htmlUrl="https://tympanus.net/codrops" type="rss" xmlUrl="http://feeds2.feedburner.com/tympanus" />
+      <outline text="Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher." htmlUrl="https://stephaniewalter.design/" type="rss" title="Stéphanie Walter – Senior UX Designer, Mobile Expert, Conference Speaker, Blog writer and Teacher." xmlUrl="http://feedpress.me/stephaniewalter-blog-en" />
+      <outline type="rss" htmlUrl="https://tobiasahlin.com" text="Tobias Ahlin" xmlUrl="https://tobiasahlin.com/feed.xml" title="Tobias Ahlin" />
+      <outline text="Zeldman on Web and Interaction Design" htmlUrl="https://www.zeldman.com/" title="Zeldman on Web and Interaction Design" xmlUrl="http://www.zeldman.com/feed/" type="rss" />
+      <outline htmlUrl="https://ethanmarcotte.com/wrote/feed.xml" xmlUrl="https://ethanmarcotte.com/wrote/feed.xml" type="rss" text="Ethan Marcotte’s website" title="Ethan Marcotte’s website" />
+      <outline text="Manuel Matuzović - Web development blog" title="Manuel Matuzović - Web development blog" xmlUrl="https://www.matuzo.at/feed.xml?rev=1669185388178" htmlUrl="https://matuzo.at/feed.xml" type="rss" />
+      <outline text="Prototypr | Prototyping" type="rss" title="Prototypr | Prototyping" htmlUrl="https://prototypr.io" xmlUrl="https://prototypr.io/feed/" />
+      <outline text="macwright.com" xmlUrl="https://macwright.org/rss.xml" title="macwright.com" type="rss" htmlUrl="https://macwright.com" />
+      <outline xmlUrl="http://feather.ca/feed/" title="Derek Featherstone" type="rss" text="Derek Featherstone" htmlUrl="http://feather.ca" />
+      <outline text="Hicks Journal: Latest articles" type="rss" xmlUrl="https://hicks.design/feeds/journal/" title="Hicks Journal: Latest articles" htmlUrl="https://hicks.design/journal" />
+      <outline title="The Whimsical Web" xmlUrl="https://whimsical.club/feed.xml" htmlUrl="https://whimsical.club" text="The Whimsical Web" type="rss" />
+      <outline xmlUrl="https://timbenniks.dev/feed.xml" type="rss" title="Tim Benniks" text="Tim Benniks" htmlUrl="https://timbenniks.dev/feed.xml" />
+      <outline text="Articles on Smashing Magazine — For Web Designers And Developers" type="rss" title="Articles on Smashing Magazine — For Web Designers And Developers" htmlUrl="https://www.smashingmagazine.com/" xmlUrl="https://www.smashingmagazine.com/feed/" />
+      <outline xmlUrl="https://www.joshwcomeau.com/rss.xml" type="rss" htmlUrl="https://www.joshwcomeau.com/" title="Josh Comeau's blog" text="Josh Comeau's blog" />
+      <outline xmlUrl="https://adactio.com/journal/rss" text="Adactio: Journal" htmlUrl="https://adactio.com/journal/" title="Adactio: Journal" type="rss" />
+      <outline text="Snook.ca" htmlUrl="https://snook.ca/" xmlUrl="https://snook.ca/posts/index.rss" title="Snook.ca" type="rss" />
+      <outline xmlUrl="https://benfrain.com/feed/" text="Ben Frain" type="rss" title="Ben Frain" htmlUrl="https://benfrain.com" />
+      <outline text="Pete Lambert ~ Journal" title="Pete Lambert ~ Journal" htmlUrl="https://www.petelambert.com/feed.xml" type="rss" xmlUrl="https://www.petelambert.com/feed.xml" />
+      <outline type="rss" text="Brad Frost" title="Brad Frost" htmlUrl="https://bradfrost.com" xmlUrl="http://feeds.feedburner.com/brad-frosts-blog" />
+      <outline title="cassie.codes" text="cassie.codes" htmlUrl="https://cassie.codes/feed.xml" xmlUrl="https://www.cassie.codes/feed.xml" type="rss" />
+      <outline htmlUrl="https://www.zachleat.com/web/notes/feed/" title="Zach Leatherman’s Notes" text="Zach Leatherman’s Notes" xmlUrl="https://www.zachleat.com/web/notes/feed/" type="rss" />
+      <outline xmlUrl="https://sallylait.com/blog/index.xml" title="Sally Lait - blog" type="rss" htmlUrl="https://sallylait.com/blog/" text="Sally Lait - blog" />
+      <outline htmlUrl="https://css-tricks.com" xmlUrl="http://feeds.feedburner.com/CssTricks" text="CSS-Tricks" type="rss" title="CSS-Tricks" />
+      <outline title="CSS In Real Life" text="CSS In Real Life" htmlUrl="https://css-irl.info/rss.xml/" xmlUrl="https://css-irl.info/rss.xml" type="rss" />
+      <outline type="rss" htmlUrl="https://wesbos.com" text="Wes Bos" xmlUrl="http://feeds.feedburner.com/wesbos/ZXAx" title="Wes Bos" />
+      <outline text="Mozilla Hacks – the Web developer blog" xmlUrl="https://hacks.mozilla.org/feed/" htmlUrl="https://hacks.mozilla.org/" title="Mozilla Hacks – the Web developer blog" type="rss" />
+      <outline text="Pine" type="rss" xmlUrl="https://pineco.de/feed/" htmlUrl="https://pineco.de/" title="Pine" />
+      <outline type="rss" title="Stuff &amp; Nonsense | And All That Malarkey" text="Stuff &amp; Nonsense | And All That Malarkey" htmlUrl="https://stuffandnonsense.co.uk/blog" xmlUrl="https://stuffandnonsense.co.uk/blog/feed" />
+      <outline htmlUrl="https://matthiasott.com/" xmlUrl="https://matthiasott.com/feed" type="rss" text="Matthias Ott – User Experience Designer" title="Matthias Ott – User Experience Designer" />
+      <outline title="Lea Verou" type="rss" xmlUrl="http://lea.verou.me/feed/" text="Lea Verou" htmlUrl="https://lea.verou.me" />
+      <outline type="rss" xmlUrl="http://timkadlec.com/atom.xml" text="TimKadlec.com on Web Performance Consulting | TimKadlec.com" htmlUrl="https://timkadlec.com/" title="TimKadlec.com on Web Performance Consulting | TimKadlec.com" />
+      <outline type="rss" htmlUrl="https://www.smashingmagazine.com/category/css/index.xml" xmlUrl="https://www.smashingmagazine.com/category/css/index.xml" title="CSS on Smashing Magazine — For Web Designers And Developers" text="CSS on Smashing Magazine — For Web Designers And Developers" />
+      <outline title="HeydonWorks" text="HeydonWorks" xmlUrl="http://www.heydonworks.com/feed" type="rss" htmlUrl="https://heydonworks.com" />
+      <outline htmlUrl="https://www.impressivewebs.com/" text="Impressive Webs" title="Impressive Webs" xmlUrl="https://www.impressivewebs.com/feed/" type="rss" />
+      <outline title="Modern CSS Solutions" htmlUrl="https://moderncss.dev/feed/" type="rss" text="Modern CSS Solutions" xmlUrl="https://moderncss.dev/feed/" />
+    </outline>
+  </body>
+</opml>

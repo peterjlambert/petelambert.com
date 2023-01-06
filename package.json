@@ -10,7 +10,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
     "watch": "npx @11ty/eleventy --watch",
-    "watch:sass": "npx sass sass:_site/css --watch",
+    "watch:sass": "npx sass sass:_src/assets/scss --watch",
     "serve": "npx @11ty/eleventy --serve",
     "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
     "build": "npx @11ty/eleventy",
@@ -55,6 +55,13 @@
     "postcss-nesting": "^10.1.10",
     "sass": "^1.53.0",
     "url-join": "^5.0.0",
-    "vite": "^3.0.0"
+    "vite": "^3.0.0",
+    "@jamshop/eleventy-filter-dump": "^1.0.4",
+    "eleventy-plugin-svg-contents": "^0.7.0",
+    "fast-xml-parser": "^4.0.12",
+    "node-fetch": "^3.3.0",
+    "xml2js": "^0.4.23"
+  },
+  "dependencies": {
   }
 }

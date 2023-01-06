@@ -1,0 +1,29 @@
+---
+title: Blogroll
+permalink: blogroll.html
+layout: page
+---
+
+
+<p>Below is a list of blogs and feeds that I follow. This is basically my RSS reader's OPML file <a href="https://github.com/peterjlambert/feeds">which you can download here</a>, should you want to subscribe to all the same feeds) I've tried to categorize them as best as I can. If you have any suggestions for additions, please let me know.</p>
+
+{% if feeds.body.outline  %}
+  {% for item in feeds.body.outline %}
+    
+    <h2>{{ item._title }}</h2>
+    <ul >
+      {% for feed in item.outline %}
+        <li>
+          <a href="{{ feed._url }}" class="feedsList__title">{{ feed._title }}</a>
+          <a href="{{feed._xmlUrl}}" aria-label="RSS feed for {{feed._title}}" class="icon__link">
+            {{ '/src/assets/icons/rss.svg' | svgContents('icon') | safe }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% else %}
+  <p>There are no feeds in this collection.</p>
+{% endif %}
+
+</div>

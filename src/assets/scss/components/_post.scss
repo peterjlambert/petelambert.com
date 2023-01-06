@@ -8,35 +8,4 @@
   img {
     max-width: 100%;
   }
-
-  ul,
-  ol {
-    list-style-type: disc;
-    padding-left: 0;
-
-    ::marker {
-      color: var(--borderColor);
-    }
-    @media (max-width: 640px) {
-      padding-left: 1em;
-    }
-  }
-  ul {
-    ::marker {
-      content: '❥';
-      content: '✪';
-    }
-  }
-
-  li {
-    margin-bottom: 0.5em;
-    margin-left: 1rem;
-    padding-left: 0.75rem;
-  }
-
-  h2,
-  h3 {
-    padding-bottom: 0.5em;
-    padding-top: 1em;
-  }
 }
