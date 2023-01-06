@@ -37,7 +37,8 @@ a {
   color: var(--foregroundColor);
   text-decoration: underline;
   text-decoration-color: var(--secondaryColor);
-  text-decoration-thickness: 2px;
+  text-decoration-thickness: 0.1rem;
+  text-underline-offset: .2rem;
   transition: 0.3s all ease;
   &:hover {
     color: var(--linkColor);
