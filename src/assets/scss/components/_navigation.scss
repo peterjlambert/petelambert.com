@@ -1,5 +1,11 @@
 .navigation {
   background-color: var(--contrastBackgroundColor);
+  background: var(--backgroundComp);
+  background-size: cover;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
   color: var(--contrastForegroundColor);
   position: sticky;
   top: 0;
@@ -11,7 +17,7 @@
 .navigation__list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: center;
   list-style: none;
   padding-bottom: 0;
   width: 100%;
@@ -31,7 +37,7 @@
   display: flex;
   font-size: var(--fsLittle);
   font-family: var(--ffNav);
-  font-weight: var(--fwReg);
+  font-weight: var(--fwSemiBold);
   padding: 1rem 0.75rem;
   text-decoration: none;
   transition: 0.3s ease-in-out all;
@@ -76,7 +82,7 @@
 .navigation__item--current:not(.navigation__item--home) {
   position: relative;
   &::after {
-    border-bottom: 2px solid var(--contrastLinkColor);
+    border-bottom: 4px solid var(--contrastLinkColor);
     bottom: 0;
     content: '';
     left: 0;

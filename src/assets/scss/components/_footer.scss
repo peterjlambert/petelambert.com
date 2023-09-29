@@ -1,5 +1,9 @@
 .footer {
-  background-color: var(--contrastBackgroundColor);
+  background: var(--backgroundComp);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   -webkit-clip-path: polygon(0 3rem, 100% 0%, 100% 100%, 0% 100%);
   clip-path: polygon(0 3rem, 100% 0%, 100% 100%, 0% 100%);
   color: var(--contrastForegroundColor);
@@ -8,8 +12,10 @@
   justify-content: center;
   gap: 2rem;
   align-self: center;
+  margin-top: auto;
   padding-top: 5rem;
   padding-bottom: 3rem;
+  width: 100%;
 }
 
 .footer__credits {

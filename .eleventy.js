@@ -23,6 +23,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(EleventyPluginSyntaxhighlight);
   eleventyConfig.addPlugin(svgContents);
 
+  // Copy `assets/images/` to `_site/assets/images`
+  // Keeps the same directory structure.
+  eleventyConfig.addPassthroughCopy('src/assets/images');
+
   eleventyConfig.setServerOptions({
     // Default values are shown:
     // Opt-out of the live reload snippet

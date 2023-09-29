@@ -1,9 +1,14 @@
 body {
-  background-color: var(--contrastBackgroundColor);
+  // background-color: var(--backgroundColor);
+  background-image: var(--backgroundOverlay), var(--backgroundOverlay),
+    var(--backgroundImage);
+  background-size: cover;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .site {
-  background-color: var(--backgroundColor);
   color: var(--foregroundColor);
   font-size: var(--baseFontSize);
   overflow-x: hidden;
