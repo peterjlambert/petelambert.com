@@ -30,7 +30,7 @@ Senior User Experience Engineer with over 24 years of experience specializing in
 
 ### Senior UI/UX Engineer
 
-<p class="meta"><a href="https://logikcull.com">Logikcull</a> &mdash; 2010 to Present</p>
+<p class="meta meta--left"><a href="https://logikcull.com">Logikcull</a> &mdash; 2010 to Present</p>
 
 - Lead the design and UI development of a disruptive LegalTech product from its inception.
 - Collaborated extensively across engineering, product, and design departments, working directly with VPs and C-level staff.
@@ -42,14 +42,14 @@ Senior User Experience Engineer with over 24 years of experience specializing in
 
 ### Freelance UX/UI Designer &amp; Developer
 
-<p class="meta">Self Employed &mdash; April 2006 to October 2010</p>
+<p class="meta meta--left">Self Employed &mdash; April 2006 to October 2010</p>
 
 - Offered consultancy services for diverse early-stage Y-Combinator startups in San Francisco.
 - Delivered high-quality design and front-end build for products including music tools, news outlets, hiring platforms, and gaming sites.
 
 ### Web Designer
 
-<p class="meta">Jarvis PLC / Agilisys Ltd &mdash; June 2001 to March 2010</p>
+<p class="meta meta--left">Jarvis PLC / Agilisys Ltd &mdash; June 2001 to March 2010</p>
 
 - Designed, developed, and maintained web and intranet sites catering to an organization of over 8000 staff in the railways and infrastructure industries
 - Ensured consistent brand representation and user-friendly navigation across properties and products.
@@ -58,7 +58,7 @@ Senior User Experience Engineer with over 24 years of experience specializing in
 
 ### BSc (Hons) Media Technology
 
-<p class="meta">University of Lincolnshire &amp; Humberside &mdash; 1998 to 2001</p>
+<p class="meta meta--left">University of Lincolnshire &amp; Humberside &mdash; 1998 to 2001</p>
 
 ## Personal Interests
 
